@@ -748,7 +748,7 @@
 {
 "titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 "isHiddenTimer":true,
-"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 ,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
 "pauseTimer":"3",
 "timer":"2",
@@ -758,7 +758,7 @@
 {
 "titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/354.png",
 "isHiddenTimer":true,
-"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 ,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
 "pauseTimer":"3",
 "timer":"2",
@@ -768,7 +768,7 @@
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/546.png",
 			"isHiddenTimer":true,
-			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png",
 			"pauseTimer":"3",
 			"timer":"2",
@@ -778,7 +778,7 @@
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/546.png",
 			"isHiddenTimer":true,
-			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
 			"pauseTimer":"3",
 			"timer":"2",
@@ -788,7 +788,7 @@
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/647.png",
 			"isHiddenTimer":true,
-			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png",
 			"pauseTimer":"3",
 			"timer":"2",
@@ -796,9 +796,9 @@
 			"type":"images"
 		},
 {
-"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/546.png",
 "isHiddenTimer":true,
-"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 ,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
 "pauseTimer":"3",
 "timer":"2",
@@ -808,7 +808,7 @@
 {
 "titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/354.png",
 "isHiddenTimer":true,
-"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 ,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
 "pauseTimer":"3",
 "timer":"2",
@@ -818,7 +818,7 @@
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/546.png",
 			"isHiddenTimer":true,
-			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png",
 			"pauseTimer":"3",
 			"timer":"2",
@@ -828,7 +828,7 @@
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/546.png",
 			"isHiddenTimer":true,
-			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
 			"pauseTimer":"3",
 			"timer":"2",
@@ -838,7 +838,7 @@
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/647.png",
 			"isHiddenTimer":true,
-			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/Images/null.png"}]
+			"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png",
 			"pauseTimer":"3",
 			"timer":"2",
