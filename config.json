@@ -1,0 +1,828 @@
+{
+	"tokens": {
+		"service_id": "service_hwg5cxj",
+		"template_id": "template_qovhgs2",
+		"user_id": "user_TSlEgXKUKLGovHc9DeXfa"
+	},
+	"config": [
+		{
+			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+			"type": "question",
+			"timer": 10,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "1",
+					"text": "1"
+				},
+				{
+					"id": "2",
+					"text": "2"
+				},
+				{
+					"id": "3",
+					"text": "3"
+				},
+				{
+					"id": "4",
+					"text": "4"
+				},
+				{
+					"id": "5",
+					"text": "5"
+				},
+				{
+					"id": "6",
+					"text": "6"
+				},
+				{
+					"id": "7",
+					"text": "7"
+				},
+				{
+					"id": "8",
+					"text": "8"
+				},
+				{
+					"id": "9",
+					"text": "9"
+				},
+				{
+					"id": "10",
+					"text": "10"
+				},
+				{
+					"id": "11",
+					"text": "11"
+				},
+				{
+					"id": "12",
+					"text": "12"
+				},
+				{
+					"id": "13",
+					"text": "13"
+				},
+				{
+					"id": "14",
+					"text": "14"
+				},
+				{
+					"id": "15",
+					"text": "15"
+				},
+				{
+					"id": "16",
+					"text": "16"
+				},
+				{
+					"id": "17",
+					"text": "17"
+				},
+				{
+					"id": "18",
+					"text": "18"
+				},
+				{
+					"id": "19",
+					"text": "19"
+				},
+				{
+					"id": "20",
+					"text": "20"
+				},
+				{
+					"id": "21",
+					"text": "21"
+				},
+				{
+					"id": "22",
+					"text": "22"
+				},
+				{
+					"id": "23",
+					"text": "23"
+				},
+				{
+					"id": "24",
+					"text": "24"
+				},
+				{
+					"id": "25",
+					"text": "25"
+				},
+				{
+					"id": "26",
+					"text": "26"
+				},
+				{
+					"id": "27",
+					"text": "27"
+				},
+				{
+					"id": "28",
+					"text": "28"
+				},
+				{
+					"id": "29",
+					"text": "29"
+				},
+				{
+					"id": "30",
+					"text": "30"
+				},
+				{
+					"id": "31",
+					"text": "31"
+				}
+			]
+		},
+		{
+			"title": "Registration. Please choose one letter from the list below which relates to your name.",
+			"type": "question",
+			"timer": 10,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "A",
+					"text": "A"
+				},
+				{
+					"id": "B",
+					"text": "B"
+				},
+				{
+					"id": "C",
+					"text": "C"
+				},
+				{
+					"id": "D",
+					"text": "D"
+				},
+				{
+					"id": "E",
+					"text": "E"
+				},
+				{
+					"id": "F",
+					"text": "F"
+				},
+				{
+					"id": "G",
+					"text": "G"
+				},
+				{
+					"id": "H",
+					"text": "H"
+				},
+				{
+					"id": "I",
+					"text": "I"
+				},
+				{
+					"id": "J",
+					"text": "J"
+				},
+				{
+					"id": "K",
+					"text": "K"
+				},
+				{
+					"id": "L",
+					"text": "L"
+				},
+				{
+					"id": "M",
+					"text": "M"
+				},
+				{
+					"id": "N",
+					"text": "N"
+				},
+				{
+					"id": "O",
+					"text": "O"
+				},
+				{
+					"id": "P",
+					"text": "P"
+				},
+				{
+					"id": "Q",
+					"text": "Q"
+				},
+				{
+					"id": "R",
+					"text": "R"
+				},
+				{
+					"id": "S",
+					"text": "S"
+				},
+				{
+					"id": "T",
+					"text": "T"
+				},
+				{
+					"id": "U",
+					"text": "U"
+				},
+				{
+					"id": "V",
+					"text": "V"
+				},
+				{
+					"id": "W",
+					"text": "W"
+				},
+				{
+					"id": "X",
+					"text": "X"
+				},
+				{
+					"id": "Y",
+					"text": "Y"
+				},
+				{
+					"id": "Z",
+					"text": "Z"
+				}
+			]
+		},
+		{
+			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research!",
+			"type": "message",
+			"isHiddenTimer": true,
+			"timer": 15
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 kiwis",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+				}
+			]
+		},
+{
+"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+"isHiddenTimer":true,
+
+,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+"pauseTimer":"3",
+"timer":"2",
+"ignoreAnswer":true,
+"type":"images"},
+
+
+{
+"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/546.png",
+"isHiddenTimer":true,
+
+"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+"pauseTimer":"3",
+"timer":"2",
+"ignoreAnswer":true,
+"type":"images"},
+
+{
+"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/546.png",
+"isHiddenTimer":true,
+"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+"pauseTimer":"3",
+"timer":"2",
+"ignoreAnswer":true,
+"type":"images"},
+
+			{
+				"title":"  6   4   7",
+				"timer":"3",
+				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
+				"isHiddenTimer":true,
+				"type":"message"
+			},
+			{
+				"title":"  4   5   6",
+				"timer":"3",
+				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+				"isHiddenTimer":true,
+				"type":"message"
+			},
+			{
+				"title":"  5   3   2",
+				"timer":"3",
+				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+				"isHiddenTimer":true,
+				"type":"message"
+			},
+			{
+				"title":"  5   4   6",
+				"timer":"3",
+				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+				"isHiddenTimer":true,
+				"type":"message"
+			},
+			{
+				"title":"  3   5   4",
+				"timer":"3",
+				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png",
+				"isHiddenTimer":true,
+				"type":"message"
+			},
+			{
+				"title":"  6   4   7",
+				"timer":"3",
+				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
+				"isHiddenTimer":true,
+				"type":"message"
+			},
+			{
+				"title":"  4   5   6",
+				"timer":"3",
+				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+				"isHiddenTimer":true,
+				"type":"message"
+			}
+	]
+}
