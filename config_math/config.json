@@ -745,13 +745,15 @@
 				}
 			]
 		},
-			{
-				"title":"  5   3   2",
-				"timer":"3",
-				"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
-				"isHiddenTimer":true,
-				"type":"message"
-			},
+{
+"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3+4.png",
+"isHiddenTimer":true,
+"options":[{"id":"3","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png"}]
+,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+"pauseTimer":"3",
+"timer":"2",
+"ignoreAnswer":true,
+"type":"images"},
 			{
 				"title":"  5   4   6",
 				"timer":"3",
