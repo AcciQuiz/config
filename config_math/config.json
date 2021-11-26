@@ -754,7 +754,8 @@
 		"timer":"2",
 		"type":"images"},
 		{
-		"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "5",
@@ -774,14 +775,17 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
 				]
-,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
-"pauseTimer":"2",
-"timer":"15",
-"type":"images"},
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+		"pauseTimer":"2",
+		"timer":"15",
+		"type":"images"
+		},
 
 		{
-			"isHiddenTimer":true,
-						"options": [
+		"title":"Please select the number ",
+		"isHiddenTimer":false,
+		"options": 
+			[
 				{
 					"id": "5(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
