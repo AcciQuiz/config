@@ -782,7 +782,7 @@
 		},
 
 		{
-		"title":"Please select the number ",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -810,7 +810,8 @@
 			"type":"images"
 		},
 		{
-			"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "3",
@@ -836,8 +837,8 @@
 			"type":"images"
 		},
 		{
-
-			"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "5",
@@ -863,7 +864,8 @@
 			"type":"images"
 		},
 {
-"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "4",
@@ -883,13 +885,14 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
 				]
-,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
-"pauseTimer":"2",
-"timer":"10",
-"type":"images"},
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+			"pauseTimer":"2",
+			"timer":"10",
+			"type":"images"},
 
 {
-"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "5",
@@ -909,13 +912,14 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
 				]
-,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
-"pauseTimer":"2",
-"timer":"10",
-"type":"images"},
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+		"pauseTimer":"2",
+		"timer":"10",
+		"type":"images"},
 
 		{
-			"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "5(+)",
@@ -941,7 +945,8 @@
 			"type":"images"
 		},
 		{
-			"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "3",
@@ -967,7 +972,8 @@
 			"type":"images"
 		},
 		{
-			"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "5",
@@ -992,7 +998,8 @@
 			"type":"images"
 		},
 		{
-			"isHiddenTimer":true,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "4",
