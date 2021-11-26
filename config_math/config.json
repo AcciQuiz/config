@@ -775,7 +775,7 @@
 				}
 				]
 ,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
-"pauseTimer":"3",
+"pauseTimer":"2",
 "timer":"6",
 "type":"images"},
 
@@ -801,7 +801,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png",
-			"pauseTimer":"3",
+			"pauseTimer":"2",
 			"timer":"6",
 			"type":"images"
 		},
@@ -827,7 +827,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
-			"pauseTimer":"3",
+			"pauseTimer":"2",
 			"timer":"6",
 			"type":"images"
 		},
@@ -854,7 +854,7 @@
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png",
-			"pauseTimer":"3",
+			"pauseTimer":"2",
 			"timer":"6",
 			"type":"images"
 		},
@@ -880,7 +880,7 @@
 				}
 				]
 ,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
-"pauseTimer":"3",
+"pauseTimer":"2",
 "timer":"6",
 "type":"images"},
 
@@ -906,7 +906,7 @@
 				}
 				]
 ,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
-"pauseTimer":"3",
+"pauseTimer":"2",
 "timer":"6",
 "type":"images"},
 
@@ -932,7 +932,7 @@
 }
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png",
-			"pauseTimer":"3",
+			"pauseTimer":"2",
 			"timer":"6",
 			"type":"images"
 		},
@@ -957,7 +957,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
-			"pauseTimer":"3",
+			"pauseTimer":"2",
 			"timer":"6",
 			"ignoreAnswer":true,
 			"type":"images"
@@ -983,7 +983,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png",
-			"pauseTimer":"3",
+			"pauseTimer":"2",
 			"timer":"6",
 			"type":"images"
 		},
@@ -1008,7 +1008,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"3",
+			"pauseTimer":"2",
 			"timer":"7",
 			"type":"images"
 		}
