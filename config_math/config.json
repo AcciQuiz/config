@@ -749,7 +749,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -776,7 +776,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -803,7 +803,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -830,7 +830,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -857,7 +857,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -884,7 +884,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -911,7 +911,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -938,7 +938,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -964,7 +964,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -990,7 +990,7 @@
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7+2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
