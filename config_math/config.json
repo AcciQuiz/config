@@ -968,7 +968,6 @@
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.gif",
 			"pauseTimer":"6",
 			"timer":"10",
-			"ignoreAnswer":true,
 			"type":"images"
 		},
 		{
