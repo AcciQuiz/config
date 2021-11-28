@@ -745,7 +745,7 @@
 				}
 			]
 		},
-{
+		{
 			"title": "Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8+2.png",
 			"type": "images",
@@ -1011,5 +1011,6 @@
 					"id": "9(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
 				}
-	]
+			]
+		}
 }
