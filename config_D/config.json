@@ -754,7 +754,7 @@
 		"timer":"2",
 		"type":"images"},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -781,7 +781,7 @@
 		"type":"images"
 		},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -808,7 +808,7 @@
 			"type":"images"
 		},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -834,7 +834,7 @@
 			"type":"images"
 		},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -860,7 +860,7 @@
 			"type":"images"
 		},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -885,7 +885,7 @@
 			"timer":"10",
 			"type":"images"},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -912,7 +912,7 @@
 		"type":"images"},
 
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -939,7 +939,7 @@
 			"type":"images"
 		},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -965,7 +965,7 @@
 			"type":"images"
 		},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -991,7 +991,7 @@
 			"type":"images"
 		},
 		{
-		"title":"candy select the number below corresponding to the number of points presented",
+		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
