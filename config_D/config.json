@@ -777,7 +777,7 @@
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7v3.png",
 		"pauseTimer":"1",
-		"timer":"15",
+		"timer":"20",
 		"type":"images"
 		},
 		{
@@ -804,7 +804,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5v3.png",
 			"pauseTimer":"1",
-			"timer":"15",
+			"timer":"20",
 			"type":"images"
 		},
 		{
@@ -830,7 +830,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4v3.png",
 			"pauseTimer":"1",
-			"timer":"10",
+			"timer":"20",
 			"type":"images"
 		},
 		{
@@ -856,7 +856,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6v3.png",
 			"pauseTimer":"1",
-			"timer":"10",
+			"timer":"20",
 			"type":"images"
 		},
 		{
@@ -882,7 +882,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
 			"pauseTimer":"1",
-			"timer":"10",
+			"timer":"20",
 			"type":"images"},
 		{
 		"title":"Please select the number below corresponding to the number of points presented",
@@ -908,7 +908,7 @@
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7v3.png",
 		"pauseTimer":"1",
-		"timer":"10",
+		"timer":"20",
 		"type":"images"},
 
 		{
@@ -935,7 +935,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5v3.png",
 			"pauseTimer":"1",
-			"timer":"10",
+			"timer":"20",
 			"type":"images"
 		},
 		{
@@ -961,7 +961,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4v3.png",
 			"pauseTimer":"1",
-			"timer":"10",
+			"timer":"20",
 			"type":"images"
 		},
 		{
@@ -987,7 +987,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6v3.png",
 			"pauseTimer":"1",
-			"timer":"10",
+			"timer":"20",
 			"type":"images"
 		},
 		{
@@ -1013,7 +1013,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"pauseTimer":"1",
-			"timer":"10",
+			"timer":"20",
 			"type":"images"
 		}
 	]
