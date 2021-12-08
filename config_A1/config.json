@@ -307,7 +307,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -356,7 +356,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -405,7 +405,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -454,7 +454,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -503,7 +503,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -552,7 +552,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -601,7 +601,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -650,7 +650,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -699,7 +699,7 @@
 		{
 			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
