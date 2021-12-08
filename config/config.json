@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
-			"timer": 10,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -140,7 +140,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 10,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -250,15 +250,15 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research!",
+			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 15
+			"timer": 12
 		},
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -307,7 +307,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -356,7 +356,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -405,7 +405,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -454,7 +454,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -503,7 +503,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -552,7 +552,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -601,7 +601,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -650,7 +650,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -699,7 +699,7 @@
 		{
 			"title": "Counting from 1 to 10 balls",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -746,9 +746,9 @@
 			]
 		},
 		{
-			"title": "Apple",
+			"title": "Mela",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -757,7 +757,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
 				},
 				{
-					"id": "Apple (+)",
+					"id": "Mela (+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/apple.png"
 				},
 				{
@@ -774,7 +774,7 @@
 		{
 			"title": "Banana",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -797,14 +797,14 @@
 			]
 		},
 		{
-			"title": "Tomato",
+			"title": "Pomodoro",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "Tomato (+)",
+					"id": "Pomodoro (+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
 				},
 				{
@@ -823,9 +823,9 @@
 			]
 		},
 		{
-			"title": "Grapes",
+			"title": "Uva",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -839,7 +839,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/potato.png"
 				},
 				{
-					"id": "Grapes (+)",
+					"id": "Uva (+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
 				},
 				{
@@ -851,7 +851,7 @@
 		{
 			"title": "Potato",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -875,9 +875,9 @@
 			]
 		},
 		{
-			"title": "Bread",
+			"title": "Pane",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -886,7 +886,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bisquit.png"
 				},
 				{
-					"id": "Bread (+)",
+					"id": "Pane (+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bread.png"
 				},
 				{
@@ -903,7 +903,7 @@
 		{
 			"title": "Kiwi",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -927,9 +927,9 @@
 			]
 		},
 		{
-			"title": "Cheese",
+			"title": "Formaggio",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -942,7 +942,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
-					"id": "Cheese (+)",
+					"id": "Formaggio (+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/cheese.png"
 				},
 				{
@@ -952,9 +952,9 @@
 			]
 		},
 		{
-			"title": "Candy",
+			"title": "Caramella",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -971,15 +971,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
 				},
 				{
-					"id": "Candy (+)",
+					"id": "Caramella (+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				}
 			]
 		},
 		{
-			"title": "Biscuits",
+			"title": "Biscotti",
 			"type": "images",
-			"timer": 20,
+			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -988,7 +988,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
 				},
 				{
-					"id": "Biscuits (+)",
+					"id": "Biscotti (+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bisquit.png"
 				},
 				{
