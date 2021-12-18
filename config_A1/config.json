@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
-			"timer": 12,
+			"timer": 10,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -140,7 +140,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 12,
+			"timer": 10,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -256,15 +256,15 @@
 			"timer": 15
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
@@ -305,19 +305,19 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
@@ -354,23 +354,23 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
@@ -403,27 +403,27 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "5",
@@ -452,31 +452,31 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "6",
@@ -501,35 +501,35 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "7",
@@ -550,39 +550,39 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "8",
@@ -599,43 +599,43 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "9",
@@ -648,47 +648,47 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "10",
@@ -697,57 +697,57 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 grapess",
+			"title": "Counting from 1 to 10 bananas",
 			"type": "images",
-			"timer": 3,
+			"timer": 5,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				},
 				{
 					"id": "10",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				}
 			]
 		},
 		{
 			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2+3.png",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+7.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -774,7 +774,7 @@
 		},
 		{
 			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+4.png",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3+3.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -793,22 +793,22 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				},
 				{
-					"id": "8(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+					"id": "6(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				}
 			]
 		},
 		{
 			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+4.png",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3+4.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "10(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				},
 				{
 					"id": "6",
@@ -826,7 +826,7 @@
 		},
 		{
 			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8+2.png",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7+3.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -852,7 +852,7 @@
 		},
 		{
 			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1+1.png",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+3.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -871,8 +871,8 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
 				},
 				{
-					"id": "2(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
 			]
 		},
@@ -904,15 +904,15 @@
 		},
 		{
 			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+4.png",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7+3.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "8(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+					"id": "10(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
 				},
 				{
 					"id": "9",
@@ -924,60 +924,8 @@
 				},
 				
 				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
-				}
-			]
-		},
-		{
-			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3+2.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
 					"id": "8",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-				},
-				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
-				},
-				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
-				},
-				{
-					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-				}
-			]
-		},
-		{
-			"title": "Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+4.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
-				},
-				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-				},
-				{
-					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-				},
-				{
-					"id": "10(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
 				}
 			]
 		},
@@ -994,8 +942,60 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
 				},
 				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
 					"id": "9(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+				}
+			]
+		},
+		{
+			"title": "Give an answer",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3+3.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+				},
+				{
+					"id": "6(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+				}
+			]
+		},
+		{
+			"title": "Give an answer",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+3.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+				},
+				{
+					"id": "8(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
 				},
 				
 				{
