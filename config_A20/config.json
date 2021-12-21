@@ -1,0 +1,999 @@
+{
+	"tokens": {
+		"service_id": "service_hwg5cxj",
+		"template_id": "template_qovhgs2",
+		"user_id": "user_TSlEgXKUKLGovHc9DeXfa"
+	},
+	"config": [
+		{
+			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+			"type": "question",
+			"timer": 10,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "1",
+					"text": "1"
+				},
+				{
+					"id": "2",
+					"text": "2"
+				},
+				{
+					"id": "3",
+					"text": "3"
+				},
+				{
+					"id": "4",
+					"text": "4"
+				},
+				{
+					"id": "5",
+					"text": "5"
+				},
+				{
+					"id": "6",
+					"text": "6"
+				},
+				{
+					"id": "7",
+					"text": "7"
+				},
+				{
+					"id": "8",
+					"text": "8"
+				},
+				{
+					"id": "9",
+					"text": "9"
+				},
+				{
+					"id": "10",
+					"text": "10"
+				},
+				{
+					"id": "11",
+					"text": "11"
+				},
+				{
+					"id": "12",
+					"text": "12"
+				},
+				{
+					"id": "13",
+					"text": "13"
+				},
+				{
+					"id": "14",
+					"text": "14"
+				},
+				{
+					"id": "15",
+					"text": "15"
+				},
+				{
+					"id": "16",
+					"text": "16"
+				},
+				{
+					"id": "17",
+					"text": "17"
+				},
+				{
+					"id": "18",
+					"text": "18"
+				},
+				{
+					"id": "19",
+					"text": "19"
+				},
+				{
+					"id": "20",
+					"text": "20"
+				},
+				{
+					"id": "21",
+					"text": "21"
+				},
+				{
+					"id": "22",
+					"text": "22"
+				},
+				{
+					"id": "23",
+					"text": "23"
+				},
+				{
+					"id": "24",
+					"text": "24"
+				},
+				{
+					"id": "25",
+					"text": "25"
+				},
+				{
+					"id": "26",
+					"text": "26"
+				},
+				{
+					"id": "27",
+					"text": "27"
+				},
+				{
+					"id": "28",
+					"text": "28"
+				},
+				{
+					"id": "29",
+					"text": "29"
+				},
+				{
+					"id": "30",
+					"text": "30"
+				},
+				{
+					"id": "31",
+					"text": "31"
+				}
+			]
+		},
+		{
+			"title": "Registration. Please choose one letter from the list below which relates to your name.",
+			"type": "question",
+			"timer": 10,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "A",
+					"text": "A"
+				},
+				{
+					"id": "B",
+					"text": "B"
+				},
+				{
+					"id": "C",
+					"text": "C"
+				},
+				{
+					"id": "D",
+					"text": "D"
+				},
+				{
+					"id": "E",
+					"text": "E"
+				},
+				{
+					"id": "F",
+					"text": "F"
+				},
+				{
+					"id": "G",
+					"text": "G"
+				},
+				{
+					"id": "H",
+					"text": "H"
+				},
+				{
+					"id": "I",
+					"text": "I"
+				},
+				{
+					"id": "J",
+					"text": "J"
+				},
+				{
+					"id": "K",
+					"text": "K"
+				},
+				{
+					"id": "L",
+					"text": "L"
+				},
+				{
+					"id": "M",
+					"text": "M"
+				},
+				{
+					"id": "N",
+					"text": "N"
+				},
+				{
+					"id": "O",
+					"text": "O"
+				},
+				{
+					"id": "P",
+					"text": "P"
+				},
+				{
+					"id": "Q",
+					"text": "Q"
+				},
+				{
+					"id": "R",
+					"text": "R"
+				},
+				{
+					"id": "S",
+					"text": "S"
+				},
+				{
+					"id": "T",
+					"text": "T"
+				},
+				{
+					"id": "U",
+					"text": "U"
+				},
+				{
+					"id": "V",
+					"text": "V"
+				},
+				{
+					"id": "W",
+					"text": "W"
+				},
+				{
+					"id": "X",
+					"text": "X"
+				},
+				{
+					"id": "Y",
+					"text": "Y"
+				},
+				{
+					"id": "Z",
+					"text": "Z"
+				}
+			]
+		},
+		{
+			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research!",
+			"type": "message",
+			"isHiddenTimer": true,
+			"timer": 15
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Counting from 1 to 10 balls",
+			"type": "images",
+			"timer": 5,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "2",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "3",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "4",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "7",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "8",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "9",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				},
+				{
+					"id": "10",
+					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Apple",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Grapes",
+					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+				},
+				{
+					"id": "Potato",
+					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+				},
+				{
+					"id": "Apple (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+				},
+				{
+					"id": "Banana",
+					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Banana",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Apple",
+					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+				},
+				{
+					"id": "Tomato",
+					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
+				},
+				{
+					"id": "Grapes",
+					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+				},
+				{
+					"id": "Banana (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Tomato",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Potato",
+					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+				},
+				{
+					"id": "Grapes",
+					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+				},
+				{
+					"id": "Tomato (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
+				},
+				{
+					"id": "Apple",
+					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Grapes",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Grapes (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+				},
+				{
+					"id": "Banana",
+					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+				},
+				{
+					"id": "Potato",
+					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+				},
+				{
+					"id": "Tomato",
+					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Potato",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Grapes",
+					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+				},
+				{
+					"id": "Apple",
+					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+				},
+				{
+					"id": "Potato (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+				},
+				{
+					"id": "Banana",
+					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Bread",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Biscuit",
+					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
+				},
+				{
+					"id": "Banana",
+					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+				},
+				{
+					"id": "Apple",
+					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+				},
+				{
+					"id": "Bread (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_127884136b084274b3aae9d3e0800ce6~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Kiwi",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Biscuit",
+					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
+				},
+				{
+					"id": "Cheese",
+					"link": "https://static.wixstatic.com/media/7d30dc_8cf0484315654a2b8de18ca97c227258~mv2.png"
+				},
+				{
+					"id": "Kiwi (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_89afda9c52be4c72a912b3a7aebd2864~mv2.png"
+				},
+				{
+					"id": "Candy",
+					"link": "https://static.wixstatic.com/media/7d30dc_4fd2ef1c9be5453b9764a34b2f223408~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Cheese",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Grapes",
+					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+				},
+				{
+					"id": "Candy",
+					"link": "https://static.wixstatic.com/media/7d30dc_4fd2ef1c9be5453b9764a34b2f223408~mv2.png"
+				},
+				{
+					"id": "Cheese (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_8cf0484315654a2b8de18ca97c227258~mv2.png"
+				},
+				{
+					"id": "Biscuit",
+					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Candy",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Candy (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_4fd2ef1c9be5453b9764a34b2f223408~mv2.png"
+				},
+				{
+					"id": "Bread",
+					"link": "https://static.wixstatic.com/media/7d30dc_127884136b084274b3aae9d3e0800ce6~mv2.png"
+				},
+				{
+					"id": "Apple",
+					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+				},
+				{
+					"id": "Grapes",
+					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+				}
+			]
+		},
+		{
+			"title": "Biscuits",
+			"type": "images",
+			"timer": 20,
+			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "Biscuits (+)",
+					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
+				},
+				{
+					"id": "Tomato",
+					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
+				},
+				{
+					"id": "Kiwi",
+					"link": "https://static.wixstatic.com/media/7d30dc_89afda9c52be4c72a912b3a7aebd2864~mv2.png"
+				},
+				{
+					"id": "Cheese",
+					"link": "https://static.wixstatic.com/media/7d30dc_8cf0484315654a2b8de18ca97c227258~mv2.png"
+				}
+			]
+		}
+	]
+}
