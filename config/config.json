@@ -749,7 +749,7 @@
 			"title": "Mela",
 			"type": "images",
 			"timer": 18,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
