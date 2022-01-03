@@ -6,9 +6,9 @@
 	},
 	"config": [
 		{
-			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+			"title": "Registration. candy select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
-			"timer": 10,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -138,9 +138,9 @@
 			]
 		},
 		{
-			"title": "Registration. Please choose one letter from the list below which relates to your name.",
+			"title": "Registration. candy choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 10,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -256,744 +256,765 @@
 			"timer": 15
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_effc81ce893d45d98d58a3cec02aff39~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 balls",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
-			"timer": 5,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "9",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "10",
-					"link": "https://static.wixstatic.com/media/7d30dc_34f3af13ae0b4944995ab95dff4b2656~mv2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				}
 			]
 		},
 		{
-			"title": "Apple",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
+		"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+		"isHiddenTimer":true,
+		"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+		"pauseTimer":"1",
+		"timer":"2",
+		"type":"images"},
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Grapes",
-					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Potato",
-					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				},
 				{
-					"id": "Apple (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
 				},
+				
 				{
-					"id": "Banana",
-					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
-			]
+				]
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7v3.png",
+		"pauseTimer":"1",
+		"timer":"20",
+		"type":"images"
 		},
 		{
-			"title": "Banana",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
-			"options": [
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+		"options": 
+			[
 				{
-					"id": "Apple",
-					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Tomato",
-					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
-					"id": "Grapes",
-					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Banana (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5v3.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"
 		},
 		{
-			"title": "Tomato",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Potato",
-					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Grapes",
-					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Tomato (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
-					"id": "Apple",
-					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4v3.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"
 		},
 		{
-			"title": "Grapes",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Grapes (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				},
 				{
-					"id": "Banana",
-					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Potato",
-					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+					"id": "4(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Tomato",
-					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
-				}
-			]
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+				}				
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6v3.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"
 		},
 		{
-			"title": "Potato",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Grapes",
-					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Apple",
-					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Potato (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_e749c1bdfec44785bb7aa54eb52ac7ac~mv2.png"
+					"id": "6(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
-					"id": "Banana",
-					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"},
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+				},
+				
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				}
+				]
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7v3.png",
+		"pauseTimer":"1",
+		"timer":"20",
+		"type":"images"},
+
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				},
+				
+				{
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+}
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5v3.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"
 		},
 		{
-			"title": "Bread",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Biscuit",
-					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Banana",
-					"link": "https://static.wixstatic.com/media/7d30dc_fc27e2a15c5746aab0549a9310decc58~mv2.png"
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Apple",
-					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
-					"id": "Bread (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_127884136b084274b3aae9d3e0800ce6~mv2.png"
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4v3.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"
 		},
 		{
-			"title": "Kiwi",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Biscuit",
-					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				},
 				{
-					"id": "Cheese",
-					"link": "https://static.wixstatic.com/media/7d30dc_8cf0484315654a2b8de18ca97c227258~mv2.png"
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Kiwi (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_89afda9c52be4c72a912b3a7aebd2864~mv2.png"
+					"id": "4(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Candy",
-					"link": "https://static.wixstatic.com/media/7d30dc_4fd2ef1c9be5453b9764a34b2f223408~mv2.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6v3.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"
 		},
 		{
-			"title": "Cheese",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Grapes",
-					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Candy",
-					"link": "https://static.wixstatic.com/media/7d30dc_4fd2ef1c9be5453b9764a34b2f223408~mv2.png"
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "Cheese (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_8cf0484315654a2b8de18ca97c227258~mv2.png"
+					"id": "6(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
-					"id": "Biscuit",
-					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
-			]
-		},
-		{
-			"title": "Candy",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "Candy (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_4fd2ef1c9be5453b9764a34b2f223408~mv2.png"
-				},
-				{
-					"id": "Bread",
-					"link": "https://static.wixstatic.com/media/7d30dc_127884136b084274b3aae9d3e0800ce6~mv2.png"
-				},
-				{
-					"id": "Apple",
-					"link": "https://static.wixstatic.com/media/7d30dc_e80e14ddb3ac43a5b27db25a073ba8be~mv2.png"
-				},
-				{
-					"id": "Grapes",
-					"link": "https://static.wixstatic.com/media/7d30dc_4c793e0d4678486d912d37b141b5d080~mv2.png"
-				}
-			]
-		},
-		{
-			"title": "Biscuits",
-			"type": "images",
-			"timer": 20,
-			"pauseImageLink": "https://static.wixstatic.com/media/7d30dc_3331a1f9e08b4ba383fbf8b07950b819~mv2.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "Biscuits (+)",
-					"link": "https://static.wixstatic.com/media/7d30dc_4701c87b40394e24b055f20268e33858~mv2.png"
-				},
-				{
-					"id": "Tomato",
-					"link": "https://static.wixstatic.com/media/7d30dc_9b88432403fc4bd7a01f9aa9c86c922b~mv2.png"
-				},
-				{
-					"id": "Kiwi",
-					"link": "https://static.wixstatic.com/media/7d30dc_89afda9c52be4c72a912b3a7aebd2864~mv2.png"
-				},
-				{
-					"id": "Cheese",
-					"link": "https://static.wixstatic.com/media/7d30dc_8cf0484315654a2b8de18ca97c227258~mv2.png"
-				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+			"pauseTimer":"1",
+			"timer":"20",
+			"type":"images"
 		}
 	]
 }
