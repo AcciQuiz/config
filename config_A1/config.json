@@ -253,12 +253,12 @@
 			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research!",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 12
+			"timer": 3
 		},
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -307,7 +307,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -356,7 +356,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -405,7 +405,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -454,7 +454,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -503,7 +503,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -552,7 +552,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -601,7 +601,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -650,7 +650,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -699,7 +699,7 @@
 		{
 			"title": "Counting from 1 to 10 tomatos",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
@@ -763,7 +763,7 @@
 				},
 				{
 					"id": "11(+)",
-					"link": "https://github.com/AcciQuiz/config/blob/main/config_math/ImagesMath/11.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/11.png"
 				},
 				{
 					"id": "12",
@@ -789,7 +789,7 @@
 				},
 				{
 					"id": "12(+)",
-					"link": "https://github.com/AcciQuiz/config/blob/main/config_math/ImagesMath/12.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/12.png"
 				},
 				{
 					"id": "13",
@@ -815,7 +815,7 @@
 				},
 				{
 					"id": "13(+)",
-					"link": "https://github.com/AcciQuiz/config/blob/main/config_math/ImagesMath/13.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/13.png"
 				},
 				{
 					"id": "14",
@@ -841,7 +841,7 @@
 				},
 				{
 					"id": "14(+)",
-					"link": "https://github.com/AcciQuiz/config/blob/main/config_math/ImagesMath/14.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/14.png"
 				},
 				{
 					"id": "15",
@@ -867,7 +867,7 @@
 				},
 				{
 					"id": "15(+)",
-					"link": "https://github.com/AcciQuiz/config/blob/main/config_math/ImagesMath/15.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/15.png"
 				},
 				{
 					"id": "16",
@@ -893,7 +893,7 @@
 				},
 				{
 					"id": "11(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/11e.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/11.png"
 				},
 				{
 					"id": "12",
@@ -919,7 +919,7 @@
 				},
 				{
 					"id": "12(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/12e.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/12.png"
 				},
 				
 				{
@@ -946,7 +946,7 @@
 				},
 				{
 					"id": "13(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/13e.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/13.png"
 				},
 				{
 					"id": "14",
@@ -972,7 +972,7 @@
 				},
 				{
 					"id": "14(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/14e.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/14.png"
 				},
 				{
 					"id": "15",
@@ -999,7 +999,7 @@
 				
 				{
 					"id": "15(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/15e.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/15.png"
 				},
 				{
 					"id": "16",
