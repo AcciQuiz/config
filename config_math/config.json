@@ -250,10 +250,10 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research!",
+			"title": "The AGATA academic curriculum for Math Beginners. This educational method is based on scientific observations and academic research!",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 12
+			"timer": 3
 		},
 		{
 			"title": "Counting from 1 to 10 kiwis",
