@@ -253,7 +253,7 @@
 			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 15
+			"timer": 3
 		},
 		{
 			"title": "Counting from 1 to 10 candys",
@@ -749,7 +749,7 @@
 		"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 		"isHiddenTimer":true,
 		"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B2s.png",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B2sm.png",
 		"pauseTimer":"6",
 		"timer":"2",
 		"type":"images"},
