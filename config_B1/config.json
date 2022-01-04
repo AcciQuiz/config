@@ -746,7 +746,7 @@
 			]
 		},
 		{
-			"title": "Give an answer",
+			"title": "1. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B2s.png",
 			"type": "images",
 			"timer": 15,
@@ -773,7 +773,7 @@
 			]
 		},
 		{
-			"title": "Give an answer",
+			"title": "2. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+2.png",
 			"type": "images",
 			"timer": 15,
@@ -799,7 +799,7 @@
 			]
 		},
 		{
-			"title": "Give an answer",
+			"title": "3. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B5.png",
 			"type": "images",
 			"timer": 15,
@@ -825,7 +825,7 @@
 			]
 		},
 		{
-			"title": "Give an answer",
+			"title": "4. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+2.png",
 			"type": "images",
 			"timer": 15,
@@ -983,15 +983,15 @@
 		},
 		{
 			"title": "10. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+3.png",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B7.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
 				},
 				{
 					"id": "8",
@@ -999,8 +999,8 @@
 				},
 				
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				},
 				{
 					"id": "9(+)",
