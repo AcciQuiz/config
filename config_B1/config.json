@@ -746,10 +746,10 @@
 			]
 		},
 		{
-			"title": "1. Give an answer",
+			"title": "i. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B2s.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -773,10 +773,10 @@
 			]
 		},
 		{
-			"title": "2. Give an answer",
+			"title": "ii. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+2.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -799,10 +799,10 @@
 			]
 		},
 		{
-			"title": "3. Give an answer",
+			"title": "iii. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B5.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -825,10 +825,10 @@
 			]
 		},
 		{
-			"title": "4. Give an answer",
+			"title": "iv. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+2.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -851,10 +851,10 @@
 			]
 		},
 		{
-			"title": "5. Give an answer",
+			"title": "v. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B4.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -877,10 +877,10 @@
 			]
 		},
 		{
-			"title": "6. Give an answer",
+			"title": "vi. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8+2.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -903,10 +903,10 @@
 			]
 		},
 		{
-			"title": "7. Give an answer",
+			"title": "vii. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6%2B2.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -930,10 +930,10 @@
 			]
 		},
 		{
-			"title": "8. Give an answer",
+			"title": "viii. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B6.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -956,10 +956,10 @@
 			]
 		},
 		{
-			"title": "9. Give an answer",
+			"title": "ix. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7%2B2.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -982,10 +982,10 @@
 			]
 		},
 		{
-			"title": "10. Give an answer",
+			"title": "x. Give an answer",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B7.png",
 			"type": "images",
-			"timer": 15,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
