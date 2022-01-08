@@ -749,12 +749,12 @@
 		"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 		"isHiddenTimer":true,
 		"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/RusMatrix.png",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 		"pauseTimer":"6",
 		"timer":"2",
 		"type":"images"},
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"i. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -775,7 +775,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
 				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/RusMatrix.png",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 		"pauseTimer":"6",
 		"timer":"12",
 		"type":"images"
@@ -802,7 +802,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/RusMatrix.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 			"pauseTimer":"6",
 			"timer":"12",
 			"type":"images"
@@ -828,13 +828,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/RusMatrix.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 			"pauseTimer":"6",
 			"timer":"12",
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"iv. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -854,13 +854,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				}				
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/RusMatrix.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 			"pauseTimer":"6",
 			"timer":"12",
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"v. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -880,12 +880,12 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5%2B2.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 			"pauseTimer":"6",
 			"timer":"12",
 			"type":"images"},
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"vi. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -906,13 +906,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
 				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B5.png",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 		"pauseTimer":"6",
 		"timer":"12",
 		"type":"images"},
 
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"vii. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -933,13 +933,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 }
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B6.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 			"pauseTimer":"6",
 			"timer":"12",
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"viii. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -959,13 +959,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6%2B2.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 			"pauseTimer":"6",
 			"timer":"12",
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"ix. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -985,13 +985,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7%2B2.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRusSmall.png",
 			"pauseTimer":"6",
 			"timer":"12",
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the math problem presented before",
+		"title":"x. Please select the number below corresponding to the math problem presented before",
 		"isHiddenTimer":false,
 			"options": [
 				{
