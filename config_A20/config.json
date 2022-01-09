@@ -808,7 +808,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the number below corresponding to the math problem presented before",
+		"title":"iii. MatrixR1",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -830,11 +830,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
 			"pauseTimer":"3",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number below corresponding to the math problem presented before",
+		"title":"iv. MatrixRSul",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -856,11 +856,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
 			"pauseTimer":"3",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the number below corresponding to the math problem presented before",
+		"title":"v. MatrixRSul",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -882,10 +882,10 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
 			"pauseTimer":"3",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"},
 		{
-		"title":"vi. Please select the number below corresponding to the math problem presented before",
+		"title":"vi. MatrixRSul",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -908,11 +908,11 @@
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSull2.png",
 		"pauseTimer":"3",
-		"timer":"6",
+		"timer":"9",
 		"type":"images"},
 
 		{
-		"title":"vii. Please select the number below corresponding to the math problem presented before",
+		"title":"vii. MatrixRSull2",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -935,11 +935,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSull2.png",
 			"pauseTimer":"3",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number below corresponding to the math problem presented before",
+		"title":"viii. MatrixRSull2",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -961,11 +961,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSull2.png",
 			"pauseTimer":"3",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number below corresponding to the math problem presented before",
+		"title":"ix. MatrixRSull2",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -987,11 +987,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSull2.png",
 			"pauseTimer":"3",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number below corresponding to the math problem presented before",
+		"title":"x. MatrixRSull2",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1012,8 +1012,8 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"1",
-			"timer":"29",
+			"pauseTimer":"3",
+			"timer":"9",
 			"type":"images"
 		}
 	]
