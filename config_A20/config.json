@@ -864,7 +864,7 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Mama(+)",
+					"id": "(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1mama.png"
 				},
 				{
@@ -902,8 +902,8 @@
 				},
 				
 				{
-					"id": "(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+					"id": "Mama(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1mama.png"
 				}
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSull2.png",
