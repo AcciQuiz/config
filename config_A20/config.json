@@ -838,20 +838,20 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "3",
+					"id": "Вода",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2voda.png"
+				},
+				{
+					"id": "Море(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
 				},
 				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
+					"id": "Вера",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vera.png"
 				},
 				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
-				},
-				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
+					"id": "Воля",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
@@ -864,20 +864,20 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "4",
+					"id": "4(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+					"id": "Вода",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2voda.png"
 				},
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+					"id": "Воля",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
 				},
 				{
-					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"id": "Вера",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vera.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
@@ -889,20 +889,20 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+					"id": "Воля",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
 				},
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+					"id": "Вера",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vera.png"
 				},
 				{
-					"id": "7(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"id": "Вода",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2voda.png"
 				},
 				
 				{
-					"id": "4",
+					"id": "(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
 				]
