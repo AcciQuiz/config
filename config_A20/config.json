@@ -777,7 +777,7 @@
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR2.png",
 		"pauseTimer":"1",
-		"timer":"29",
+		"timer":"5",
 		"type":"images"
 		},
 		{
@@ -804,7 +804,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR1.png",
 			"pauseTimer":"1",
-			"timer":"29",
+			"timer":"5",
 			"type":"images"
 		},
 		{
@@ -839,19 +839,19 @@
 			"options": [
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1more.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
 				},
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1more.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1more.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1more.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
