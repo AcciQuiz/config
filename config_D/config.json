@@ -750,7 +750,7 @@
 		"isHiddenTimer":true,
 		"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
-		"pauseTimer":"1",
+		"pauseTimer":"0,3",
 		"timer":"2",
 		"type":"images"},
 		{
@@ -776,7 +776,7 @@
 				}
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
-		"pauseTimer":"1",
+		"pauseTimer":"0,3",
 		"timer":"20",
 		"type":"images"
 		},
@@ -803,7 +803,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
-			"pauseTimer":"1",
+			"pauseTimer":"0,3",
 			"timer":"20",
 			"type":"images"
 		},
