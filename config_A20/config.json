@@ -775,62 +775,62 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR2.png",
-		"pauseTimer":"3",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord.png",
+		"pauseTimer":"1",
 		"timer":"45",
 		"type":"images"
 		},
 		{
-		"title":"ii. MatrixR2",
+		"title":"ii. MatrixRWord",
 		"isHiddenTimer":false,
 		"options": 
 			[
 				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Mama",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1mama.png"
 				},
 				{
-					"id": "6(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Воля",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
 				},
 				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Вера",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vera.png"
 				},
 				{
-					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Море",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR1.png",
-			"pauseTimer":"3",
-			"timer":"30",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord.png",
+			"pauseTimer":"1",
+			"timer":"6",
 			"type":"images"
 		},
 		{
-		"title":"iii. MatrixR1",
+		"title":"iii. MatrixRWord",
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Мама",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1mama.png"
 				},
 				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Воля",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
 				},
 				{
-					"id": "6(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Вера",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vera.png"
 				},
 				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "Море",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordDSul1MoreBig.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
 			"pauseTimer":"9",
-			"timer":"30",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -856,7 +856,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
 			"pauseTimer":"9",
-			"timer":"9",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -882,7 +882,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSul.png",
 			"pauseTimer":"9",
-			"timer":"9",
+			"timer":"6",
 			"type":"images"},
 		{
 		"title":"vi. MatrixRSul",
@@ -908,7 +908,7 @@
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRSull2.png",
 		"pauseTimer":"9",
-		"timer":"9",
+		"timer":"6",
 		"type":"images"},
 
 		{
