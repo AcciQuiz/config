@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
-			"timer": 3,
+			"timer": 6,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -140,7 +140,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 3,
+			"timer": 6,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -881,33 +881,33 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"15",
-			"timer":"14",
+			"pauseTimer":"3",
+			"timer":"7",
 			"type":"images"},
 		{
 		"title":"vi. Answers MatrixRWord",
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
-				},
-				{
-					"id": "Вера",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vera.png"
-				},
-				{
 					"id": "Вода",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2voda.png"
 				},
-				
 				{
 					"id": "Волан",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2Volan.png"
+				},
+				{
+					"id": "Воля",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
+				},
+				
+				{
+					"id": "Вера",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vera.png"
 				}
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-		"pauseTimer":"15",
+		"pauseTimer":"3",
 		"timer":"6",
 		"type":"images"},
 
@@ -960,8 +960,8 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"15",
-			"timer":"14",
+			"pauseTimer":"3",
+			"timer":"7",
 			"type":"images"
 		},
 		{
@@ -969,8 +969,8 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
+					"id": "Мама",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1mama.png"
 				},
 				{
 					"id": "Вера",
@@ -981,12 +981,12 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2voda.png"
 				},
 				{
-					"id": "Волан",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2Volan.png"
+					"id": "Воля",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2vola.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"15",
+			"pauseTimer":"9",
 			"timer":"6",
 			"type":"images"
 		},
@@ -1007,8 +1007,8 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2voda.png"
 				},
 				{
-					"id": "Волан",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2Volan.png"
+					"id": "Мама",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1mama.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
