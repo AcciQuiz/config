@@ -856,11 +856,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord.png",
 			"pauseTimer":"1",
-			"timer":"119",
+			"timer":"59",
 			"type":"images"
 		},
 		{
-		"title":"v. MatrixRWord",
+		"title":"v. MatrixRWord - Pause 7 sec",
 		"isHiddenTimer":false,
 			"options": [
 				{
