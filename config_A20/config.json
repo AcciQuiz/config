@@ -256,7 +256,7 @@
 			"timer": 3
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -305,7 +305,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -354,7 +354,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -403,7 +403,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -452,7 +452,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -501,7 +501,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -550,7 +550,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -599,7 +599,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -648,7 +648,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -697,7 +697,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candys",
+			"title": "Counting from 1 to 10 candy",
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
@@ -777,7 +777,7 @@
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR1.png",
 		"pauseTimer":"1",
-		"timer":"119",
+		"timer":"59",
 		"type":"images"
 		},
 		{
@@ -804,7 +804,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR2.png",
 			"pauseTimer":"1",
-			"timer":"119",
+			"timer":"59",
 			"type":"images"
 		},
 		{
@@ -830,7 +830,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR0.png",
 			"pauseTimer":"1",
-			"timer":"119",
+			"timer":"59",
 			"type":"images"
 		},
 		{
@@ -860,7 +860,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. MatrixRWord - Pause 7 sec",
+		"title":"v. MatrixRWord - 7 sec",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -912,7 +912,7 @@
 		"type":"images"},
 
 		{
-		"title":"vii. Pause",
+		"title":"vii. 15 sec",
 		"isHiddenTimer":false,
 			"options": [
 				{
