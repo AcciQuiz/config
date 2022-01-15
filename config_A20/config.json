@@ -754,7 +754,7 @@
 		"timer":"2",
 		"type":"images"},
 		{
-		"title":"i. MatrixR0",
+		"title":"ii. Waiting MatrixR1",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -781,7 +781,7 @@
 		"type":"images"
 		},
 		{
-		"title":"ii. MatrixR1",
+		"title":"iii. Waiting MatrixR2",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -808,7 +808,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. MatrixR2",
+		"title":"iv. Waiting MatrixR0",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -834,7 +834,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. MatrixR0",
+		"title":"Waiting Words",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -860,7 +860,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. MatrixRWord - 7 sec",
+		"title":"Waiting Answer Options",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -885,7 +885,7 @@
 			"timer":"7",
 			"type":"images"},
 		{
-		"title":"vi. Answers MatrixRWord",
+		"title":"Answers MatrixRWord Options",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -912,7 +912,7 @@
 		"type":"images"},
 
 		{
-		"title":"vii. 15 sec",
+		"title":"Waiting MatrixRWord",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -939,7 +939,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. MatrixRWord",
+		"title":"Waiting Answer Options",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -965,7 +965,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Answer MatrixRWord",
+		"title":"Answer MatrixRWord Options",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -991,7 +991,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Answer MatrixRWord",
+		"title":"Answer Options",
 		"isHiddenTimer":false,
 			"options": [
 				{
