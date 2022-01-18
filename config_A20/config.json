@@ -935,7 +935,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord.png",
 			"pauseTimer":"1",
-			"timer":"15",
+			"timer":"60",
 			"type":"images"
 		},
 		{
@@ -987,7 +987,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"pauseTimer":"9",
-			"timer":"4",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1013,7 +1013,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"pauseTimer":"3",
-			"timer":"4",
+			"timer":"6",
 			"type":"images"
 		}
 	]
