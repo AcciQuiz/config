@@ -889,20 +889,20 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Вода",
+					"id": "Небо",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1nebo.png"
 				},
 				{
-					"id": "Волан",
+					"id": "Лето",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1leto.png"
 				},
 				{
-					"id": "Воля",
+					"id": "Лиза",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1liza.png"
 				},
 				
 				{
-					"id": "Вера",
+					"id": "Деда",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1deda.png"
 				}
 				]
@@ -969,19 +969,19 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Мама",
+					"id": "Лиза",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1liza.png"
 				},
 				{
-					"id": "Вера",
+					"id": "Деда",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1deda.png"
 				},
 				{
-					"id": "Вода",
+					"id": "Лицо",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1lico.png"
 				},
 				{
-					"id": "Воля",
+					"id": "Небо",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1nebo.png"
 				}
 				]
@@ -995,19 +995,19 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "Воля",
+					"id": "Лицо",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1lico.png"
 				},
 				{
-					"id": "Вера",
+					"id": "Небо",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1nebo.png"
 				},
 				{
-					"id": "Вода",
+					"id": "Деда",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1deda.png"
 				},
 				{
-					"id": "Мама",
+					"id": "Лиза",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSul1liza.png"
 				}
 				]
