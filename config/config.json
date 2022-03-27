@@ -260,6 +260,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -309,6 +310,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -358,6 +360,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -407,6 +410,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -456,6 +460,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -505,6 +510,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -554,6 +560,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -603,6 +610,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -652,6 +660,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
@@ -701,6 +710,7 @@
 			"type": "images",
 			"timer": 3,
 			"isHiddenTimer": true,
+			"oldStyle": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
