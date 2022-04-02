@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
-			"timer": 6,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -140,7 +140,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 6,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -250,15 +250,15 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research",
+			"title": "The AGATA academic curriculum for Math Beginners A+3 (B2). This educational method is based on scientific observations and academic research",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 3
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -306,9 +306,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -356,9 +356,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -406,9 +406,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -456,9 +456,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -506,9 +506,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -556,9 +556,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -606,9 +606,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -656,9 +656,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -706,9 +706,9 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pear",
+			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -756,275 +756,307 @@
 			]
 		},
 		{
-		"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-		"isHiddenTimer":true,
-		"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR0.png",
-		"pauseTimer":"1",
-		"timer":"2",
-		"type":"images"},
-		{
-		"title":"ii. Waiting MatrixR1",
-		"isHiddenTimer":false,
+			"title": "I",
+			"type": "images_quad",
+			"timer": 1,
+			"pauseTimer": 0,
 			"options": [
 				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
 				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				}
+			]
+		},
+		{
+			"title": "pause",
+			"type": "images",
+			"timer": 60,
+			"pauseTimer": 0,
+			"options": [
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
-					"id": "2",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "III",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-10.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+				},
+				{
+					"id": "10(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
+				}
+			]
+		},
+		{
+			"title": "iv",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-5.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1b.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+				},
+				{
+					"id": "10(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+				}
+			]
+		},
+		{
+			"title": "V",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-7.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				},
+				{
+					"id": "9(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+				}
+			]
+		},
+		{
+			"title": "VI",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-3.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "8(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1b.png"
+				}
+			]
+		},
+		{
+			"title": "VII",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-4.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				
 				{
-					"id": "4(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "8(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
 				}
-				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR1.png",
-		"pauseTimer":"1",
-		"timer":"59",
-		"type":"images"
+			]
 		},
 		{
-		"title":"iii. Waiting MatrixR2",
-		"isHiddenTimer":false,
-		"options": 
-			[
+			"title": "VIII",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-6.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
+			"options": [
 				{
-					"id": "Mama",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				},
 				{
-					"id": "Вера",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				},
 				{
-					"id": "Море",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
 				}
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR2.png",
-			"pauseTimer":"1",
-			"timer":"59",
-			"type":"images"
+			]
 		},
 		{
-		"title":"iv. Waiting MatrixR0",
-		"isHiddenTimer":false,
+			"title": "IX",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-9.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "Мама",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
 				},
 				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
 				},
 				{
-					"id": "Вера",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
-					"id": "Море",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				}
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR0.png",
-			"pauseTimer":"1",
-			"timer":"59",
-			"type":"images"
+			]
 		},
 		{
-		"title":"Waiting Words MatrixRWord",
-		"isHiddenTimer":false,
+			"title": "X",
+			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/bolls-2.png",
+			"type": "images",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "Вода",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1b.png"
 				},
 				{
-					"id": "Море(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Вера",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				}				
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord.png",
-			"pauseTimer":"1",
-			"timer":"59",
-			"type":"images"
-		},
-		{
-		"title":"Waiting Answer Options",
-		"isHiddenTimer":false,
-			"options": [
-				{
-					"id": "Маска(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Вода",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Вера",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				}
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"3",
-			"timer":"7",
-			"type":"images"},
-		{
-		"title":"Answers MatrixRWord Options",
-		"isHiddenTimer":false,
-			"options": [
-				{
-					"id": "Небо",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-2.png"
-				},
-				{
-					"id": "Лето",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-4.png"
-				},
-				{
-					"id": "Лиза",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-1.png"
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
 				},
 				
 				{
-					"id": "Деда",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-3.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
+					"id": "9(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2bw.png"
 				}
-				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-		"pauseTimer":"3",
-		"timer":"3",
-		"type":"images"},
-
-		{
-		"title":"Waiting MatrixRWord",
-		"isHiddenTimer":false,
-			"options": [
-				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Вера",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Вода",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				
-				{
-					"id": "Волан",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-}
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord.png",
-			"pauseTimer":"1",
-			"timer":"60",
-			"type":"images"
-		},
-		{
-		"title":"Waiting Answer Options",
-		"isHiddenTimer":false,
-			"options": [
-				{
-					"id": "Воля",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Вера",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Вода",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Волан",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				}
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"3",
-			"timer":"7",
-			"type":"images"
-		},
-		{
-		"title":"Answer MatrixRWord Options",
-		"isHiddenTimer":false,
-			"options": [
-				{
-					"id": "Лиза",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-4.png"
-				},
-				{
-					"id": "Деда",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-1.png"
-				},
-				{
-					"id": "Лицо",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-2.png"
-				},
-				{
-					"id": "Небо",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-3.png"
-				}
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"9",
-			"timer":"3",
-			"type":"images"
-		},
-		{
-		"title":"Answer Options",
-		"isHiddenTimer":false,
-			"options": [
-				{
-					"id": "Лицо",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-3.png"
-				},
-				{
-					"id": "Небо",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-2.png"
-				},
-				{
-					"id": "Деда",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-1.png"
-				},
-				{
-					"id": "Лиза",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/WordRSull2-4.png"
-				}
-				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
-			"pauseTimer":"3",
-			"timer":"3",
-			"type":"images"
+			]	
 		}
 	]
 }
