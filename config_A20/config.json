@@ -1114,6 +1114,27 @@
 			"options": [
 				{
 					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "pause",
+			"type": "images",
+			"timer": 6,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/глаз.png"
 				},
 				{
@@ -1217,6 +1238,27 @@
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/и.png"
+				}
+			]
+		},
+		{
+			"title": "pause",
+			"type": "images",
+			"timer": 6,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
@@ -1334,6 +1376,27 @@
 				}
 			]
 		},
+				{
+			"title": "pause",
+			"type": "images",
+			"timer": 6,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},	
 		{
 			"title": "pause",
 			"type": "images",
