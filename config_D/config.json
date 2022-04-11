@@ -771,6 +771,7 @@
 		},
 		{
 			"title":"Please select the number below corresponding to the number of points presented",
+			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"isHiddenTimer":false,
 			"type": "images",
 			"timer":"21",
