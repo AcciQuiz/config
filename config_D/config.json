@@ -765,27 +765,26 @@
 		"type":"images"},
 		{
 		"title":"Please select the number below corresponding to the number of points presented",
-		"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 		"isHiddenTimer":false,
 		"type": "images",
 		"oldStyle": false,
 			"options": [
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5big.png"
 				},
 				{
 					"id": "3(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3big.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6big.png"
 				},
 				
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4big.png"
 				}
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.gif",
