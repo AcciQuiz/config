@@ -766,6 +766,7 @@
 		{
 		"title":"Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
+		"oldStyle": false,
 			"options": [
 				{
 					"id": "5",
