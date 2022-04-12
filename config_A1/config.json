@@ -772,7 +772,7 @@
 		{
 			"title":"i. Please select the option below with the same number of points as in the image of points presented earlier: THREE",
 			"type": "images",
-			"timer":"21",
+			"timer":"12",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
@@ -819,7 +819,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"21",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -845,7 +845,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"21",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -871,7 +871,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"21",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -897,7 +897,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"21",
+			"timer":"12",
 			"type":"images"},
 		{
 		"title":"vi. Please select the number below corresponding to the number of points presented: THREE",
