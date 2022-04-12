@@ -1,12 +1,12 @@
 {
 	"tokens": {
-		"service_id": "service_dcwy1pm",
+		"service_id": "service_hwg5cxj",
 		"template_id": "template_qovhgs2",
 		"user_id": "user_TSlEgXKUKLGovHc9DeXfa"
 	},
 	"config": [
 		{
-			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+			"title": "Registration. candy select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
 			"timer": 12,
 			"pauseTimer": 0,
@@ -138,7 +138,7 @@
 			]
 		},
 		{
-			"title": "Registration. Please choose one letter from the list below which relates to your name.",
+			"title": "Registration. candy choose one letter from the list below which relates to your name.",
 			"type": "question",
 			"timer": 12,
 			"pauseTimer": 0,
@@ -250,22 +250,21 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum for Math Beginners. This educational method is based on scientific observations and academic research!",
+			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research!",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 3
+			"timer": 9
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
@@ -306,20 +305,19 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
@@ -356,24 +354,23 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
@@ -406,28 +403,27 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
@@ -456,32 +452,31 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
@@ -506,36 +501,35 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
@@ -556,40 +550,39 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
@@ -606,44 +599,43 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "9",
@@ -656,48 +648,47 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "10",
@@ -706,317 +697,324 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 kiwis",
+			"title": "Counting from 1 to 10 candys",
 			"type": "images",
 			"timer": 3,
-			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
 			"options": [
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
 					"id": "10",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				}
 			]
 		},
 		{
-			"title": "i. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8+2.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+		"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+		"isHiddenTimer":true,
+		"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+		"pauseTimer":"1",
+		"timer":"2",
+		"type":"images"},
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png"
 				},
 				{
-					"id": "10(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png"
 				},
 				{
-					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png"
 				},
-				{
-					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-				}
 				
-			]
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png"
+				}
+				]
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png",
+		"pauseTimer":"1",
+		"timer":"21",
+		"type":"images"
 		},
 		{
-			"title": "ii. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+2.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+		"options": 
+			[
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png"
+				},
 				{
 					"id": "7(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png"
+				}
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"
+		},
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png"
 				},
 				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png"
 				},
 				{
-					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png"
 				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"
 		},
 		{
-			"title": "iii. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7+3.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png"
 				},
 				{
-					"id": "10(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
+					"id": "4(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png"
 				},
 				{
-					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-				}
-			]
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png"
+				}				
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"
 		},
 		{
-			"title": "iv. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+2.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5.png"
+				},
 				{
 					"id": "6(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png"
 				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png"
+				}
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"},
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+			"options": [
 				{
 					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+				},
+				
+				{
 					"id": "4",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				}
+				]
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7v3.png",
+		"pauseTimer":"1",
+		"timer":"21",
+		"type":"images"},
+
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				},
+				
+				{
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+}
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5v3.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"
+		},
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
 					"id": "7",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
-			]
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4v3.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"
 		},
 		{
-			"title": "v. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+3.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
 				},
 				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
-				},
-				{
-					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-				},
-				{
-					"id": "9(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-				}
-			]
-		},
-		{
-			"title": "vi. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8+2.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-				},
-				{
-					"id": "10(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
-				},
-				{
-					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
-				},
-				{
-					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-				}
-			]
-		},
-		{
-			"title": "vii. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+2.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "7(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-				},
-				{
 					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
-				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-				},
-				
-				{
-					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-				}
-			]
-		},
-		{
-			"title": "viii. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+3.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-				},
-				{
-					"id": "7(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-				},
-				{
-					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-				},
-				{
-					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-				}
-			]
-		},
-		{
-			"title": "ix. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2+2.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
 				{
 					"id": "4(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				},
 				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+				}
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6v3.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"
+		},
+		{
+		"title":"Please select the number below corresponding to the number of points presented",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+				},
+				{
 					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
 				},
 				{
-					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
-				},
-				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-				}
-			]
-		},
-		{
-			"title": "x. Give an answer",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+3.png",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-				},
-				{
-					"id": "8",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-				},
-				
-				{
-					"id": "6",
+					"id": "6(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				},
 				{
-					"id": "9(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
-			]	
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+			"pauseTimer":"1",
+			"timer":"21",
+			"type":"images"
 		}
 	]
 }
