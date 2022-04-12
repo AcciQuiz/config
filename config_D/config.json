@@ -6,7 +6,7 @@
 	},
 	"config": [
 		{
-			"title": "Registration. candy select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
 			"timer": 18,
 			"pauseTimer": 0,
@@ -138,7 +138,7 @@
 			]
 		},
 		{
-			"title": "Registration. candy choose one letter from the list below which relates to your name.",
+			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
 			"timer": 18,
 			"pauseTimer": 0,
@@ -250,7 +250,7 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum for Language Beginners. This educational method is based on scientific observations and academic research!",
+			"title": "The AGATA academic curriculum. This educational method is based on scientific observations and academic research.",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 3
@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"Please select the number below corresponding to the number of points presented",
+			"title":"i. Please select the option below with the same number of points as in the image of points presented earlier",
 			"type": "images",
 			"timer":"21",
 			"isHiddenTimer":false,
@@ -796,7 +796,7 @@
 			]
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"ii. Please select the option below with the same number of points as in the image of points presented earlier",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -823,7 +823,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"iii. Please select the option below with the same number of points as in the image of points presented earlier",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"iv. Please select the option below with the same number of points as in the image of points presented earlier",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"v. Please select the option below with the same number of points as in the image of points presented earlier",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -900,7 +900,7 @@
 			"timer":"21",
 			"type":"images"},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"vi. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -926,7 +926,7 @@
 		"timer":"9",
 		"type":"images"},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"vii. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -953,7 +953,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"viii. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -979,7 +979,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"ix. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1005,7 +1005,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"x. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
