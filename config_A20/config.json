@@ -1038,6 +1038,7 @@
 			"type": "images_quad",
 			"isHiddenTimer":false,
 			"timer": 1,
+			"oldStyle": true,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -1172,6 +1173,7 @@
 		{
 			"type": "images_quad",
 			"isHiddenTimer":false,
+			"oldStyle": true,
 			"timer": 1,
 			"pauseTimer": 0,
 			"options": [
@@ -1308,6 +1310,7 @@
 			"type": "images_quad",
 			"isHiddenTimer":false,
 			"timer": 1,
+			"oldStyle": true,			
 			"pauseTimer": 0,
 			"options": [
 				{
