@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the option below with the same number of points as in the image of points presented earlier: kolme",
+			"title":"i. Please select the option below with the same number of points as in the image of points presented earlier: THREE",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -796,7 +796,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the option below with the same number of points as in the image of points presented earlier: seitsemän",
+		"title":"ii. Please select the option below with the same number of points as in the image of points presented earlier: SEVEN",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -823,7 +823,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the option below with the same number of points as in the image of points presented earlier: viisi",
+		"title":"iii. Please select the option below with the same number of points as in the image of points presented earlier: FIVE",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the option below with the same number of points as in the image of points presented earlier: neljä",
+		"title":"iv. Please select the option below with the same number of points as in the image of points presented earlier: FOUR",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the option below with the same number of points as in the image of points presented earlier: kuusi",
+		"title":"v. Please select the option below with the same number of points as in the image of points presented earlier: SIX",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -900,7 +900,7 @@
 			"timer":"30",
 			"type":"images"},
 		{
-		"title":"vi. Please select the number below corresponding to the number of points presented: kolme",
+		"title":"vi. Please select the number below corresponding to the number of points presented: THREE",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -926,7 +926,7 @@
 		"timer":"30",
 		"type":"images"},
 		{
-		"title":"vii. Please select the number below corresponding to the number of points presented: seitsemän",
+		"title":"vii. Please select the number below corresponding to the number of points presented: SEVEN",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -953,7 +953,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number below corresponding to the number of points presented: viisi",
+		"title":"viii. Please select the number below corresponding to the number of points presented: FIVE",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -979,7 +979,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number below corresponding to the number of points presented: neljä",
+		"title":"ix. Please select the number below corresponding to the number of points presented: FOUR",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1005,7 +1005,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number below corresponding to the number of points presented: kuusi",
+		"title":"x. Please select the number below corresponding to the number of points presented: SIX",
 		"isHiddenTimer":false,
 			"options": [
 				{
