@@ -658,7 +658,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -708,7 +708,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 12,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -779,19 +779,19 @@
 			"options": [
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
-					"id": "3(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/3.png"
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/6.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/4.png"
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				}
 			]
 		},
@@ -801,20 +801,20 @@
 		"options": 
 			[
 				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/5.png"
-				},
-				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/6.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
 				},
 				{
-					"id": "7(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/7.png"
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -827,20 +827,20 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/5.png"
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
 				},
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/6.png"
-				},
-				{
-					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/7.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -853,20 +853,20 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
-					"id": "4(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/4.png"
-				},
-				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/6.png"
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -879,20 +879,20 @@
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/4.png"
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				},
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
-					"id": "6(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/6.png"
-				},
-				{
-					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/noname/7.png"
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
