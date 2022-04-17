@@ -923,7 +923,8 @@
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 		"pauseTimer":"3",
 		"timer":"30",
-		"type":"images"},
+		"type":"images"
+		},
 		{
 		"title":"vii. Please select the number below corresponding to the number of points presented: SEVEN",
 		"isHiddenTimer":false,
@@ -940,11 +941,10 @@
 					"id": "2",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
-				
 				{
 					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
-}
+				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
