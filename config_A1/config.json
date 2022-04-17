@@ -250,7 +250,7 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum. This educational method is based on scientific observations and academic research.",
+			"title": "The AGATA academic curriculum. This checking measures shared intentionality.",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 3
@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the option below with the same number of points as in the image of points presented earlier: THREE",
+			"title":"i. Please select the number five corresponding to the option with the grey and violet circle.",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -778,7 +778,7 @@
 			"pauseTimer":"3",
 			"options": [
 				{
-					"id": "5",
+					"id": "5(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
