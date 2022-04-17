@@ -898,10 +898,15 @@
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
 			"timer":"30",
-			"type":"images"},
+			"type":"images"
+		},
 		{
-		"title":"vi. Please select the number below corresponding to the number of points presented: THREE",
-		"isHiddenTimer":false,
+			"title":"i. Please select the option below with the same number of points as in the image of points presented earlier: THREE",
+			"type": "images",
+			"timer":"30",
+			"isHiddenTimer":false,
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer":"3",
 			"options": [
 				{
 					"id": "5",
@@ -919,16 +924,13 @@
 					"id": "1",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				}
-				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-		"pauseTimer":"3",
-		"timer":"30",
-		"type":"images"
+			]
 		},
 		{
-		"title":"vii. Please select the number below corresponding to the number of points presented: SEVEN",
+		"title":"ii. Please select the option below with the same number of points as in the image of points presented earlier: SEVEN",
 		"isHiddenTimer":false,
-			"options": [
+		"options": 
+			[
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
@@ -945,14 +947,14 @@
 					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				}
-				]
+			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number below corresponding to the number of points presented: FIVE",
+		"title":"iii. Please select the option below with the same number of points as in the image of points presented earlier: FIVE",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -978,7 +980,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number below corresponding to the number of points presented: FOUR",
+		"title":"iv. Please select the option below with the same number of points as in the image of points presented earlier: FOUR",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -988,6 +990,32 @@
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				}				
+				]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseTimer":"3",
+			"timer":"30",
+			"type":"images"
+		},
+		{
+		"title":"v. Please select the option below with the same number of points as in the image of points presented earlier: SIX",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				},
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				},
 				{
 					"id": "5",
@@ -999,32 +1027,6 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer":"3",
-			"timer":"30",
-			"type":"images"
-		},
-		{
-		"title":"x. Please select the number below corresponding to the number of points presented: SIX",
-		"isHiddenTimer":false,
-			"options": [
-				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
-				},
-				{
-					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
-				},
-				{
-					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
-				},
-				{
-					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
-				}
-				]
-			,"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
