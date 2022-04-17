@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the number five corresponding to the option with the grey and violet circle.",
+			"title":"i. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -796,7 +796,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the option below with the same number of points as in the image of points presented earlier: SEVEN",
+		"title":"ii. Please select the number four corresponding to the option with the blue (and grey inside) circle.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -805,7 +805,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "4",
+					"id": "4(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
 				},
 				{
@@ -823,11 +823,11 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the option below with the same number of points as in the image of points presented earlier: FIVE",
+		"title":"iii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "2",
+					"id": "2(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the option below with the same number of points as in the image of points presented earlier: FOUR",
+		"title":"iv. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -857,7 +857,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				},
 				{
-					"id": "3",
+					"id": "3(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the option below with the same number of points as in the image of points presented earlier: SIX",
+		"title":"v. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -883,7 +883,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "1",
+					"id": "1(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				},
 				{
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"i. Please select the option below with the same number of points as in the image of points presented earlier: THREE",
+			"title":"vi. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -917,7 +917,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
 				{
-					"id": "3",
+					"id": "3(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
@@ -927,7 +927,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the option below with the same number of points as in the image of points presented earlier: SEVEN",
+		"title":"vii. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -944,7 +944,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
 				{
-					"id": "5",
+					"id": "5(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				}
 			]
@@ -954,11 +954,11 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the option below with the same number of points as in the image of points presented earlier: FIVE",
+		"title":"viii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "2",
+					"id": "2(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
 				{
@@ -980,7 +980,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the option below with the same number of points as in the image of points presented earlier: FOUR",
+		"title":"ix. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -992,7 +992,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "5",
+					"id": "5(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
@@ -1006,7 +1006,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the option below with the same number of points as in the image of points presented earlier: SIX",
+		"title":"x. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1014,7 +1014,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "1",
+					"id": "1(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				},
 				{
