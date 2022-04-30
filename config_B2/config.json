@@ -791,7 +791,7 @@
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ballon.jpg",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ballon.jpg",
 			"pauseTimer":"3",
 			"options": [
 				{
@@ -860,7 +860,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ballon.jpg",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-ballon.jpg",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
@@ -886,7 +886,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}				
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ballon.jpg",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
@@ -912,7 +912,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main//story/turtle-cake.jpg",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
@@ -922,7 +922,7 @@
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main//story/bear-cake.jpg",
 			"pauseTimer":"3",
 			"options": [
 				{
@@ -965,7 +965,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				}
 			]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-cake.gif",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
@@ -991,7 +991,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-cake.gif",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
@@ -1017,7 +1017,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}				
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-cake.gif",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
