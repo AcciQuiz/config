@@ -776,8 +776,8 @@
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"type": "images",
 			"timer":"3",
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer":"3",	
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-ballon.jpg",
+			"pauseTimer":"9",	
 			"isHiddenTimer":true,
 			"options": [
 				{
@@ -791,7 +791,7 @@
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ballon.jpg",
 			"pauseTimer":"3",
 			"options": [
 				{
@@ -834,7 +834,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				}
 			]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-ballon.jpg",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
@@ -860,7 +860,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ballon.jpg",
 			"pauseTimer":"3",
 			"timer":"30",
 			"type":"images"
