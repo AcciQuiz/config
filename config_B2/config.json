@@ -1040,13 +1040,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-ic.jpq",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-ic.jpg",
 			"pauseTimer":"9",
 			"timer":"21",
 			"type":"images"
 		},
 	{
-			"title":"i. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+			"title":"xi. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
 			"type": "images",
 			"timer":"21",
 			"isHiddenTimer":false,
@@ -1072,7 +1072,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the number four corresponding to the option with the blue (and grey inside) circle.",
+		"title":"xii. Please select the number four corresponding to the option with the blue (and grey inside) circle.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -1099,7 +1099,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
+		"title":"xiii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1125,7 +1125,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
+		"title":"xiv. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1151,7 +1151,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
+		"title":"xv. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1177,7 +1177,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
+			"title":"xvi. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
 			"type": "images",
 			"timer":"21",
 			"isHiddenTimer":false,
@@ -1203,7 +1203,7 @@
 			]
 		},
 		{
-		"title":"vii. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"xvii. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -1230,7 +1230,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
+		"title":"xviii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1256,7 +1256,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"xix. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1282,7 +1282,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
+		"title":"xx. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1304,7 +1304,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"30",
+			"timer":"21",
 			"type":"images"
 		}
 	]
