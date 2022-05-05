@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+			"title":"i. Please select the number five corresponding to the option with the grey (and violet inside) circle. i. Խնդրում ենք ընտրել թիվ հինգը համարը, որը համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
