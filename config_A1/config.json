@@ -796,7 +796,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the number four corresponding to the option with the blue (and grey inside) circle.",
+		"title":"ii. Please select the number four corresponding to the option with the blue (and grey inside) circle. ii. Խնդրում ենք ընտրել թիվ չորսը թիվը, որը համապատասխանում է կապույտ (և ներսից մոխրագույն) շրջանակով տարբերակին.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -823,7 +823,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
+		"title":"iii. Please select the number two corresponding to the option with the violet (and green inside) circle. iii. Խնդրում ենք ընտրել թիվ երկուսը  համարը, որը համապատասխանում է մանուշակագույն (և ներսում կանաչ) շրջանակով տարբերակին.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
+		"title":"iv. Please select the number three corresponding to the option with the yellow (and blue inside) circle. iv. Խնդրում ենք ընտրել թիվ երեքը, որը համապատասխանում է դեղին (և ներսից կապույտ) շրջանակով տարբերակին համապատասխանող երեք թիվը.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
+		"title":"v. Please select the number one corresponding to the option with the green (and yellow inside) circle. v. Խնդրում ենք ընտրել թիվ մեկը, որը համապատասխանում է  կանաչ (և ներսից դեղին) շրջանակով տարբերակին ընտրանքին համապատասխանող թիվ մեկ.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
+			"title":"vi. Please select the number three corresponding to the option with the yellow (and blue inside) circle. vi. Խնդրում ենք ընտրել թիվ երեքը, որը համապատասխանում է դեղին (և ներսից կապույտ) շրջանակով տարբերակին  ընտրանքին համապատասխանող երեք թիվը.",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -927,7 +927,7 @@
 			]
 		},
 		{
-		"title":"vii. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"vii. Please select the number five corresponding to the option with the grey (and violet inside) circle. vii. Խնդրում ենք ընտրել թիվ հինգը համարը, որը համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -954,7 +954,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number two corresponding to the option with the violet (and green inside) circle.",
+		"title":"viii. Please select the number two corresponding to the option with the violet (and green inside) circle. viii. Խնդրում ենք ընտրել թիվ երկուսը, որը համապատասխանում է մանուշակագույն (և ներսից կանաչ) շրջանով տարբերակին համապատասխանող երկու թիվը։",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -980,7 +980,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"ix. Please select the number five corresponding to the option with the grey (and violet inside) circle. ix. Խնդրում ենք ընտրել թիվ հինգը համարը, որը համապատասխանում է մոխրագույն (և ներսից մանուշակագույն) շրջանակով տարբերակին։",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1006,7 +1006,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number one corresponding to the option with the green (and yellow inside) circle.",
+		"title":"x. Please select the number one corresponding to the option with the green (and yellow inside) circle. x. Խնդրում ենք ընտրել թիվ մեկը, որը համապատասխանում է կանաչ (և ներսից դեղին) շրջանակով  տարբերակին ընտրանքին համապատասխանող թիվ մեկ։",
 		"isHiddenTimer":false,
 			"options": [
 				{
