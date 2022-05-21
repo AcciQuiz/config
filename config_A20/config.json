@@ -1145,19 +1145,19 @@
 			"pauseTimer": 0,
 			"options": [
 				{
-					"id": "3",
+					"id": "glaz",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/глаз.png"
 				},
 				{
-					"id": "3",
+					"id": "vata",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/вата.png"
 				},
 				{
-					"id": "3",
+					"id": "baba",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/баба.png"
 				},
 				{
-					"id": "3",
+					"id": "arka",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/арка.png"
 				}
 			]
@@ -1267,15 +1267,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
-					"id": "3",
+					"id": "4",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
-					"id": "3",
+					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
-					"id": "3",
+					"id": "6",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
@@ -1291,15 +1291,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/грач.png"
 				},
 				{
-					"id": "3",
+					"id": "4",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/весы.png"
 				},
 				{
-					"id": "3",
+					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/дети.png"
 				},
 				{
-					"id": "3",
+					"id": "6",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/бант.png"
 				}
 			]
