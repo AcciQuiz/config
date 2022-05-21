@@ -784,7 +784,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+			"title":"i. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 			"type": "images",
 			"timer":"21",
 			"isHiddenTimer":false,
@@ -793,7 +793,7 @@
 			"options": [
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "6",
@@ -876,7 +876,7 @@
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "2",
@@ -902,7 +902,7 @@
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "6",
@@ -924,7 +924,7 @@
 			"options": [
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "2",
@@ -941,7 +941,7 @@
 			]
 		},
 		{
-		"title":"vii. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"vii. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -959,7 +959,7 @@
 				},
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-cake.jpg",
@@ -994,7 +994,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"ix. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1007,7 +1007,7 @@
 				},
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "6",
@@ -1033,7 +1033,7 @@
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "6",
@@ -1046,7 +1046,7 @@
 			"type":"images"
 		},
 	{
-			"title":"xi. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+			"title":"xi. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 			"type": "images",
 			"timer":"21",
 			"isHiddenTimer":false,
@@ -1055,7 +1055,7 @@
 			"options": [
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "6",
@@ -1138,7 +1138,7 @@
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "2",
@@ -1164,7 +1164,7 @@
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "6",
@@ -1186,7 +1186,7 @@
 			"options": [
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "2",
@@ -1203,7 +1203,7 @@
 			]
 		},
 		{
-		"title":"xvii. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"xvii. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -1221,7 +1221,7 @@
 				},
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-candy.jpg",
@@ -1256,7 +1256,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xix. Please select the number five corresponding to the option with the grey (and violet inside) circle.",
+		"title":"xix. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1269,7 +1269,7 @@
 				},
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
 				},
 				{
 					"id": "6",
