@@ -838,12 +838,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
@@ -854,22 +857,6 @@
 			"timer": 1,
 			"pauseTimer": 0,
 			"options": [
-				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/о.png"
-				},
-				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/м.png"
-				},
-				{
-					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/б.png"
-				},
-				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/ц.png"
-				},
 				{
 					"id": "4",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/л.png"
@@ -885,6 +872,22 @@
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/и.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/о.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/м.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/б.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/ц.png"
 				},
 				{
 					"id": "4",
@@ -931,12 +934,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
@@ -947,22 +953,6 @@
 			"timer": 1,
 			"pauseTimer": 0,
 			"options": [
-				{
-					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/д.png"
-				},
-				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/с.png"
-				},
-				{
-					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
-				},
-				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/у.png"
-				},
 				{
 					"id": "4",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/л.png"
@@ -978,6 +968,22 @@
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/н.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/д.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/с.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/у.png"
 				},
 				{
 					"id": "4",
@@ -1118,12 +1124,16 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
@@ -1139,12 +1149,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/глаз.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/вата.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/баба.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/арка.png"
 				}
 			]
@@ -1179,22 +1192,6 @@
 			"options": [
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/б.png"
-				},
-				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
-				},
-				{
-					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/н.png"
-				},
-				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/т.png"
-				},
-				{
-					"id": "4",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/в.png"
 				},
 				{
@@ -1208,6 +1205,22 @@
 				{
 					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/ы.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/б.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/а.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/н.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/letters/т.png"
 				},
 				{
 					"id": "4",
@@ -1254,12 +1267,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
@@ -1272,15 +1288,18 @@
 			"options": [
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/дети.png"
-				},
-				{
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/весы.png"
-				},
-				{
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/грач.png"
 				},
 				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/весы.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/дети.png"
+				},
+				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/бант.png"
 				}
 			]
@@ -1390,12 +1409,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
@@ -1407,16 +1429,19 @@
 			"pauseTimer": 0,
 			"options": [
 				{
-					"id": "3",
+					"id": "grib",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/гриб.png"
 				},
 				{
+					"id": "volk",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/волк.png"
 				},
 				{
+					"id": "dyadya",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/дядя.png"
 				},
 				{
+					"id": "banya",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/words/баня.png"
 				}
 			]
@@ -1432,12 +1457,15 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
+					"id": "3",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
