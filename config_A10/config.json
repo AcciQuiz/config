@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
-			"timer": 12,
+			"timer": 9,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -140,7 +140,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 12,
+			"timer": 9,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -308,7 +308,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -358,7 +358,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -408,7 +408,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -458,7 +458,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -508,7 +508,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -558,7 +558,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -608,7 +608,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -658,7 +658,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -708,7 +708,7 @@
 		{
 			"title": "Counting from 1 to 10 pears",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -759,7 +759,7 @@
 			"title": "I",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-1.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -786,7 +786,7 @@
 			"title": "II",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-8.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -812,7 +812,7 @@
 			"title": "III",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-10.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -838,7 +838,7 @@
 			"title": "iv",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-5.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -864,7 +864,7 @@
 			"title": "V",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-7.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -890,7 +890,7 @@
 			"title": "VI",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-3.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -916,7 +916,7 @@
 			"title": "VII",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-4.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -943,7 +943,7 @@
 			"title": "VIII",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-6.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -969,7 +969,7 @@
 			"title": "IX",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-9.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -995,7 +995,7 @@
 			"title": "X",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-2.png",
 			"type": "images",
-			"timer": 10,
+			"timer": 9,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
