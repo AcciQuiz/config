@@ -890,7 +890,7 @@
 			"title": "VI",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-3.png",
 			"type": "images",
-			"timer": 9,
+			"timer": 6,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -916,7 +916,7 @@
 			"title": "VII",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-4.png",
 			"type": "images",
-			"timer": 9,
+			"timer": 6,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -943,7 +943,7 @@
 			"title": "VIII",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-6.png",
 			"type": "images",
-			"timer": 9,
+			"timer": 6,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -969,7 +969,7 @@
 			"title": "IX",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-9.png",
 			"type": "images",
-			"timer": 9,
+			"timer": 6,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
@@ -995,7 +995,7 @@
 			"title": "X",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-2.png",
 			"type": "images",
-			"timer": 9,
+			"timer": 6,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
