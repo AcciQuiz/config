@@ -778,12 +778,12 @@
 			"pauseTimer":"3",
 			"options": [
 				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
-				},
-				{
 					"id": "6",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
 					"id": "3",
@@ -805,16 +805,16 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				},
 				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
 					"id": "4(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
 				},
 				{
 					"id": "2",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
-				},
-				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -883,16 +883,16 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
 				},
 				{
-					"id": "1(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				},
 				{
 					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"id": "1(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -936,16 +936,16 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
 					"id": "1",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				},
 				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -1014,16 +1014,16 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
 				},
 				{
-					"id": "1(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				},
 				{
 					"id": "5",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
-					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"id": "1(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
