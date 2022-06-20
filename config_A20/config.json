@@ -828,7 +828,7 @@
 			]
 		},
 		{
-			"title": "pause",
+			"title": "pause, expecting for II",
 			"type": "images",
 			"timer": 60,
 			"pauseTimer": 0,
@@ -854,7 +854,7 @@
 		{
 			"type": "images_quad",
 			"isHiddenTimer":false,
-			"timer": 1,
+			"timer": 2,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -924,7 +924,7 @@
 			]
 		},
 		{
-			"title": "pause",
+			"title": "pause, expecting for III",
 			"type": "images",
 			"timer": 60,
 			"pauseTimer": 0,
@@ -1020,7 +1020,7 @@
 			]
 		},
 		{
-			"title": "pause",
+			"title": "pause, expexting for WORDS I",
 			"type": "images",
 			"timer": 60,
 			"pauseTimer": 0,
@@ -1114,7 +1114,7 @@
 			]
 		},
 		{
-			"title": "pause",
+			"title": "pause, expecting for ANSWERS I",
 			"type": "images",
 			"timer": 6,
 			"pauseTimer": 0,
@@ -1163,7 +1163,7 @@
 			]
 		},	
 		{
-			"title": "pause",
+			"title": "pause, expecting for WORDS II",
 			"type": "images",
 			"timer": 30,
 			"pauseTimer": 0,
@@ -1257,7 +1257,7 @@
 			]
 		},
 		{
-			"title": "pause",
+			"title": "pause, especting for ANSWERS II",
 			"type": "images",
 			"timer": 6,
 			"pauseTimer": 0,
@@ -1305,7 +1305,7 @@
 			]
 		},	
 		{
-			"title": "pause",
+			"title": "pause, expecting for WORDS III",
 			"type": "images",
 			"timer": 30,
 			"pauseTimer": 0,
@@ -1399,7 +1399,7 @@
 			]
 		},
 				{
-			"title": "pause",
+			"title": "pause, expecting for ANSWERS III",
 			"type": "images",
 			"timer": 6,
 			"pauseTimer": 0,
@@ -1447,7 +1447,7 @@
 			]
 		},	
 		{
-			"title": "pause",
+			"title": "pause FINISH",
 			"type": "images",
 			"timer": 30,
 			"pauseTimer": 0,
