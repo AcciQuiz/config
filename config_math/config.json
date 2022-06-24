@@ -813,7 +813,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5a3.png",
-			"pauseTimer":"2",
+			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
 		},
@@ -839,7 +839,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4a3.png",
-			"pauseTimer":"2",
+			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
 		},
@@ -865,7 +865,7 @@
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6a3.png",
-			"pauseTimer":"2",
+			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
 		},
@@ -891,7 +891,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3a3.png",
-			"pauseTimer":"2",
+			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"},
 		{
@@ -944,7 +944,7 @@
 }
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5a3.png",
-			"pauseTimer":"2",
+			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
 		},
@@ -970,7 +970,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4a3.png",
-			"pauseTimer":"2",
+			"pauseTimer":"1",
 			"timer":"19", 
 			"type":"images"
 		},
@@ -996,7 +996,7 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6a3.png",
-			"pauseTimer":"2",
+			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
 		},
@@ -1028,4 +1028,3 @@
 		}
 	]
 }
-
