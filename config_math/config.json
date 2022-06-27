@@ -759,8 +759,8 @@
 		"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 		"isHiddenTimer":true,
 		"options":[{"id":" ","link":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"}]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3a3.png",
-		"pauseTimer":"2",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3b1.png",
+		"pauseTimer":"1",
 		"timer":"2",
 		"type":"images"},
 		{
@@ -773,7 +773,7 @@
 				},
 				{
 					"id": "3(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3answ-a3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3answ-b1.png"
 				},
 				{
 					"id": "6",
@@ -786,7 +786,7 @@
 				}
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/2a3.png",
-		"pauseTimer":"2",
+		"pauseTimer":"1",
 		"timer":"19",
 		"type":"images"
 		},
@@ -812,7 +812,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/2answ.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5a3.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5b1.png",
 			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
@@ -823,7 +823,7 @@
 			"options": [
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5answ-a3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5answ-b1.png"
 				},
 				{
 					"id": "4",
@@ -838,7 +838,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4a3.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4b1.png",
 			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
@@ -857,14 +857,14 @@
 				},
 				{
 					"id": "4(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4answ-a3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4.png"
 				},
 				{
 					"id": "6",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6.png"
 				}				
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6a3.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6b1.png",
 			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
@@ -890,12 +890,12 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3a3.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/3b1.png",
 			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"vi.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -917,12 +917,12 @@
 				}
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/2a3.png",
-		"pauseTimer":"2",
+		"pauseTimer":"1",
 		"timer":"19",
 		"type":"images"},
 
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"vii.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -943,13 +943,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
 }
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5a3.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5b1.png",
 			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"viii.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -969,13 +969,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4a3.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4b1.png",
 			"pauseTimer":"1",
 			"timer":"19", 
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"ix.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -995,13 +995,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6a3.png",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6b1.png",
 			"pauseTimer":"1",
 			"timer":"19",
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"x.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1028,3 +1028,4 @@
 		}
 	]
 }
+
