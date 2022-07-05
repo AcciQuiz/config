@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the number 5 corresponding to GRIGIO (con VIOLA)  i. Ընտրեք խնդրում ենք՝ ո՞ր տարբերակին է համապատասխան  հինգը թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին:",
+			"title":"i. Please select the number 5 corresponding to GRIGIO (con VIOLA) :",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -796,7 +796,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the number 4 corresponding to BLU (con GRIGIO)  ii. Խնդրում ենք ընտրել ո՞ր տարբերակին է կամապատասխանում չորս թիվը, համապատասխանում է կապույտ (և ներսում  մոխրագույն) շրջանակով տարբերակին:",
+		"title":"ii. Please select the number 4 corresponding to BLU (con GRIGIO) :",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -823,7 +823,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the number 2 corresponding to VIOLA (con VERDE)  iii. Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երկու թիվը, համապատասխանում է մանուշակագույն (և ներսում կանաչ) շրջանակով տարբերակին:",
+		"title":"iii. Please select the number 2 corresponding to VIOLA (con VERDE) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number 3 corresponding to GIALLA (con BLU) iv. Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երեք թիվը, համապատասխանում է դեղին (և ներսից կապույտ) շրջանակով տարբերակին։",
+		"title":"iv. Please select the number 3 corresponding to GIALLA (con BLU) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the number 1 corresponding to VERDE (con GIALLA)  v. Խնդրում ենք ընտրել,ո՞ր տարբերակին է համապատասխանում մեկ թիվը, համապատասխանում է  կանաչ (և ներսից դեղին) շրջանակով տարբերակին:",
+		"title":"v. Please select the number 1 corresponding to VERDE (con GIALLA) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. Please select the number 4 corresponding to GIALLA (con BLU)  vi. Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երեք թիվը, համապատասխանում է դեղին (և ներսից կապույտ) շրջանակով տարբերակին։",
+			"title":"vi. Please select the number 4 corresponding to GIALLA (con BLU) :",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -927,7 +927,7 @@
 			]
 		},
 		{
-		"title":"vii. Please select the number 5 corresponding to GRIGIO (con VIOLA) vii. Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին:",
+		"title":"vii. Please select the number 5 corresponding to GRIGIO (con VIOLA):",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -954,7 +954,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number 2 corresponding to VIOLA (con VERDE) viii. Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երկու թիվը, համապատասխանում է մանուշակագույն (և ներսից կանաչ) շրջանով տարբերակին:",
+		"title":"viii. Please select the number 2 corresponding to VIOLA (con VERDE) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -980,7 +980,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number 5 corresponding to GRIGIO (con VIOLA)  ix. Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասվան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսից մանուշակագույն) շրջանակով տարբերակին։",
+		"title":"ix. Please select the number 5 corresponding to GRIGIO (con VIOLA) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1006,7 +1006,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number 1 corresponding to VERDE (con GIALLA) x. Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասվան  մեկ թիվը,համապատասխանում է կանաչ (և ներսից դեղին) շրջանակով  տարբերակին:",
+		"title":"x. Please select the number 1 corresponding to VERDE (con GIALLA):",
 		"isHiddenTimer":false,
 			"options": [
 				{
