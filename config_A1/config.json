@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number 3 corresponding to GIALLA (con BLU) :",
+		"title":"iv. Please select the number 3 corresponding to GIALLO (con BLU) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the number 1 corresponding to VERDE (con GIALLA) :",
+		"title":"v. Please select the number 1 corresponding to VERDE (con GIALLO) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. Please select the number 4 corresponding to GIALLA (con BLU) :",
+			"title":"vi. Please select the number 4 corresponding to GIALLO (con BLU) :",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -1006,7 +1006,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number 1 corresponding to VERDE (con GIALLA):",
+		"title":"x. Please select the number 1 corresponding to VERDE (con GIALLO):",
 		"isHiddenTimer":false,
 			"options": [
 				{
