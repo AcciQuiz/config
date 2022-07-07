@@ -895,7 +895,7 @@
 			"timer":"19",
 			"type":"images"},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"vi.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -916,13 +916,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
 				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/2b2.png",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7b2.png",
 		"pauseTimer":"2",
 		"timer":"19",
 		"type":"images"},
 
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"vii.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -939,8 +939,8 @@
 				},
 				
 				{
-					"id": "2(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+					"id": "7(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 }
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5b2.png",
@@ -949,7 +949,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"viii.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -975,7 +975,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"ix.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1001,7 +1001,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"x.Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
