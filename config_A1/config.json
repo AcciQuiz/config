@@ -772,7 +772,7 @@
 		{
 			"title":"i. Please select the number 5 corresponding to GRIGIO (con VIOLA) :",
 			"type": "images",
-			"timer":"30",
+			"timer":"36",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Carote3_6sec.gif",
 			"pauseTimer":"6",
@@ -819,7 +819,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Machine3_6sec.gif",
 			"pauseTimer":"6",
-			"timer":"30",
+			"timer":"36",
 			"type":"images"
 		},
 		{
