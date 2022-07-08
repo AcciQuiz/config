@@ -8,7 +8,7 @@
 			{
 				"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 				"type": "question",
-				"timer": 12,
+				"timer": 3,
 				"pauseTimer": 0,
 				"options": [
 					{
@@ -140,7 +140,7 @@
 			{
 				"title": "Registration. Please choose one letter from the list below which relates to your name.",
 				"type": "question",
-				"timer": 12,
+				"timer": 3,
 				"pauseTimer": 0,
 				"options": [
 					{
@@ -756,11 +756,11 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "i. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+6().png",
 				"type": "images",
 				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+				"pauseImageLink": "https://github.com/AcciQuiz/config/blob/8cc986b0211d1c1bd7a9ec15745f07511c5a23ba/config_math/ImagesMath/GIF-Carote_6sec.gif",
 				"pauseTimer": 3,
 				"options": [
 					{
@@ -782,7 +782,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "ii. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+7().png",
 				"type": "images",
 				"timer": 15,
@@ -808,7 +808,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "iii. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+8().png",
 				"type": "images",
 				"timer": 15,
@@ -834,7 +834,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "iv. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+9().png",
 				"type": "images",
 				"timer": 15,
@@ -860,7 +860,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "v. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+10().png",
 				"type": "images",
 				"timer": 15,
@@ -886,7 +886,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "vi. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+6().png",
 				"type": "images",
 				"timer": 15,
@@ -912,7 +912,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "vii. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+7().png",
 				"type": "images",
 				"timer": 15,
@@ -939,7 +939,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "viii. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+8().png",
 				"type": "images",
 				"timer": 15,
@@ -965,7 +965,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "ix. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+9().png",
 				"type": "images",
 				"timer": 15,
@@ -991,7 +991,7 @@
 				]
 			},
 			{
-				"title": "Give an answer",
+				"title": "x. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+10().png",
 				"type": "images",
 				"timer": 15,
