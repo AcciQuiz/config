@@ -6,7 +6,7 @@
 	},
 	"config": [
 		{
-			"title": "Registration. candy select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+			"title": "Registration. Please kindly select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
 			"timer": 12,
 			"pauseTimer": 0,
@@ -138,7 +138,7 @@
 			]
 		},
 		{
-			"title": "Registration. candy choose one letter from the list below which relates to your name.",
+			"title": "Registration. Please kindly choose one letter from the list below which relates to your name.",
 			"type": "question",
 			"timer": 12,
 			"pauseTimer": 0,
@@ -764,7 +764,7 @@
 		"timer":"2",
 		"type":"images"},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"i. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -791,7 +791,7 @@
 		"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"ii. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -818,7 +818,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"iii. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -844,7 +844,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"iv. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -870,7 +870,7 @@
 			"type":"images"
 		},
 		{
-		"title":"Please select the number below corresponding to the number of points presented",
+		"title":"v. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -918,11 +918,11 @@
 				]
 		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/7b2.png",
 		"pauseTimer":"2",
-		"timer":"19",
+		"timer":"25",
 		"type":"images"},
 
 		{
-		"title":"vii.Please select the number below corresponding to the number of points presented",
+		"title":"vii. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -945,11 +945,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/5b2.png",
 			"pauseTimer":"2",
-			"timer":"19",
+			"timer":"25",
 			"type":"images"
 		},
 		{
-		"title":"viii.Please select the number below corresponding to the number of points presented",
+		"title":"viii. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -971,11 +971,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/4b2.png",
 			"pauseTimer":"2",
-			"timer":"19", 
+			"timer":"25", 
 			"type":"images"
 		},
 		{
-		"title":"ix.Please select the number below corresponding to the number of points presented",
+		"title":"ix. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -997,11 +997,11 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/6b2.png",
 			"pauseTimer":"2",
-			"timer":"19",
+			"timer":"25",
 			"type":"images"
 		},
 		{
-		"title":"x.Please select the number below corresponding to the number of points presented",
+		"title":"x. Please select the number below corresponding to the number of points presented",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1023,7 +1023,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"pauseTimer":"1",
-			"timer":"19",
+			"timer":"25",
 			"type":"images"
 		}
 	]
