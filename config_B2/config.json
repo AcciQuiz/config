@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 			"type": "question",
-			"timer": 15,
+			"timer": 3,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -140,7 +140,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 15,
+			"timer": 3,
 			"pauseTimer": 0,
 			"options": [
 				{
