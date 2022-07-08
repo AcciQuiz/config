@@ -869,8 +869,8 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}				
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer":"3",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Banane4_6sec.gif",
+			"pauseTimer":"6",
 			"timer":"30",
 			"type":"images"
 		},
