@@ -759,8 +759,8 @@
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"type": "images",
 			"timer":"3",
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer":"3",	
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire11_6sec.gif",
+			"pauseTimer":"6",	
 			"isHiddenTimer":true,
 			"options": [
 				{
@@ -817,7 +817,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				}
 			]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire10_6sec.gif",
 			"pauseTimer":"6",
 			"timer":"36",
 			"type":"images"
@@ -843,7 +843,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire9_6sec.gif",
 			"pauseTimer":"6",
 			"timer":"30",
 			"type":"images"
@@ -895,7 +895,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire4_4sec.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire8_sec.gif",
 			"pauseTimer":"6",
 			"timer":"30",
 			"type":"images"
@@ -905,7 +905,7 @@
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire1_4sec.gif",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire7_6sec.gif",
 			"pauseTimer":"6",
 			"options": [
 				{
@@ -948,7 +948,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				}
 			]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire6_4sec.gif",
 			"pauseTimer":"6",
 			"timer":"30",
 			"type":"images"
