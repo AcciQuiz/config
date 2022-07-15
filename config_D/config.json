@@ -759,7 +759,7 @@
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"type": "images",
 			"timer":"2",
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/ThreeDots300.gif",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif_3_300.gif",
 			"pauseTimer":"3",	
 			"isHiddenTimer":true,
 			"options": [
