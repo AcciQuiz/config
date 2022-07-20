@@ -921,9 +921,9 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
 				}
 				]
-		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif_7_300.gif",
-		"pauseTimer":"3",
-			"timer":"15",
+		,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif7_300_2.gif",
+		"pauseTimer":"2",
+			"timer":"19",
 		"type":"images"},
 		{
 		"title":"vii. Please select the number below corresponding to the number of points presented",
@@ -947,9 +947,9 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 }
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif_5_300.gif",
-			"pauseTimer":"3",
-			"timer":"15",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif5_300_2.gif",
+			"pauseTimer":"2",
+			"timer":"19",
 			"type":"images"
 		},
 		{
@@ -973,9 +973,9 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif_4_300.gif",
-			"pauseTimer":"3",
-			"timer":"15",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif4_300_2.gif",
+			"pauseTimer":"2",
+			"timer":"19",
 			"type":"images"
 		},
 		{
@@ -999,9 +999,9 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
 				}
 				]
-			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif_6_300.gif",
-			"pauseTimer":"3",
-			"timer":"15",
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/Gif6_300_2.gif",
+			"pauseTimer":"2",
+			"timer":"19",
 			"type":"images"
 		},
 		{
@@ -1027,7 +1027,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"pauseTimer":"1",
-			"timer":"15",
+			"timer":"19",
 			"type":"images"
 		}
 	]
