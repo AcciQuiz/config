@@ -888,8 +888,8 @@
 			"title": "vi. Biscotti",
 			"type": "images",
 			"timer": 18,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire6_4sec.gif",
+			"pauseTimer": 6,
 			"options": [
 				{
 					"id": "Biscotti(+)",
@@ -914,8 +914,8 @@
 			"title": "vii. Formaggio",
 			"type": "images",
 			"timer": 18,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire7_6sec.gif",
+			"pauseTimer": 6,
 			"options": [
 				{
 					"id": "Kiwi",
@@ -940,8 +940,8 @@
 			"title": "viii. Uva",
 			"type": "images",
 			"timer": 18,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire8_sec.gif",
+			"pauseTimer": 6,
 			"options": [
 				{
 					"id": "Uva(+)",
@@ -965,8 +965,8 @@
 			"title": "ix. Candy",
 			"type": "images",
 			"timer": 18,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire9_6sec.gif",
+			"pauseTimer": 6,
 			"options": [
 				{
 					"id": "Bread",
@@ -990,8 +990,8 @@
 			"title": "x. Biscotti",
 			"type": "images",
 			"timer": 18,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-			"pauseTimer": 3,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire10_6sec.gif",
+			"pauseTimer": 6,
 			"options": [
 								{
 					"id": "Tomato",
