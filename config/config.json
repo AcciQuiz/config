@@ -756,7 +756,7 @@
 			]
 		},
 		{
-			"title": "Mela",
+			"title": "i. Mela",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -782,7 +782,7 @@
 			]
 		},
 		{
-			"title": "Banana",
+			"title": "ii. Uva",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -797,24 +797,24 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
 				},
 				{
-					"id": "Grapes",
+					"id": "Uva(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
 				},
 				{
-					"id": "Banana (+)",
+					"id": "Banana",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
 				}
 			]
 		},
 		{
-			"title": "Pomodoro",
+			"title": "iii. Mela",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "Pomodoro (+)",
+					"id": "Pomodoro",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
 				},
 				{
@@ -822,18 +822,18 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/potato.png"
 				},
 				{
-					"id": "Grapes",
+					"id": "Uva",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
 				},
 				
 				{
-					"id": "Apple",
+					"id": "Mela(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/apple.png"
 				}
 			]
 		},
 		{
-			"title": "Uva",
+			"title": "iv. Uva",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -859,7 +859,7 @@
 			]
 		},
 		{
-			"title": "Potato",
+			"title": "v. Potato",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -885,18 +885,18 @@
 			]
 		},
 		{
-			"title": "Pane",
+			"title": "vi. Biscotti",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "Biscuit",
+					"id": "Biscotti(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bisquit.png"
 				},
 				{
-					"id": "Pane (+)",
+					"id": "Pane",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bread.png"
 				},
 				{
@@ -911,14 +911,14 @@
 			]
 		},
 		{
-			"title": "Kiwi",
+			"title": "vii. Formaggio",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "Kiwi (+)",
+					"id": "Kiwi",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
 				},
 				{
@@ -926,7 +926,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bisquit.png"
 				},
 				{
-					"id": "Cheese",
+					"id": "Formagio(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/cheese.png"
 				},
 				
@@ -937,14 +937,14 @@
 			]
 		},
 		{
-			"title": "Formaggio",
+			"title": "viii. Uva",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer": 3,
 			"options": [
 				{
-					"id": "Grapes",
+					"id": "Uva(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
 				},
 				{
@@ -952,7 +952,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				},
 				{
-					"id": "Formaggio (+)",
+					"id": "Formaggio",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/cheese.png"
 				},
 				{
@@ -962,7 +962,7 @@
 			]
 		},
 		{
-			"title": "Caramella",
+			"title": "ix. Candy",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -981,13 +981,13 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
 				},
 				{
-					"id": "Caramella (+)",
+					"id": "Candy(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
 				}
 			]
 		},
 		{
-			"title": "Biscotti",
+			"title": "x. Biscotti",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
@@ -1006,7 +1006,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
 				},
 				{
-					"id": "Cheese",
+					"id": "Formaggio",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/cheese.png"
 				}
 			]
