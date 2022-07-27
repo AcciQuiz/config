@@ -807,7 +807,7 @@
 			]
 		},
 		{
-			"title": "iii. Mela ( Õun )",
+			"title": "iii. Torta ( Kuuka )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire3_4sec.gif",
@@ -827,13 +827,13 @@
 				},
 				
 				{
-					"id": "Mela(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/apple.png"
+					"id": "Torta(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/Torta.JPG"
 				}
 			]
 		},
 		{
-			"title": "iv. Uva ( Grapes )",
+			"title": "iv. Uovo ( Egg )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire4_4sec.gif",
@@ -849,8 +849,8 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/potato.png"
 				},
 				{
-					"id": "Uva (+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"id": "Uovo (+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/Uovo.jpg"
 				},
 				{
 					"id": "Tomato",
