@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the number 5 corresponding to GRIGIO (con VIOLA) :",
+			"title":"i. Please select the number 5 corresponding to G (con ) :",
 			"type": "images",
 			"timer":"36",
 			"isHiddenTimer":false,
@@ -796,7 +796,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the number 4 corresponding to BLU (con GRIGIO) :",
+		"title":"ii. Please select the number 4 corresponding to  (con ) :",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -823,7 +823,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the number 2 corresponding to VIOLA (con VERDE) :",
+		"title":"iii. Please select the number 2 corresponding to  (con ) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number 3 corresponding to GIALLO (con BLU) :",
+		"title":"iv. Please select the number 3 corresponding to  (con ) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the number 1 corresponding to VERDE (con GIALLO) :",
+		"title":"v. Please select the number 1 corresponding to  (con ) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. Please select the number 4 corresponding to GIALLO (con BLU) :",
+			"title":"vi. Please select the number 4 corresponding to  (con ) :",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -927,7 +927,7 @@
 			]
 		},
 		{
-		"title":"vii. Please select the number 5 corresponding to GRIGIO (con VIOLA):",
+		"title":"vii. Please select the number 5 corresponding to  (con ):",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -954,7 +954,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number 2 corresponding to VIOLA (con VERDE) :",
+		"title":"viii. Please select the number 2 corresponding to  (con ) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -980,7 +980,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number 5 corresponding to GRIGIO (con VIOLA) :",
+		"title":"ix. Please select the number 5 corresponding to  (con ) :",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1006,7 +1006,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number 1 corresponding to VERDE (con GIALLO):",
+		"title":"x. Please select the number 1 corresponding to  (con ):",
 		"isHiddenTimer":false,
 			"options": [
 				{
