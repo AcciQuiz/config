@@ -782,7 +782,7 @@
 			]
 		},
 		{
-			"title": "ii. Uva ( Grapes )",
+			"title": "ii. Uva ( Gusim )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire2_4sec.gif",
@@ -833,7 +833,7 @@
 			]
 		},
 		{
-			"title": "iv. Uovo ( Egg )",
+			"title": "iv. Uovo ( Muna )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire4_4sec.gif",
@@ -911,7 +911,7 @@
 			]
 		},
 		{
-			"title": "vii. Formaggio ( juust )",
+			"title": "vii. Formaggio ( Juust )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire7_6sec.gif",
