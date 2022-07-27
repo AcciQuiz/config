@@ -756,7 +756,7 @@
 			]
 		},
 		{
-			"title": "i. Mela",
+			"title": "i. Mela ( Õun )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire1_4sec.gif",
@@ -782,7 +782,7 @@
 			]
 		},
 		{
-			"title": "ii. Uva",
+			"title": "ii. Uva ( Grapes )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire2_4sec.gif",
@@ -807,15 +807,15 @@
 			]
 		},
 		{
-			"title": "iii. Mela",
+			"title": "iii. Mela ( Õun )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire3_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "Pomodoro",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
+					"id": "Biscotti",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bisquit.png"
 				},
 				{
 					"id": "Potato",
@@ -833,7 +833,7 @@
 			]
 		},
 		{
-			"title": "iv. Uva",
+			"title": "iv. Uva ( Grapes )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire4_4sec.gif",
@@ -859,7 +859,7 @@
 			]
 		},
 		{
-			"title": "v. Potato",
+			"title": "v. Potato ( Bulvė )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
@@ -885,7 +885,7 @@
 			]
 		},
 		{
-			"title": "vi. Biscotti",
+			"title": "vi. Biscotti ( Cepums )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire6_4sec.gif",
@@ -911,7 +911,7 @@
 			]
 		},
 		{
-			"title": "vii. Formaggio",
+			"title": "vii. Formaggio ( juust )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire7_6sec.gif",
@@ -937,15 +937,15 @@
 			]
 		},
 		{
-			"title": "viii. Uva",
+			"title": "viii. Potato ( Bulvė )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire8_sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "Uva(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					"id": "Bulvė(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/potato.png"
 				},
 				{
 					"id": "Candy",
@@ -962,7 +962,7 @@
 			]
 		},
 		{
-			"title": "ix. Candy",
+			"title": "ix. Candy-Caramella ( Kommid )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire9_6sec.gif",
@@ -987,7 +987,7 @@
 			]
 		},
 		{
-			"title": "x. Biscotti",
+			"title": "x. Biscotti ( Cepums )",
 			"type": "images",
 			"timer": 18,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire10_6sec.gif",
