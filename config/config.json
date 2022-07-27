@@ -814,8 +814,8 @@
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "Biscotti",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/bisquit.png"
+					"id": "Tomato",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
 				},
 				{
 					"id": "Potato",
@@ -828,7 +828,7 @@
 				
 				{
 					"id": "Torta(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/Torta.JPG"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/Torta.png"
 				}
 			]
 		},
