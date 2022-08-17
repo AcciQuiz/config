@@ -759,7 +759,7 @@
 				"title": "i. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+6().png",
 				"type": "images",
-				"timer": 15,
+				"timer": 30,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Pomodori5_6sec.gif",
 				"pauseTimer": 6,
 				"options": [
@@ -785,7 +785,7 @@
 				"title": "ii. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+7().png",
 				"type": "images",
-				"timer": 15,
+				"timer": 30,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Carote3_6sec.gif",
 				"pauseTimer": 6,
 				"options": [
@@ -811,7 +811,7 @@
 				"title": "iii. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+8().png",
 				"type": "images",
-				"timer": 15,
+				"timer": 30,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Machine3_6sec.gif",
 				"pauseTimer": 6,
 				"options": [
@@ -837,7 +837,7 @@
 				"title": "iv. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+9().png",
 				"type": "images",
-				"timer": 15,
+				"timer": 30,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 				"pauseTimer": 6,
 				"options": [
@@ -863,7 +863,7 @@
 				"title": "v. Give an answer",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5+10().png",
 				"type": "images",
-				"timer": 15,
+				"timer": 30,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetG5_6sec.gif",
 				"pauseTimer": 6,
 				"options": [
