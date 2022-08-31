@@ -756,10 +756,10 @@
 				]
 			},
 			{
-				"title": "Counting 2",
+				"title": "Counting 1",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
-				"timer": 29,
+				"timer": 5,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR0.png",
 				"pauseTimer": 1,
 				"options": [
@@ -783,7 +783,7 @@
 				]
 			},
 			{
-				"title": "Counting 3",
+				"title": "Counting 2",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
@@ -809,12 +809,12 @@
 				]
 			},
 			{
-				"title": "Counting 4",
+				"title": "Counting 3",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
-				"timer": 15,
+				"timer": 29,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR1.png",
-				"pauseTimer": 3,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "3",
@@ -835,7 +835,7 @@
 				]
 			},
 			{
-				"title": "Counting 5",
+				"title": "Counting 4",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
@@ -861,7 +861,7 @@
 				]
 			},
 			{
-				"title": "Counting 6",
+				"title": "Counting 5",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
@@ -887,7 +887,7 @@
 				]
 			},
 			{
-				"title": "Counting 7",
+				"title": "Counting 6",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
@@ -913,7 +913,7 @@
 				]
 			},
 			{
-				"title": "Counting 8",
+				"title": "Counting 7",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
@@ -940,7 +940,7 @@
 				]
 			},
 			{
-				"title": "Counting 9",
+				"title": "Counting 8",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
@@ -966,7 +966,7 @@
 				]
 			},
 			{
-				"title": "Counting 10",
+				"title": "Counting 9",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
@@ -992,7 +992,7 @@
 				]
 			},
 			{
-				"title": "Counting end",
+				"title": "Counting 10",
 				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"type": "images",
 				"timer": 29,
