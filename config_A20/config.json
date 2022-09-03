@@ -761,7 +761,7 @@
 				"type": "images",
 				"timer": 5,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR0.png",
-				"pauseTimer": 2,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "4",
@@ -788,7 +788,7 @@
 				"type": "images",
 				"timer": 29,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR0.png",
-				"pauseTimer": 2,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "3",
@@ -814,7 +814,7 @@
 				"type": "images",
 				"timer": 29,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR1.png",
-				"pauseTimer": 2,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "3",
@@ -840,7 +840,7 @@
 				"type": "images",
 				"timer": 29,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR1.png",
-				"pauseTimer": 2,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "6",
@@ -866,7 +866,7 @@
 				"type": "images",
 				"timer": 29,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR2.png",
-				"pauseTimer": 2,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "10",
@@ -892,7 +892,7 @@
 				"type": "images",
 				"timer": 29,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixR2.png",
-				"pauseTimer": 2,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "8(+)",
@@ -918,7 +918,7 @@
 				"type": "images",
 				"timer": 29,
 				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord.png",
-				"pauseTimer": 2,
+				"pauseTimer": 1,
 				"options": [
 					{
 						"id": "7",
