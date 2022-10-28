@@ -758,7 +758,7 @@
 		{
 			"title": "i. ЯБЛОКО Mela ( Õun )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire1_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -784,7 +784,7 @@
 		{
 			"title": "ii. ВИНОГРАД Uva ( Gusim )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire2_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -807,9 +807,9 @@
 			]
 		},
 		{
-			"title": "iii. ТОРТ Torta ( Kuuka )",
+			"title": "iii. ТОРТ Dolce ( Kuuka )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire3_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -835,7 +835,7 @@
 		{
 			"title": "iv. ЯЙЦО Uovo ( Muna )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire4_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -859,9 +859,9 @@
 			]
 		},
 		{
-			"title": "v. Potato ( Bulvė )",
+			"title": "v. КАРТОФЕЛЬ Potato ( Bulvė )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -887,7 +887,7 @@
 		{
 			"title": "vi. ПЕЧЕНЬЕ Biscotti ( Cepums )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire6_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -913,7 +913,7 @@
 		{
 			"title": "vii. СЫР Formaggio ( Juust )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire7_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -939,7 +939,7 @@
 		{
 			"title": "viii. КАРТОФЕЛЬ Potato ( Bulvė )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire8_sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -964,7 +964,7 @@
 		{
 			"title": "ix. КОНФЕТА Candy-Caramella ( Kommid )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire9_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -989,7 +989,7 @@
 		{
 			"title": "x. ПЕЧЕНЬЕ Biscotti ( Cepums )",
 			"type": "images",
-			"timer": 18,
+			"timer": 21,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire10_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
