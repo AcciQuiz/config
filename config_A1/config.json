@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number 3 corresponding to  (con ) Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երեք թիվը, համապատասխանում է դեղին (և ներսից կապույտ) շրջանակով տարբերակին։:",
+		"title":"iv. Please select the number 3 corresponding to yellow and blue colors:",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. Please select the number 4 corresponding to  and  colors:",
+			"title":"vi. Please select the number 3 corresponding to yellow and blue colors:",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
