@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"NUMBER ONE. Please select the number 5 corresponding to grey and violet colors: i. Ընտրեք խնդրում ենք՝ ո՞ր տարբերակին է համապատասխան  հինգը թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին",
+			"title":"NUMBER ONE. Please select the number 5 (!).....corresponding to grey and violet colors: i. Ընտրեք խնդրում ենք՝ ո՞ր տարբերակին է համապատասխան  հինգը թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին",
 			"type": "images",
 			"timer":"36",
 			"isHiddenTimer":false,
@@ -796,7 +796,7 @@
 			]
 		},
 		{
-		"title":"NUMBER TWO. Please select the number 4 corresponding to blue and grey colors: Խնդրում ենք ընտրել ո՞ր տարբերակին է կամապատասխանում չորս թիվը, համապատասխանում է կապույտ (և ներսում  մոխրագույն) շրջանակով տարբերակին",
+		"title":"NUMBER TWO. Please select the number 4 ",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -823,7 +823,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER THREE. Please select the number 2 corresponding to violet and green colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երկու թիվը, համապատասխանում է մանուշակագույն (և ներսում կանաչ) շրջանակով տարբերակին",
+		"title":"NUMBER THREE. Please select the number 2 (!)...... corresponding to violet and green colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երկու թիվը, համապատասխանում է մանուշակագույն (և ներսում կանաչ) շրջանակով տարբերակին",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER FOUR. Please select the number 3 corresponding to yellow and blue colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երեք թիվը, համապատասխանում է դեղին (և ներսից կապույտ) շրջանակով տարբերակին։",
+		"title":"NUMBER FOUR. Please select the number 3 ",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER FIVE. Please select the number 1 corresponding to green and yellow colors: Խնդրում ենք ընտրել,ո՞ր տարբերակին է համապատասխանում մեկ թիվը, համապատասխանում է  կանաչ (և ներսից դեղին) շրջանակով տարբերակին",
+		"title":"NUMBER FIVE. Please select the number 1 (!)..... corresponding to green and yellow colors: Խնդրում ենք ընտրել,ո՞ր տարբերակին է համապատասխանում մեկ թիվը, համապատասխանում է  կանաչ (և ներսից դեղին) շրջանակով տարբերակին",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"NUMBER SIX. Please select the number 3 corresponding to yellow and blue colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երեք թիվը, համապատասխանում է դեղին (և ներսից կապույտ) շրջանակով տարբերակին։",
+			"title":"NUMBER SIX. Please select the number 3 ",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -927,7 +927,7 @@
 			]
 		},
 		{
-		"title":"NUMBER SEVEN. Please select the number 5 corresponding to grey and violet colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին",
+		"title":"NUMBER SEVEN. Please select the number 5 (!)..... corresponding to grey and violet colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -954,7 +954,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER EIGHT. Please select the number 2 corresponding to violet and green colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երկու թիվը, համապատասխանում է մանուշակագույն (և ներսից կանաչ) շրջանով տարբերակին",
+		"title":"NUMBER EIGHT. Please select the number 2 ",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -980,7 +980,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER NINE. Please select the number 5 corresponding to grey and violet colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասվան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսից մանուշակագույն) շրջանակով տարբերակին։",
+		"title":"NUMBER NINE. Please select the number 5 (!)..... corresponding to grey and violet colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասվան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսից մանուշակագույն) շրջանակով տարբերակին։",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1006,7 +1006,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER TEN. Please select the number 1 corresponding to green and yellow colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասվան  մեկ թիվը,համապատասխանում է կանաչ (և ներսից դեղին) շրջանակով  տարբերակին",
+		"title":"NUMBER TEN. Please select the number 1 ",
 		"isHiddenTimer":false,
 			"options": [
 				{
