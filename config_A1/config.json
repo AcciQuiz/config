@@ -770,7 +770,7 @@
 			]
 		},
 		{
-			"title":"NUMBER ONE. Please select the number 5 (!).....corresponding to grey and violet colors: i. Ընտրեք խնդրում ենք՝ ո՞ր տարբերակին է համապատասխան  հինգը թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին",
+			"title":"NUMBER ONE. please select the colored ring of the letter E; the mother,...the option is the grey (and violet inside) circle: Խնդրում եմ ընտրել Ե տառի գունավոր օղակը (ճիշտ տարբերակն է մոխրագույն օղակը ներսում մանուշակագույն շրջանով):",
 			"type": "images",
 			"timer":"36",
 			"isHiddenTimer":false,
@@ -782,7 +782,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				},
 				{
-					"id": "5(+)",
+					"id": "E(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
@@ -796,12 +796,12 @@
 			]
 		},
 		{
-		"title":"NUMBER TWO. Please select the number 4 ",
+		"title":"NUMBER TWO. please select the colored ring of the letter D; the mother close your eyes: Խնդրում եմ ընտրել Դ տառի գունավոր օղակը:",
 		"isHiddenTimer":false,
 		"options": 
 			[
 				{
-					"id": "4(+)",
+					"id": "D(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
 				},
 				{
@@ -823,7 +823,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER THREE. Please select the number 2 (!)...... corresponding to violet and green colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան երկու թիվը, համապատասխանում է մանուշակագույն (և ներսում կանաչ) շրջանակով տարբերակին",
+		"title":"NUMBER THREE. please select the colored ring of the letter B; the mother,...the option is the violet (and green inside) circle: Խնդրում եմ ընտրել Բ տառի գունավոր օղակը (ճիշտ տարբերակն է մանուշակագույն օղակը ներսում կանաչ շրջանով):",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -835,7 +835,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				},
 				{
-					"id": "2(+)",
+					"id": "B(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
 				{
@@ -849,7 +849,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER FOUR. Please select the number 3 ",
+		"title":"NUMBER FOUR. please select the colored ring of the letter G; the mother close your eyes: Խնդրում եմ ընտրել Գ տառի գունավոր օղակը:",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -857,7 +857,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
 				},
 				{
-					"id": "3(+)",
+					"id": "G(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
@@ -875,7 +875,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER FIVE. Please select the number 1 (!)..... corresponding to green and yellow colors: Խնդրում ենք ընտրել,ո՞ր տարբերակին է համապատասխանում մեկ թիվը, համապատասխանում է  կանաչ (և ներսից դեղին) շրջանակով տարբերակին",
+		"title":"NUMBER FIVE. please select the colored ring of the letter O; the mother,...the option is the green (and yellow inside) circle: Խնդրում եմ ընտրել Օ տառի գունավոր օղակը (ճիշտ տարբերակն է կանաչ օղակը ներսում դեղին շրջանով):",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -891,7 +891,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
-					"id": "1(+)",
+					"id": "O(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				}
 				]
@@ -901,7 +901,7 @@
 			"type":"images"
 		},
 		{
-			"title":"NUMBER SIX. Please select the number 3 ",
+			"title":"NUMBER SIX. please select the colored ring of the letter G; the mother close your eyes: Խնդրում եմ ընտրել Գ տառի գունավոր օղակը:",
 			"type": "images",
 			"timer":"30",
 			"isHiddenTimer":false,
@@ -909,7 +909,7 @@
 			"pauseTimer":"6",
 			"options": [
 				{
-					"id": "3(+)",
+					"id": "G(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
@@ -927,7 +927,7 @@
 			]
 		},
 		{
-		"title":"NUMBER SEVEN. Please select the number 5 (!)..... corresponding to grey and violet colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասխան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսում մանուշակագույն) շրջանակով տարբերակին",
+		"title":"NUMBER SEVEN. please select the colored ring of the letter E; the mother,...the option is the grey (and violet inside) circle: Խնդրում եմ ընտրել Ե տառի գունավոր օղակը (ճիշտ տարբերակն է մոխրագույն օղակը ներսում մանուշակագույն շրջանով):",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -936,7 +936,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "5(+)",
+					"id": "E(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
@@ -954,11 +954,11 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER EIGHT. Please select the number 2 ",
+		"title":"NUMBER EIGHT. please select the colored ring of the letter B; the mother close your eyes: Խնդրում եմ ընտրել Բ տառի գունավոր օղակը:",
 		"isHiddenTimer":false,
 			"options": [
 				{
-					"id": "2(+)",
+					"id": "B(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
 				},
 				{
@@ -980,7 +980,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER NINE. Please select the number 5 (!)..... corresponding to grey and violet colors: Խնդրում ենք ընտրել՝ ո՞ր տարբերակին է համապատասվան հինգ թիվը, համապատասխանում է մոխրագույն (և ներսից մանուշակագույն) շրջանակով տարբերակին։",
+		"title":"NUMBER NINE.  please select the colored ring of the letter E; the mother,...the option is the grey (and violet inside) circle: Խնդրում եմ ընտրել Ե տառի գունավոր օղակը (ճիշտ տարբերակն է մոխրագույն օղակը ներսում մանուշակագույն շրջանով):",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -992,7 +992,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
 				},
 				{
-					"id": "5(+)",
+					"id": "E(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
@@ -1006,7 +1006,7 @@
 			"type":"images"
 		},
 		{
-		"title":"NUMBER TEN. Please select the number 1 ",
+		"title":"NUMBER TEN. please select the colored ring of the letter O; the mother close your eyes: Խնդրում եմ ընտրել Օ տառի գունավոր օղակը:",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1022,7 +1022,7 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5.png"
 				},
 				{
-					"id": "1(+)",
+					"id": "O(+)",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
 				}
 				]
