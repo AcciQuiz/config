@@ -472,7 +472,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -522,7 +522,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -572,7 +572,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -622,7 +622,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -672,7 +672,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -722,7 +722,7 @@
 		{
 			"title": "Counting from 1 to 10 candy",
 			"type": "images",
-			"timer": 6,
+			"timer": 3,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -786,10 +786,10 @@
 		{
 			"title":"i. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 			"type": "images",
-			"timer":"21",
+			"timer":"6",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ballon.jpg",
-			"pauseTimer":"9",
+			"pauseTimer":"6",
 			"options": [
 				{
 					"id": "5(+)",
@@ -832,8 +832,8 @@
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-ballon.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -858,8 +858,8 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-ballon.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -884,8 +884,8 @@
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ballon.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -910,17 +910,17 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-cake.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
 			"title":"vi. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
 			"type": "images",
-			"timer":"21",
+			"timer":"6",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-cake.jpg",
-			"pauseTimer":"9",
+			"pauseTimer":"6",
 			"options": [
 				{
 					"id": "5",
@@ -963,8 +963,8 @@
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-cake.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -989,8 +989,8 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-cake.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1015,8 +1015,8 @@
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-cake.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1041,17 +1041,17 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-ic.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 	{
 			"title":"xi. Please select the number five corresponding to the option with the red (and violet inside) circle.",
 			"type": "images",
-			"timer":"21",
+			"timer":"6",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ic.jpg",
-			"pauseTimer":"9",
+			"pauseTimer":"6",
 			"options": [
 				{
 					"id": "5(+)",
@@ -1094,8 +1094,8 @@
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-ic.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1120,8 +1120,8 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-ic.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1146,8 +1146,8 @@
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ic.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1172,17 +1172,17 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-candy.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
 			"title":"xvi. Please select the number three corresponding to the option with the yellow (and blue inside) circle.",
 			"type": "images",
-			"timer":"21",
+			"timer":"6",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-candy.jpg",
-			"pauseTimer":"9",
+			"pauseTimer":"6",
 			"options": [
 				{
 					"id": "5",
@@ -1225,8 +1225,8 @@
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-candy.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1251,8 +1251,8 @@
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-candy.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1277,8 +1277,8 @@
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-candy.jpg",
-			"pauseTimer":"9",
-			"timer":"21",
+			"pauseTimer":"6",
+			"timer":"6",
 			"type":"images"
 		},
 		{
@@ -1304,7 +1304,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"21",
+			"timer":"6",
 			"type":"images"
 		}
 	]
