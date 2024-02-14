@@ -8,7 +8,7 @@
 		{
 			"title": "Registration in the SECOND group. Please select one of the numbers from the list below in the screen that relates to your YEAR of birthday:",
 			"type": "question",
-			"timer": 3,
+			"timer": 9,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -156,7 +156,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 3,
+			"timer": 6,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -276,7 +276,7 @@
 			"type": "images",
 			"timer":"1",
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/friends.jpg",
-			"pauseTimer":"20",	
+			"pauseTimer":"21",	
 			"isHiddenTimer":true,
 			"options": [
 				{
@@ -802,7 +802,7 @@
 		{
 			"title":"i. Please select the number 5 (FIVE) corresponding to the option with the RED (and VIOLET inside) circle.",
 			"type": "images",
-			"timer":"6",
+			"timer":"9",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ballon.jpg",
 			"pauseTimer":"6",
@@ -849,7 +849,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-ballon.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -875,7 +875,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-ballon.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -901,7 +901,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ballon.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -927,13 +927,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-cake.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
 			"title":"vi. Please select the number 5 (five) corresponding to the option with the RED (and VIOLET inside) circle.",
 			"type": "images",
-			"timer":"6",
+			"timer":"9",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-cake.jpg",
 			"pauseTimer":"6",
@@ -980,7 +980,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-cake.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1006,7 +1006,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-cake.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1032,7 +1032,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-cake.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1058,13 +1058,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 	{
 			"title":"xi. Please select the number 5 (FIVE) corresponding to the option with the RED (and VIOLET inside) circle.",
 			"type": "images",
-			"timer":"6",
+			"timer":"9",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ic.jpg",
 			"pauseTimer":"6",
@@ -1111,7 +1111,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1137,7 +1137,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1163,7 +1163,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1189,13 +1189,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
 			"title":"xvi. Please select the number 5 (FIVE) corresponding to the option with the RED (and VIOLET inside) circle.",
 			"type": "images",
-			"timer":"6",
+			"timer":"9",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-candy.jpg",
 			"pauseTimer":"6",
@@ -1242,7 +1242,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1268,7 +1268,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1294,7 +1294,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		},
 		{
@@ -1320,7 +1320,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"6",
+			"timer":"9",
 			"type":"images"
 		}
 	]
