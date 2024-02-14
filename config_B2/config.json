@@ -6,134 +6,150 @@
 	},
 	"config": [
 		{
-			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+			"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your YEAR of birthday. (Numbers from 1 to 31)",
 			"type": "question",
 			"timer": 3,
 			"pauseTimer": 0,
 			"options": [
 				{
 					"id": "1",
-					"text": "1"
+					"text": "before 1971"
 				},
 				{
 					"id": "2",
-					"text": "2"
+					"text": "1972"
 				},
 				{
 					"id": "3",
-					"text": "3"
+					"text": "1973"
 				},
 				{
 					"id": "4",
-					"text": "4"
+					"text": "1974"
 				},
 				{
 					"id": "5",
-					"text": "5"
+					"text": "1975"
 				},
 				{
 					"id": "6",
-					"text": "6"
+					"text": "1976"
 				},
 				{
 					"id": "7",
-					"text": "7"
+					"text": "1977"
 				},
 				{
 					"id": "8",
-					"text": "8"
+					"text": "1978"
 				},
 				{
 					"id": "9",
-					"text": "9"
+					"text": "1979"
 				},
 				{
 					"id": "10",
-					"text": "10"
+					"text": "1980"
 				},
 				{
 					"id": "11",
-					"text": "11"
+					"text": "1981"
 				},
 				{
 					"id": "12",
-					"text": "12"
+					"text": "1982"
 				},
 				{
 					"id": "13",
-					"text": "13"
+					"text": "1983"
 				},
 				{
 					"id": "14",
-					"text": "14"
+					"text": "1984"
 				},
 				{
 					"id": "15",
-					"text": "15"
+					"text": "1985"
 				},
 				{
 					"id": "16",
-					"text": "16"
+					"text": "1986"
 				},
 				{
 					"id": "17",
-					"text": "17"
+					"text": "1987"
 				},
 				{
 					"id": "18",
-					"text": "18"
+					"text": "1988"
 				},
 				{
 					"id": "19",
-					"text": "19"
+					"text": "1989"
 				},
 				{
 					"id": "20",
-					"text": "20"
+					"text": "1990"
 				},
 				{
 					"id": "21",
-					"text": "21"
+					"text": "1991"
 				},
 				{
 					"id": "22",
-					"text": "22"
+					"text": "1992"
 				},
 				{
 					"id": "23",
-					"text": "23"
+					"text": "1993"
 				},
 				{
 					"id": "24",
-					"text": "24"
+					"text": "1994"
 				},
 				{
 					"id": "25",
-					"text": "25"
+					"text": "1995"
 				},
 				{
 					"id": "26",
-					"text": "26"
+					"text": "1996"
 				},
 				{
 					"id": "27",
-					"text": "27"
+					"text": "1997"
 				},
 				{
 					"id": "28",
-					"text": "28"
+					"text": "1998"
 				},
 				{
 					"id": "29",
-					"text": "29"
+					"text": "1999"
 				},
 				{
 					"id": "30",
-					"text": "30"
+					"text": "2000"
 				},
 				{
 					"id": "31",
-					"text": "31"
+					"text": "2001"
+				},
+				{
+					"id": "32",
+					"text": "2002"
+				},
+				{
+					"id": "33",
+					"text": "2003"
+				},
+				{
+					"id": "34",
+					"text": "2004"
+				},
+				{
+					"id": "35",
+					"text": "2005"
 				}
 			]
 		},
@@ -250,7 +266,7 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum. This checking measures shared intentionality.",
+			"title": "The AGATA academic curriculum",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 3
@@ -270,7 +286,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the number ONE",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -320,7 +336,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the second candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -370,7 +386,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the third candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -420,7 +436,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the 4th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -470,7 +486,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the 5th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -520,7 +536,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the 6th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -570,7 +586,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the 7th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -620,7 +636,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the 8th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -670,7 +686,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the 9th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -720,7 +736,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy",
+			"title": "Counting from 1 to 10 candy, please push the 10th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
