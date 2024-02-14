@@ -8,7 +8,7 @@
 		{
 			"title": "Registration in the SECOND group. Please select one of the numbers from the list below in the screen that relates to your YEAR of birthday:",
 			"type": "question",
-			"timer": 9,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -156,7 +156,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 6,
+			"timer": 9,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -274,9 +274,9 @@
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"type": "images",
-			"timer":"1",
+			"timer":"3",
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/friends.jpg",
-			"pauseTimer":"21",	
+			"pauseTimer":"6",	
 			"isHiddenTimer":true,
 			"options": [
 				{
