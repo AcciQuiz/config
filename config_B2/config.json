@@ -286,7 +286,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the number ONE",
+			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please push the button with the candy number ONE.",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -336,7 +336,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the second candy",
+			"title": "Please push the second candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -386,7 +386,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the third candy",
+			"title": "Please push the third candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -436,7 +436,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the 4th candy",
+			"title": "Please push the 4th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -486,7 +486,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the 5th candy",
+			"title": "Please push the 5th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -536,7 +536,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the 6th candy",
+			"title": "Please push the 6th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -586,7 +586,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the 7th candy",
+			"title": "Please push the 7th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -636,7 +636,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the 8th candy",
+			"title": "Please push the 8th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -686,7 +686,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the 9th candy",
+			"title": "Please push the 9th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -736,7 +736,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 candy, please push the 10th candy",
+			"title": "Please push the 10th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -800,7 +800,7 @@
 			]
 		},
 		{
-			"title":"i. Please select the number 5 (FIVE) corresponding to the option with the RED (and VIOLET inside) circle.",
+			"title":"i. Please memorize that the RED (and VIOLET inside) circle corresponds to the number 5 (FIVE) and push it on the screen.",
 			"type": "images",
 			"timer":"9",
 			"isHiddenTimer":false,
@@ -826,7 +826,7 @@
 			]
 		},
 		{
-		"title":"ii. Please select the number 4 (FOUR) corresponding to the option with the BLUE (and GREY inside) circle.",
+		"title":"ii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this button",
 		"isHiddenTimer":false,
 		"options": 
 			[
