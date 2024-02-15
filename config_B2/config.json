@@ -286,9 +286,9 @@
 			]
 		},
 		{
-			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please push the button with the candy number ONE.",
+			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please click the button with the candy number ONE.",
 			"type": "images",
-			"timer": 3,
+			"timer": 9,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -800,9 +800,9 @@
 			]
 		},
 		{
-			"title":"i. Please memorize that the RED (and VIOLET inside) circle corresponds to the number 5 (FIVE) and push it on the screen.",
+			"title":"i. Please memorize that the RED (and VIOLET inside) circle corresponds to the number 5 (FIVE) and click it on the screen.",
 			"type": "images",
-			"timer":"9",
+			"timer":"12",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ballon.jpg",
 			"pauseTimer":"6",
@@ -853,7 +853,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. Please select the number 2 (TWO) corresponding to the option with the VIOLET (and GREEN inside) circle.",
+		"title":"iii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -879,7 +879,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. Please select the number 3 (THREE) corresponding to the option with the YELLOW (and BLUE inside) circle.",
+		"title":"iv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -905,7 +905,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. Please select the number 1 (ONE) corresponding to the option with the GREEN (and YELLOW inside) circle.",
+		"title":"v. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -931,7 +931,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. Please select the number 5 (five) corresponding to the option with the RED (and VIOLET inside) circle.",
+			"title":"vi. The RED (and VIOLET inside) circle is the number 5 (five). Click this circle",
 			"type": "images",
 			"timer":"9",
 			"isHiddenTimer":false,
@@ -957,7 +957,7 @@
 			]
 		},
 		{
-		"title":"vii. Please select the number 4 (FOUR) corresponding to the option with the BLUE (and GREY inside) circle.",
+		"title":"vii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -984,7 +984,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. Please select the number 2 (TWO) corresponding to the option with the VIOLET (and GREEN inside) circle.",
+		"title":"viii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1010,7 +1010,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. Please select the number 3 (THREE) corresponding to the option with the YELLOW (and BLUE inside) circle.",
+		"title":"ix. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1036,7 +1036,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. Please select the number 1 (ONE) corresponding to the option with the GREEN (and YELLOW inside) circle.",
+		"title":"x. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1062,7 +1062,7 @@
 			"type":"images"
 		},
 	{
-			"title":"xi. Please select the number 5 (FIVE) corresponding to the option with the RED (and VIOLET inside) circle.",
+			"title":"xi. The RED (and VIOLET inside) circle is the number 5 (FIVE). Click this circle",
 			"type": "images",
 			"timer":"9",
 			"isHiddenTimer":false,
