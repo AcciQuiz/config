@@ -800,6 +800,14 @@
 			]
 		},
 		{
+			"title": "We ask you to memorize the number value of the five bi-color circles. In 20 items of the test, we show you numbers at the top of the screen and four circles of different colors below them.",
+			"type": "message",
+			"isHiddenTimer": true,
+			"timer": 21
+				}
+			]
+		},
+		{
 			"title":"i. Please select the number 5 (FIVE) corresponding to the option with the RED (and VIOLET inside) circle.",
 			"type": "images",
 			"timer":"9",
