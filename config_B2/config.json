@@ -782,12 +782,6 @@
 				{
 					"id": "10",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
-				},
-		{
-			"title": "Your goal is to push the correct option of the color circle on the screen and memorize it.",
-			"type": "message",
-			"isHiddenTimer": true,
-			"timer": 21
 				}
 			]
 		},
