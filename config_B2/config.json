@@ -266,7 +266,7 @@
 			]
 		},
 		{
-			"title": "We ask you to memorize the number value of the five bi-color circles. Your goal is to push the correct option of the color circle on the screen and memorize its number value.",
+			"title": "In this test, we ask you to memorize the numerical value of 5 (five) bi-colored circles.",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 21
