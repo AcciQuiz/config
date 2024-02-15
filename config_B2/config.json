@@ -338,7 +338,7 @@
 		{
 			"title": "Please push the second candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -802,7 +802,7 @@
 		{
 			"title":"i. Please memorize that the RED (and VIOLET inside) circle corresponds to the number 5 (FIVE) and click it on the screen.",
 			"type": "images",
-			"timer":"12",
+			"timer":"15",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ballon.jpg",
 			"pauseTimer":"6",
@@ -849,7 +849,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-ballon.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -875,7 +875,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-ballon.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -901,7 +901,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ballon.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -927,13 +927,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-cake.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
 			"title":"vi. The RED (and VIOLET inside) circle is the number 5 (five). Click this circle and memorize its number",
 			"type": "images",
-			"timer":"9",
+			"timer":"12",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-cake.jpg",
 			"pauseTimer":"6",
@@ -980,7 +980,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-cake.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1032,7 +1032,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-cake.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1058,13 +1058,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 	{
 			"title":"xi. The RED (and VIOLET inside) circle is the number 5 (FIVE): Click this circle and memorize its number",
 			"type": "images",
-			"timer":"9",
+			"timer":"12",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/chiken-ic.jpg",
 			"pauseTimer":"6",
@@ -1111,7 +1111,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1137,7 +1137,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1163,7 +1163,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-ic.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1189,13 +1189,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/turtle-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
 			"title":"xvi. The RED (and VIOLET inside) circle is the number 5 (FIVE). Click this circle and memorize its number",
 			"type": "images",
-			"timer":"9",
+			"timer":"12",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-candy.jpg",
 			"pauseTimer":"6",
@@ -1242,7 +1242,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/dog-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1268,7 +1268,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/bear-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1294,7 +1294,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/story/cat-candy.jpg",
 			"pauseTimer":"6",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		},
 		{
@@ -1320,7 +1320,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
 			"pauseTimer":"3",
-			"timer":"9",
+			"timer":"12",
 			"type":"images"
 		}
 	]
