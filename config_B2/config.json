@@ -266,7 +266,7 @@
 			]
 		},
 		{
-			"title": "In this test, we ask you to memorize the numerical value of 5 (five) bi-colored circles.",
+			"title": "This test verifies your memory. We ask you to memorize the numerical value of 5 (five) bi-colored circles.",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 21
@@ -826,7 +826,7 @@
 			]
 		},
 		{
-		"title":"ii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this button",
+		"title":"ii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number ",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -853,7 +853,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle",
+		"title":"iii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -879,7 +879,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle",
+		"title":"iv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -905,7 +905,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle",
+		"title":"v. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -931,7 +931,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. The RED (and VIOLET inside) circle is the number 5 (five). Click this circle",
+			"title":"vi. The RED (and VIOLET inside) circle is the number 5 (five). Click this circle and memorize its number",
 			"type": "images",
 			"timer":"9",
 			"isHiddenTimer":false,
@@ -957,7 +957,7 @@
 			]
 		},
 		{
-		"title":"vii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle",
+		"title":"vii. The BLUE (and GREY inside) circle is the number 4 (FOUR): Click this circle and memorize its number",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -984,7 +984,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle",
+		"title":"viii. The VIOLET (and GREEN inside) circle is the number 2 (TWO): Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1010,7 +1010,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle",
+		"title":"ix. The YELLOW (and BLUE inside) circle is the number 3 (THREE): Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1036,7 +1036,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle",
+		"title":"x. The GREEN (and YELLOW inside) circle is the number 1 (ONE): Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1062,7 +1062,7 @@
 			"type":"images"
 		},
 	{
-			"title":"xi. The RED (and VIOLET inside) circle is the number 5 (FIVE). Click this circle",
+			"title":"xi. The RED (and VIOLET inside) circle is the number 5 (FIVE): Click this circle and memorize its number",
 			"type": "images",
 			"timer":"9",
 			"isHiddenTimer":false,
@@ -1088,7 +1088,7 @@
 			]
 		},
 		{
-		"title":"xii. Please select the number 4 (FOUR) corresponding to the option with the BLUE (and GREY inside) circle.",
+		"title":"xii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -1115,7 +1115,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xiii. Please select the number 2 (TWO) corresponding to the option with the VIOLET (and GREEN inside) circle.",
+		"title":"xiii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1141,7 +1141,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xiv. Please select the number 3 (THREE) corresponding to the option with the YELLOW (and BLUE inside) circle.",
+		"title":"xiv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1167,7 +1167,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xv. Please select the number 1 (ONE) corresponding to the option with the GREEN (and YELLOW inside) circle.",
+		"title":"xv. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1193,7 +1193,7 @@
 			"type":"images"
 		},
 		{
-			"title":"xvi. Please select the number 5 (FIVE) corresponding to the option with the RED (and VIOLET inside) circle.",
+			"title":"xvi. The RED (and VIOLET inside) circle is the number 5 (FIVE). Click this circle and memorize its number",
 			"type": "images",
 			"timer":"9",
 			"isHiddenTimer":false,
@@ -1219,7 +1219,7 @@
 			]
 		},
 		{
-		"title":"xvii. Please select the number 4 (FOUR) corresponding to the option with the BLUE (and GREY inside) circle.",
+		"title":"xvii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -1246,7 +1246,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xviii. Please select the number 2 (TWO) corresponding to the option with the VIOLET (and GREEN inside) circle.",
+		"title":"xviii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1272,7 +1272,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xix. Please select the number 3 (THREE) corresponding to the option with the YELLOW (and BLUE inside) circle.",
+		"title":"xix. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1298,7 +1298,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xx. Please select the number 1 (ONE) corresponding to the option with the GREEN (and YELLOW inside) circle.",
+		"title":"xx. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
 		"isHiddenTimer":false,
 			"options": [
 				{
