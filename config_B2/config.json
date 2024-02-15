@@ -6,7 +6,7 @@
 	},
 	"config": [
 		{
-			"title": "Registration for the SECOND group. Please select one of the numbers from the list below in the screen that relates to your YEAR of birthday:",
+			"title": "Registration for the SECOND group. Please select one of the numbers from the list below in the screen that relates to your birthday YEAR:",
 			"type": "question",
 			"timer": 12,
 			"pauseTimer": 0,
@@ -266,7 +266,9 @@
 			]
 		},
 		{
-			"title": "The AGATA academic curriculum",
+			"title": "We ask you to memorize the number value of the five two-color circles. 
+In 20 items of the test, we will show you natural numbers from 1 to 5 at the top of the screen and four circles of different colors below them. 
+			Your goal is to push the correct option of the color circle on the screen and memorize its number value.",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 3
