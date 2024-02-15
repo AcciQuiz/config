@@ -782,7 +782,13 @@
 				{
 					"id": "10",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
-				}
+				},
+				{
+			"title": "In 20 items of the test, we show you numbers at the top of the screen and four circles of different colors below them. Your goal is to push the correct option of the color circle on the screen and memorize it.",
+			"type": "message",
+			"isHiddenTimer": true,
+			"timer": 21
+		},
 			]
 		},
 		{
