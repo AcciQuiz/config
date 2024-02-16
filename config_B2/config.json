@@ -6,7 +6,7 @@
 	},
 	"config": [
 		{
-			"title": "Registration for the SECOND group. Please select one of the numbers from the list below in the screen that relates to your birthday YEAR:",
+			"title": "Registration for the SECOND group. Please select one of the years from the list below in the screen that relates to your birthday YEAR:",
 			"type": "question",
 			"timer": 12,
 			"pauseTimer": 0,
