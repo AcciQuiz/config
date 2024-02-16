@@ -780,20 +780,20 @@
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "9",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+					"id": "Dog Blue",
+					"link": "https://github.com/AcciQuiz/config/blob/9f7b1a357cb2fbdc1ba519e3a943267f29d77692/noname/Dog%20Blue.JPG"
 				},
 				{
-					"id": "7",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"id": "Dog Green",
+					"link": "https://github.com/AcciQuiz/config/blob/9f7b1a357cb2fbdc1ba519e3a943267f29d77692/noname/Dog%20green.JPG"
 				},
 				{
-					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"id": "Cat BP",
+					"link": "https://github.com/AcciQuiz/config/blob/9f7b1a357cb2fbdc1ba519e3a943267f29d77692/noname/Cat%20BP%20Final.jpg"
 				},
 				{
-					"id": "1(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1bw.png"
+					"id": "Chicken Blue",
+					"link": "https://github.com/AcciQuiz/config/blob/9f7b1a357cb2fbdc1ba519e3a943267f29d77692/noname/Chicken%20Blue.JPG"
 				}
 				
 			]
