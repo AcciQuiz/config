@@ -772,7 +772,7 @@
 			]
 		},
 		{
-			"title": "I",
+			"title": "I. Please choose one image from four options that you like",
 			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-1.png",
 			"type": "images",
 			"timer": 15,
