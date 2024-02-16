@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the years from the list below in the screen that relates to the YEAR of your birthday",
 			"type": "question",
-			"timer": 9,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -272,7 +272,7 @@
 			"timer": 6
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Before the test, we verify your attention by counting from 1 to 10 pears. Please click the button with the fruit number ONE",
 			"type": "images",
 			"timer": 9,
 			"oldStyle": true,
@@ -322,7 +322,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the second pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -372,7 +372,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 3rd pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -422,7 +422,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 4th pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -472,7 +472,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 5th pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -522,7 +522,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 6th pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -572,7 +572,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 7th pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -622,7 +622,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 8th pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -672,7 +672,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 9th pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -722,7 +722,7 @@
 			]
 		},
 		{
-			"title": "Counting from 1 to 10 pears",
+			"title": "Please push the 10th pear",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
