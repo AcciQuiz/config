@@ -798,240 +798,230 @@
 			]
 		},
 		{
-			"title": "II",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-8.png",
+			"title": "II. Please choose one image from four options that you like",
 			"type": "images",
 			"timer": 12,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetG5_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "8(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+					"id": "Dog Blue",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
 				},
 				{
-					"id": "4(8)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+					"id": "Dog Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
 				},
 				{
-					"id": "5(8)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+					"id": "Chicken Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
 				},
 				{
-					"id": "2(8)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+					"id": "Dog Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
 				}
 			]
 		},
 		{
-			"title": "III",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-10.png",
+			"title": "III. Please choose one image from four options that you like",
 			"type": "images",
 			"timer": 12,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Scarpe2_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "3(10)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"id": "Chicken Blue",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Blue.png"
 				},
 				{
-					"id": "6(10)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+					"id": "Dog Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
 				},
 				{
-					"id": "7(10)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"id": "Chicken Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
 				},
 				{
-					"id": "10(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
+					"id": "Chicken Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Violet.png"
 				}
 			]
 		},
 		{
-			"title": "iv",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-5.png",
+			"title": "iv. Please choose one image from four options that you like",
 			"type": "images",
 			"timer": 12,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Caramelle4_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "1(5)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1b.png"
+					"id": "Chicken Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Violet.png"
 				},
 				{
-					"id": "9(5)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+					"id": "Dog Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
 				},
 				{
-					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+					"id": "Chicken Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
 				},
 				{
-					"id": "2(5)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+					"id": "Dog Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
 				}
 			]
 		},
 		{
-			"title": "V",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-7.png",
+			"title": "V. Please choose one image that you HAVE ALREADY SEEN at the beginning of the test.",
 			"type": "images",
 			"timer": 12,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetA3_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "8(7)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+					"id": "Cat BY",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
 				},
 				{
-					"id": "7(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"id": "Cat BP",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
 				},
 				{
-					"id": "4(7)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+					"id": "Cat BY",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
 				},
 				{
-					"id": "3(7)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"id": "Cat PB",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
 				}
 			]
 		},
 		{
-			"title": "VI",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-3.png",
+			"title": "vI. Please choose one image from four options that you like",
 			"type": "images",
-			"timer": 12,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Banane4_6sec.gif",
+			"timer": 15,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "9(3)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+					"id": "Dog Blue",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
 				},
 				{
-					"id": "7(3)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"id": "Cat BP",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
 				},
 				{
-					"id": "3(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"id": "Chicken Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
 				},
 				{
-					"id": "1(3)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1b.png"
+					"id": "Dog Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
 				}
-			]
-		},
-		{
-			"title": "VII",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-4.png",
-			"type": "images",
-			"timer": 12,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Machine3_6sec.gif",
-			"pauseTimer": 6,
-			"options": [
-				{
-					"id": "8(4)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-				},
-				{
-					"id": "4(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
-				},
-				{
-					"id": "5(4)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
-				},
 				
+			]
+		},
+		{
+			"title": "vII. Please choose one image from four options that you like",
+			"type": "images",
+			"timer": 12,
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetG5_6sec.gif",
+			"pauseTimer": 6,
+			"options": [
 				{
-					"id": "2(4)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
+					"id": "Dog Blue",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
+				},
+				{
+					"id": "Dog Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
+				},
+				{
+					"id": "Chicken Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
+				},
+				{
+					"id": "Dog Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
 				}
 			]
 		},
 		{
-			"title": "VIII",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-6.png",
+			"title": "vIII. Please choose one image from four options that you like",
 			"type": "images",
 			"timer": 12,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Carote3_6sec.gif",
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Scarpe2_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "6(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
+					"id": "Chicken Blue",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Blue.png"
 				},
 				{
-					"id": "3(6)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"id": "Dog Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
 				},
 				{
-					"id": "7(6)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
+					"id": "Chicken Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
 				},
 				{
-					"id": "10(6)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
+					"id": "Chicken Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Violet.png"
 				}
 			]
 		},
 		{
-			"title": "IX",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-9.png",
+			"title": "ix. Please choose one image from four options that you like",
 			"type": "images",
 			"timer": 12,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Pomodori5_6sec.gif",
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Caramelle4_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "8(9)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
+					"id": "Chicken Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Violet.png"
 				},
 				{
-					"id": "9(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
+					"id": "Dog Violet",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
 				},
 				{
-					"id": "4(9)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
+					"id": "Chicken Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
 				},
 				{
-					"id": "3(9)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
+					"id": "Dog Green",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
 				}
 			]
 		},
 		{
-			"title": "X",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-2.png",
+			"title": "X. Please choose one image that you HAVE ALREADY SEEN at the beginning of the test.",
 			"type": "images",
 			"timer": 12,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
+			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetA3_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "1(2)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/1b.png"
+					"id": "Cat BY",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
 				},
 				{
-					"id": "9(2)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-				},
-				
-				{
-					"id": "5(2)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
+					"id": "Cat BY",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
 				},
 				{
-					"id": "2(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2bw.png"
+					"id": "Cat BP",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
+				},
+				{
+					"id": "Cat PB",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
 				}
-			]	
+			]
 		}
 	]
 }
