@@ -773,7 +773,6 @@
 		},
 		{
 			"title": "I. Please choose one image from four options that you like",
-			"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/flowers-1.png",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
@@ -781,19 +780,19 @@
 			"options": [
 				{
 					"id": "Dog Blue",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
 				},
 				{
 					"id": "Cat BP",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
 				},
 				{
-					"id": "Chicken Blue",
+					"id": "Chicken Green",
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
 				},
 				{
 					"id": "Dog Green",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
 				}
 				
 			]
