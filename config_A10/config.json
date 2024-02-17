@@ -781,19 +781,19 @@
 			"options": [
 				{
 					"id": "Dog Blue",
-					"link": "https://github.com/AcciQuiz/config/blob/main/noname/Dog%20Blue.png"
-				},
-				{
-					"id": "Dog Green",
-					"link": "https://github.com/AcciQuiz/config/blob/main/noname/Dog%20Green.png"
+					"link": "noname/Dog Blue.png"
 				},
 				{
 					"id": "Cat BP",
-					"link": "https://github.com/AcciQuiz/config/blob/main/noname/Cat%20BP.PNG"
+					"link": "noname/Cat BP Final.jpg"
 				},
 				{
 					"id": "Chicken Blue",
-					"link": "https://github.com/AcciQuiz/config/blob/main/noname/Chicken%20Blue.png"
+					"link": "noname/Chicken Blue.png"
+				},
+				{
+					"id": "Dog Green",
+					"link": "Dog Green.png"
 				}
 				
 			]
