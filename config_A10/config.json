@@ -783,8 +783,8 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
 				},
 				{
-					"id": "Cat BP",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
+					"id": "Cat BP Treangolo",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20bp%20treangolo.png"
 				},
 				{
 					"id": "Chicken Green",
@@ -880,20 +880,20 @@
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "Cat BY",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
+					"id": "Cat BY Q",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20by%20quadrato_.png"
 				},
 				{
-					"id": "Cat BP",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
+					"id": "Cat BP Treangolo",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20bp%20treangolo.png"
 				},
 				{
-					"id": "Cat BY",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
+					"id": "Cat BP Treangolo",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20bp%20treangolo.png"
 				},
 				{
-					"id": "Cat PB",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
+					"id": "Cat PB Q",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20by%20quadrato_.png"
 				}
 			]
 		},
@@ -909,8 +909,8 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
 				},
 				{
-					"id": "Cat BP",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
+					"id": "Cat BP Treangolo",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20bp%20treangolo.png"
 				},
 				{
 					"id": "Chicken Green",
@@ -1006,20 +1006,20 @@
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "Cat BY",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
+					"id": "Cat BP Treangolo",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20bp%20treangolo.png"
 				},
 				{
-					"id": "Cat BY",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY.PNG"
+					"id": "Cat BY Q",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20by%20quadrato_.png"
 				},
 				{
-					"id": "Cat BP",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
+					"id": "Cat BY Q",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20by%20quadrato_.png"
 				},
 				{
-					"id": "Cat PB",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG"
+					"id": "Cat PB Treangolo",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20bp%20treangolo.png"
 				}
 			]
 		}
