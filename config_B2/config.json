@@ -275,7 +275,7 @@
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
 			"type": "images",
 			"timer":"3",
-			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP.PNG",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Empaty.png",
 			"pauseTimer":"6",	
 			"isHiddenTimer":true,
 			"options": [
