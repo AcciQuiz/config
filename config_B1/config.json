@@ -6,1017 +6,1322 @@
 		},
 		"config": [
 			{
-				"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
-				"type": "question",
-				"timer": 12,
-				"pauseTimer": 0,
-				"options": [
-					{
-						"id": "1",
-						"text": "1"
-					},
-					{
-						"id": "2",
-						"text": "2"
-					},
-					{
-						"id": "3",
-						"text": "3"
-					},
-					{
-						"id": "4",
-						"text": "4"
-					},
-					{
-						"id": "5",
-						"text": "5"
-					},
-					{
-						"id": "6",
-						"text": "6"
-					},
-					{
-						"id": "7",
-						"text": "7"
-					},
-					{
-						"id": "8",
-						"text": "8"
-					},
-					{
-						"id": "9",
-						"text": "9"
-					},
-					{
-						"id": "10",
-						"text": "10"
-					},
-					{
-						"id": "11",
-						"text": "11"
-					},
-					{
-						"id": "12",
-						"text": "12"
-					},
-					{
-						"id": "13",
-						"text": "13"
-					},
-					{
-						"id": "14",
-						"text": "14"
-					},
-					{
-						"id": "15",
-						"text": "15"
-					},
-					{
-						"id": "16",
-						"text": "16"
-					},
-					{
-						"id": "17",
-						"text": "17"
-					},
-					{
-						"id": "18",
-						"text": "18"
-					},
-					{
-						"id": "19",
-						"text": "19"
-					},
-					{
-						"id": "20",
-						"text": "20"
-					},
-					{
-						"id": "21",
-						"text": "21"
-					},
-					{
-						"id": "22",
-						"text": "22"
-					},
-					{
-						"id": "23",
-						"text": "23"
-					},
-					{
-						"id": "24",
-						"text": "24"
-					},
-					{
-						"id": "25",
-						"text": "25"
-					},
-					{
-						"id": "26",
-						"text": "26"
-					},
-					{
-						"id": "27",
-						"text": "27"
-					},
-					{
-						"id": "28",
-						"text": "28"
-					},
-					{
-						"id": "29",
-						"text": "29"
-					},
-					{
-						"id": "30",
-						"text": "30"
-					},
-					{
-						"id": "31",
-						"text": "31"
-					}
+			"title": "Registration for the SECOND group. Please select one of the years from the list below in the screen that relates to your birthday YEAR:",
+			"type": "question",
+			"timer": 12,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "1971",
+					"text": "before 1971"
+				},
+				{
+					"id": "1972",
+					"text": "1972"
+				},
+				{
+					"id": "1973",
+					"text": "1973"
+				},
+				{
+					"id": "1974",
+					"text": "1974"
+				},
+				{
+					"id": "1975",
+					"text": "1975"
+				},
+				{
+					"id": "1976",
+					"text": "1976"
+				},
+				{
+					"id": "1977",
+					"text": "1977"
+				},
+				{
+					"id": "1978",
+					"text": "1978"
+				},
+				{
+					"id": "1979",
+					"text": "1979"
+				},
+				{
+					"id": "1980",
+					"text": "1980"
+				},
+				{
+					"id": "1981",
+					"text": "1981"
+				},
+				{
+					"id": "1982",
+					"text": "1982"
+				},
+				{
+					"id": "1983",
+					"text": "1983"
+				},
+				{
+					"id": "1984",
+					"text": "1984"
+				},
+				{
+					"id": "1985",
+					"text": "1985"
+				},
+				{
+					"id": "1986",
+					"text": "1986"
+				},
+				{
+					"id": "1987",
+					"text": "1987"
+				},
+				{
+					"id": "1988",
+					"text": "1988"
+				},
+				{
+					"id": "1989",
+					"text": "1989"
+				},
+				{
+					"id": "1990",
+					"text": "1990"
+				},
+				{
+					"id": "1991",
+					"text": "1991"
+				},
+				{
+					"id": "1992",
+					"text": "1992"
+				},
+				{
+					"id": "1993",
+					"text": "1993"
+				},
+				{
+					"id": "1994",
+					"text": "1994"
+				},
+				{
+					"id": "1995",
+					"text": "1995"
+				},
+				{
+					"id": "1996",
+					"text": "1996"
+				},
+				{
+					"id": "1997",
+					"text": "1997"
+				},
+				{
+					"id": "1998",
+					"text": "1998"
+				},
+				{
+					"id": "1999",
+					"text": "1999"
+				},
+				{
+					"id": "2000",
+					"text": "2000"
+				},
+				{
+					"id": "2001",
+					"text": "2001"
+				},
+				{
+					"id": "2002",
+					"text": "2002"
+				},
+				{
+					"id": "2003",
+					"text": "2003"
+				},
+				{
+					"id": "2004",
+					"text": "2004"
+				},
+				{
+					"id": "2005",
+					"text": "2005"
+				}
+			]
+		},
+		{
+			"title": "Registration. Please choose one letter from the list below which relates to your name.",
+			"type": "question",
+			"timer": 9,
+			"pauseTimer": 0,
+			"options": [
+				{
+					"id": "A",
+					"text": "A"
+				},
+				{
+					"id": "B",
+					"text": "B"
+				},
+				{
+					"id": "C",
+					"text": "C"
+				},
+				{
+					"id": "D",
+					"text": "D"
+				},
+				{
+					"id": "E",
+					"text": "E"
+				},
+				{
+					"id": "F",
+					"text": "F"
+				},
+				{
+					"id": "G",
+					"text": "G"
+				},
+				{
+					"id": "H",
+					"text": "H"
+				},
+				{
+					"id": "I",
+					"text": "I"
+				},
+				{
+					"id": "J",
+					"text": "J"
+				},
+				{
+					"id": "K",
+					"text": "K"
+				},
+				{
+					"id": "L",
+					"text": "L"
+				},
+				{
+					"id": "M",
+					"text": "M"
+				},
+				{
+					"id": "N",
+					"text": "N"
+				},
+				{
+					"id": "O",
+					"text": "O"
+				},
+				{
+					"id": "P",
+					"text": "P"
+				},
+				{
+					"id": "Q",
+					"text": "Q"
+				},
+				{
+					"id": "R",
+					"text": "R"
+				},
+				{
+					"id": "S",
+					"text": "S"
+				},
+				{
+					"id": "T",
+					"text": "T"
+				},
+				{
+					"id": "U",
+					"text": "U"
+				},
+				{
+					"id": "V",
+					"text": "V"
+				},
+				{
+					"id": "W",
+					"text": "W"
+				},
+				{
+					"id": "X",
+					"text": "X"
+				},
+				{
+					"id": "Y",
+					"text": "Y"
+				},
+				{
+					"id": "Z",
+					"text": "Z"
+				}
+			]
+		},
+		{
+			"title": "This test verifies your memory. We ask you to memorize the numerical value of 5 (five) bi-colored circles.",
+			"type": "message",
+			"isHiddenTimer": true,
+			"timer": 21
+		},
+		{
+			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+			"type": "images",
+			"timer":"3",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"6",	
+			"isHiddenTimer":true,
+			"options": [
+				{
+					"id": " ",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please click the button with the candy number ONE.",
+			"type": "images",
+			"timer": 9,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the second candy",
+			"type": "images",
+			"timer": 6,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the third candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the 4th candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the 5th candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the 6th candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the 7th candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the 8th candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the 9th candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title": "Please click the 10th candy",
+			"type": "images",
+			"timer": 3,
+			"oldStyle": true,
+			"isHiddenTimer": true,
+			"ignoreAnswer": true,
+			"options": [
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "7",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "8",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "9",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				},
+				{
+					"id": "10",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+				}
+			]
+		},
+		{
+			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
+			"type": "images",
+			"timer":"3",
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",	
+			"isHiddenTimer":true,
+			"options": [
+				{
+					"id": " ",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+				}
+			]
+		},
+		{
+			"title":"i. Please memorize that the RED (and VIOLET inside) circle corresponds to the number 5 (FIVE) and click it on the screen.",
+			"type": "images",
+			"timer":"18",
+			"isHiddenTimer":false,
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				}
+			]
+		},
+		{
+		"title":"ii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number ",
+		"isHiddenTimer":false,
+		"options": 
+			[
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "4(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
+			]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"iii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "2(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}
 				]
-			},
-			{
-				"title": "Registration. Please choose one letter from the list below which relates to your name.",
-				"type": "question",
-				"timer": 12,
-				"pauseTimer": 0,
-				"options": [
-					{
-						"id": "A",
-						"text": "A"
-					},
-					{
-						"id": "B",
-						"text": "B"
-					},
-					{
-						"id": "C",
-						"text": "C"
-					},
-					{
-						"id": "D",
-						"text": "D"
-					},
-					{
-						"id": "E",
-						"text": "E"
-					},
-					{
-						"id": "F",
-						"text": "F"
-					},
-					{
-						"id": "G",
-						"text": "G"
-					},
-					{
-						"id": "H",
-						"text": "H"
-					},
-					{
-						"id": "I",
-						"text": "I"
-					},
-					{
-						"id": "J",
-						"text": "J"
-					},
-					{
-						"id": "K",
-						"text": "K"
-					},
-					{
-						"id": "L",
-						"text": "L"
-					},
-					{
-						"id": "M",
-						"text": "M"
-					},
-					{
-						"id": "N",
-						"text": "N"
-					},
-					{
-						"id": "O",
-						"text": "O"
-					},
-					{
-						"id": "P",
-						"text": "P"
-					},
-					{
-						"id": "Q",
-						"text": "Q"
-					},
-					{
-						"id": "R",
-						"text": "R"
-					},
-					{
-						"id": "S",
-						"text": "S"
-					},
-					{
-						"id": "T",
-						"text": "T"
-					},
-					{
-						"id": "U",
-						"text": "U"
-					},
-					{
-						"id": "V",
-						"text": "V"
-					},
-					{
-						"id": "W",
-						"text": "W"
-					},
-					{
-						"id": "X",
-						"text": "X"
-					},
-					{
-						"id": "Y",
-						"text": "Y"
-					},
-					{
-						"id": "Z",
-						"text": "Z"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"iv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}				
 				]
-			},
-			{
-				"title": "The AGATA academic curriculum for Math Beginners A+3 (B2). This educational method is based on scientific observations and academic research",
-				"type": "message",
-				"isHiddenTimer": true,
-				"timer": 3
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"v. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "1(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+			"title":"vi. The RED (and VIOLET inside) circle is the number 5 (five). Click this circle and memorize its number",
+			"type": "images",
+			"timer":"15",
+			"isHiddenTimer":false,
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				}
+			]
+		},
+		{
+		"title":"vii. The BLUE (and GREY inside) circle is the number 4 (FOUR): Click this circle and memorize its number",
+		"isHiddenTimer":false,
+		"options": 
+			[
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "4(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
+			]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"viii. The VIOLET (and GREEN inside) circle is the number 2 (TWO): Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "2(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"ix. The YELLOW (and BLUE inside) circle is the number 3 (THREE): Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}				
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"x. The GREEN (and YELLOW inside) circle is the number 1 (ONE): Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "1(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+	{
+			"title":"xi. The RED (and VIOLET inside) circle is the number 5 (FIVE): Click this circle and memorize its number",
+			"type": "images",
+			"timer":"15",
+			"isHiddenTimer":false,
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				}
+			]
+		},
+		{
+		"title":"xii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+		"options": 
+			[
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "4(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
+			]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"xiii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "2(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"xiv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}				
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"xv. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "1(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+			"title":"xvi. The RED (and VIOLET inside) circle is the number 5 (FIVE). Click this circle and memorize its number",
+			"type": "images",
+			"timer":"15",
+			"isHiddenTimer":false,
+			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"options": [
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "5(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				}
+			]
+		},
+		{
+		"title":"xvii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+		"options": 
+			[
+				{
+					"id": "1",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "4(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
+			]
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"xviii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "2(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "3",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"xix. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				},
+				{
+					"id": "2",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "3(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+				}				
 				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		},
+		{
+		"title":"xx. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
+		"isHiddenTimer":false,
+			"options": [
+				{
+					"id": "4",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+				},
+				{
+					"id": "1(+)",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+				},
+				{
+					"id": "5",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+				},
+				{
+					"id": "6",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+				}
 				]
-			},
-			{
-				"title": "i. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2%2B3.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
-					},
-					{
-						"id": "5(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/2b.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-					}
-					
-				]
-			},
-			{
-				"title": "ii. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3%2B2.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-					},
-					{
-						"id": "5(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-					}
-				]
-			},
-			{
-				"title": "iii. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7+3.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5b.png"
-					},
-					{
-						"id": "10(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-					}
-				]
-			},
-			{
-				"title": "iv. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3%2B7.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-					},
-					{
-						"id": "10(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-					}
-				]
-			},
-			{
-				"title": "v. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+3.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-					},
-					{
-						"id": "9(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-					}
-				]
-			},
-			{
-				"title": "vi. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3%2B5.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "8(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/10b.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-					}
-				]
-			},
-			{
-				"title": "vii. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/5%2B3.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-					},
-					
-					{
-						"id": "8(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-					}
-				]
-			},
-			{
-				"title": "viii. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4+3.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-					},
-					{
-						"id": "7(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-					}
-				]
-			},
-			{
-				"title": "ix. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3%2B4.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/4b.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-					},
-					{
-						"id": "7(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/7b.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-					}
-				]
-			},
-			{
-				"title": "x. Give an answer",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6+3.png",
-				"type": "images",
-				"timer": 15,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/fireworks.gif",
-				"pauseTimer": 3,
-				"options": [
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/3b.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/8b.png"
-					},
-					
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/6b.png"
-					},
-					{
-						"id": "9(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/9b.png"
-					}
-				]	
-			}
+			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
+			"pauseTimer":"3",
+			"timer":"15",
+			"type":"images"
+		}
 		]
 	}
