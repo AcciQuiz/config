@@ -800,7 +800,7 @@
 			]
 		},
 		{
-			"title":"i. Please memorize that the RED (and VIOLET inside) circle corresponds to the number 5 (FIVE) and click it on the screen.",
+			"title":"i. Please read carefully, guess which circle corresponds to the number 5 (FIVE), and click on it on the screen.",
 			"type": "images",
 			"timer":"18",
 			"isHiddenTimer":false,
@@ -826,7 +826,7 @@
 			]
 		},
 		{
-		"title":"ii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number ",
+		"title":"ii. Please read carefully this sentence, guess which circle corresponds to the number 4 (FOUR), and Click on this circle",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -853,7 +853,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
+		"title":"iii. Please read carefully this sentence, guess which circle corresponds to the number 2 (TWO), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -879,7 +879,7 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"title":"iv. Please read carefully this sentence, guess which circle corresponds to the number 3 (THREE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -905,7 +905,7 @@
 			"type":"images"
 		},
 		{
-		"title":"v. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
+		"title":"v. Please read carefully this sentence, guess which circle corresponds to the number 1 (ONE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -931,7 +931,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. The RED (and VIOLET inside) circle is the number 5 (five). Click this circle and memorize its number",
+			"title":"vi. Please read carefully this sentence, guess which circle corresponds to the number 5 (five), and Click on this circle",
 			"type": "images",
 			"timer":"15",
 			"isHiddenTimer":false,
@@ -957,7 +957,7 @@
 			]
 		},
 		{
-		"title":"vii. The BLUE (and GREY inside) circle is the number 4 (FOUR): Click this circle and memorize its number",
+		"title":"vii. Please read carefully this sentence, guess which circle corresponds to the number 4 (FOUR), and Click on this circle",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -984,7 +984,7 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. The VIOLET (and GREEN inside) circle is the number 2 (TWO): Click this circle and memorize its number",
+		"title":"viii. Please read carefully this sentence, guess which circle corresponds to the number 2 (TWO), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1010,7 +1010,7 @@
 			"type":"images"
 		},
 		{
-		"title":"ix. The YELLOW (and BLUE inside) circle is the number 3 (THREE): Click this circle and memorize its number",
+		"title":"ix. Please read carefully this sentence, guess which circle corresponds to the number 3 (THREE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1036,7 +1036,7 @@
 			"type":"images"
 		},
 		{
-		"title":"x. The GREEN (and YELLOW inside) circle is the number 1 (ONE): Click this circle and memorize its number",
+		"title":"x. Please read carefully this sentence, guess which circle corresponds to the number 1 (ONE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1062,7 +1062,7 @@
 			"type":"images"
 		},
 	{
-			"title":"xi. The RED (and VIOLET inside) circle is the number 5 (FIVE): Click this circle and memorize its number",
+			"title":"xi. Please read carefully this sentence, guess which circle corresponds to the number 5 (FIVE), and Click on this circle",
 			"type": "images",
 			"timer":"15",
 			"isHiddenTimer":false,
@@ -1088,7 +1088,7 @@
 			]
 		},
 		{
-		"title":"xii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number",
+		"title":"xii. Please read carefully this sentence, guess which circle corresponds to the number 4 (FOUR), and Click on this circle",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -1115,7 +1115,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xiii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
+		"title":"xiii. Please read carefully this sentence, guess which circle corresponds to the number 2 (TWO), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1141,7 +1141,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xiv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"title":"xiv. Please read carefully this sentence, guess which circle corresponds to the number 3 (THREE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1167,7 +1167,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xv. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
+		"title":"xv. Please read carefully this sentence, guess which circle corresponds to the number 1 (ONE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1193,7 +1193,7 @@
 			"type":"images"
 		},
 		{
-			"title":"xvi. The RED (and VIOLET inside) circle is the number 5 (FIVE). Click this circle and memorize its number",
+			"title":"xvi. Please read carefully this sentence, guess which circle corresponds to the number 5 (FIVE), and Click on this circle",
 			"type": "images",
 			"timer":"15",
 			"isHiddenTimer":false,
@@ -1219,7 +1219,7 @@
 			]
 		},
 		{
-		"title":"xvii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number",
+		"title":"xvii. Please read carefully this sentence, guess which circle corresponds to the number 4 (FOUR), and Click on this circle",
 		"isHiddenTimer":false,
 		"options": 
 			[
@@ -1246,7 +1246,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xviii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
+		"title":"xviii. Please read carefully this sentence, guess which circle corresponds to the number 2 (TWO), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1272,7 +1272,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xix. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"title":"xix. Please read carefully this sentence, guess which circle corresponds to the number 3 (THREE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
@@ -1298,7 +1298,7 @@
 			"type":"images"
 		},
 		{
-		"title":"xx. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
+		"title":"xx. Please read carefully this sentence, guess which circle corresponds to the number 1 (ONE), and Click on this circle",
 		"isHiddenTimer":false,
 			"options": [
 				{
