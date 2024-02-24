@@ -772,33 +772,33 @@
 			]
 		},
 		{
-			"title": "I. Please choose one image from four options that you like",
+			"title": "I. Thought experiment: You find two little kittens in the street. It's snowing. You can bring home only one kitten, please choose one:",
 			"type": "images",
 			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
 			"pauseTimer": 6,
 			"options": [
 				{
-					"id": "Dog Blue",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
+					"id": "Cat BP Blue",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blu.png"
 				},
 				{
-					"id": "Cat BP Treangolo",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20bp%20treangolo.png"
+					"id": "Cat BY Verde",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY%20verde.png"
 				},
 				{
-					"id": "Chicken Green",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
+					"id": "Null",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
-					"id": "Dog Green",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
+					"id": "Null",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 				
 			]
 		},
 		{
-			"title": "II. Please choose one image from four options that you like",
+			"title": "II. Thought experiment: You find three little dogs in the street. It's snowing. You can bring home only one dog, please choose one:",
 			"type": "images",
 			"timer": 12,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetG5_6sec.gif",
@@ -813,8 +813,8 @@
 					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
 				},
 				{
-					"id": "Chicken Green",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
+					"id": "Null",
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "Dog Green",
