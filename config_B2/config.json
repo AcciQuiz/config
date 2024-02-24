@@ -826,25 +826,25 @@
 			]
 		},
 		{
-		"title":"ii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number ",
+		"title":"ii. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 		"options": 
 			[
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "4(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
@@ -879,24 +879,24 @@
 			"type":"images"
 		},
 		{
-		"title":"iv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"title":"iv. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "3(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
@@ -931,7 +931,7 @@
 			"type":"images"
 		},
 		{
-			"title":"vi. The RED (and VIOLET inside) circle is the number 5 (five). Click this circle and memorize its number",
+			"title":"vi. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 			"type": "images",
 			"timer":"15",
 			"isHiddenTimer":false,
@@ -940,19 +940,19 @@
 			"options": [
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
@@ -984,24 +984,24 @@
 			"type":"images"
 		},
 		{
-		"title":"viii. The VIOLET (and GREEN inside) circle is the number 2 (TWO): Click this circle and memorize its number",
+		"title":"viii. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "2(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
@@ -1036,24 +1036,24 @@
 			"type":"images"
 		},
 		{
-		"title":"x. The GREEN (and YELLOW inside) circle is the number 1 (ONE): Click this circle and memorize its number",
+		"title":"x. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "1(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
@@ -1088,25 +1088,25 @@
 			]
 		},
 		{
-		"title":"xii. The BLUE (and GREY inside) circle is the number 4 (FOUR). Click this circle and memorize its number",
+		"title":"xii. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 		"options": 
 			[
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "4(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
@@ -1141,24 +1141,24 @@
 			"type":"images"
 		},
 		{
-		"title":"xiv. The YELLOW (and BLUE inside) circle is the number 3 (THREE). Click this circle and memorize its number",
+		"title":"xiv. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "2",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "3(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}				
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
@@ -1193,7 +1193,7 @@
 			"type":"images"
 		},
 		{
-			"title":"xvi. The RED (and VIOLET inside) circle is the number 5 (FIVE). Click this circle and memorize its number",
+			"title":"xvi. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 			"type": "images",
 			"timer":"15",
 			"isHiddenTimer":false,
@@ -1202,19 +1202,19 @@
 			"options": [
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "1",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 			]
 		},
@@ -1246,24 +1246,24 @@
 			"type":"images"
 		},
 		{
-		"title":"xviii. The VIOLET (and GREEN inside) circle is the number 2 (TWO). Click this circle and memorize its number",
+		"title":"xviii. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "2(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/2.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "3",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/3.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
@@ -1298,24 +1298,24 @@
 			"type":"images"
 		},
 		{
-		"title":"xx. The GREEN (and YELLOW inside) circle is the number 1 (ONE). Click this circle and memorize its number",
+		"title":"xx. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 		"isHiddenTimer":false,
 			"options": [
 				{
 					"id": "4",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/4.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "1(+)",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/1.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "5",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/5-r.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				},
 				{
 					"id": "6",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/6.png"
+					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 				}
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
