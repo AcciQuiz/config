@@ -8,7 +8,7 @@
 		{
 			"title": "Registration. Please select one of the years from the list below in the screen that relates to the YEAR of your birthday",
 			"type": "question",
-			"timer": 15,
+			"timer": 18,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -156,7 +156,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 9,
+			"timer": 12,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -269,7 +269,7 @@
 			"title": "The ACCI Academic Program to test a pilot study: choosing the preferred image",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 6
+			"timer": 4
 		},
 		{
 			"title": "I. Thought experiment: You find two little kittens in the street. It's snowing. You can bring home only one kitten, please choose one:",
@@ -300,7 +300,7 @@
 		{
 			"title": "II. Thought experiment: You find three little dogs in the street. It's snowing. You can bring home only one dog, please choose one:",
 			"type": "images",
-			"timer": 15,
+			"timer": 12,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetG5_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
