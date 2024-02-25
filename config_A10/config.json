@@ -800,7 +800,7 @@
 		{
 			"title": "II. Thought experiment: You find three little dogs in the street. It's snowing. You can bring home only one dog, please choose one:",
 			"type": "images",
-			"timer": 12,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetG5_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -823,9 +823,9 @@
 			]
 		},
 		{
-			"title": "III. Thought experiment: You find three little chickens in the street. It's snowing. You can bring home only one chicken, please choose one:",
+			"title": "III. Thought experiment: You find little chickens in the street. It's snowing. You can bring home only one chicken, please choose one:",
 			"type": "images",
-			"timer": 12,
+			"timer": 15,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Scarpe2_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
@@ -875,7 +875,7 @@
 		{
 			"title": "Thank you so much for your kind help!",
 			"type": "images",
-			"timer": 12,
+			"timer": 3,
 			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetA3_6sec.gif",
 			"pauseTimer": 6,
 			"options": [
