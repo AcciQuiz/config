@@ -8,7 +8,7 @@
 			{
 			"title": "Registration for the FIRST group. Please select one of the years from the list below in the screen that relates to your birthday YEAR:",
 			"type": "question",
-			"timer": 12,
+			"timer": 18,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -156,7 +156,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 9,
+			"timer": 18,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -286,7 +286,7 @@
 			]
 		},
 		{
-			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please click the button with the candy number ONE.",
+			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please click on the button with the candy number ONE.",
 			"type": "images",
 			"timer": 9,
 			"oldStyle": true,
@@ -336,7 +336,7 @@
 			]
 		},
 		{
-			"title": "Please click the second candy",
+			"title": "Please click on the second candy",
 			"type": "images",
 			"timer": 6,
 			"oldStyle": true,
@@ -386,7 +386,7 @@
 			]
 		},
 		{
-			"title": "Please click the third candy",
+			"title": "Please click on the third candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -436,7 +436,7 @@
 			]
 		},
 		{
-			"title": "Please click the 4th candy",
+			"title": "Please click on the 4th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -486,7 +486,7 @@
 			]
 		},
 		{
-			"title": "Please click the 5th candy",
+			"title": "Please click on the 5th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -536,7 +536,7 @@
 			]
 		},
 		{
-			"title": "Please click the 6th candy",
+			"title": "Please click on the 6th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -586,7 +586,7 @@
 			]
 		},
 		{
-			"title": "Please click the 7th candy",
+			"title": "Please click on the 7th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -636,7 +636,7 @@
 			]
 		},
 		{
-			"title": "Please click the 8th candy",
+			"title": "Please click on the 8th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -686,7 +686,7 @@
 			]
 		},
 		{
-			"title": "Please click the 9th candy",
+			"title": "Please click on the 9th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
@@ -736,7 +736,7 @@
 			]
 		},
 		{
-			"title": "Please click the 10th candy",
+			"title": "Please click on the 10th candy",
 			"type": "images",
 			"timer": 3,
 			"oldStyle": true,
