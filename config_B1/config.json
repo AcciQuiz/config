@@ -266,7 +266,7 @@
 			]
 		},
 		{
-			"title": "This test estimates your intuition. We ask you to guess the numerical value of 5 (five) bi-colored circles.",
+			"title": "This test estimates your intuition. We present you a colored number system from 1 to 5, each two-color circle has a different number. We ask you to guess the numerical value of each colored circles",
 			"type": "message",
 			"isHiddenTimer": true,
 			"timer": 21
