@@ -8,7 +8,7 @@
 		{
 			"title": "Registration for the SECOND group. Please select one of the years from the list below in the screen that relates to your birthday YEAR:",
 			"type": "question",
-			"timer": 18,
+			"timer": 21,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -156,7 +156,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 18,
+			"timer": 21,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -276,7 +276,7 @@
 			"type": "images",
 			"timer":"3",
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
-			"pauseTimer":"6",	
+			"pauseTimer":"3",	
 			"isHiddenTimer":true,
 			"options": [
 				{
@@ -388,7 +388,7 @@
 		{
 			"title": "Please click on the third candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -438,7 +438,7 @@
 		{
 			"title": "Please click on the 4th candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -488,7 +488,7 @@
 		{
 			"title": "Please click on the 5th candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -538,7 +538,7 @@
 		{
 			"title": "Please click on the 6th candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 6,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -588,7 +588,7 @@
 		{
 			"title": "Please click on the 7th candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 9,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -638,7 +638,7 @@
 		{
 			"title": "Please click on the 8th candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 9,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -688,7 +688,7 @@
 		{
 			"title": "Please click on the 9th candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 9,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -738,7 +738,7 @@
 		{
 			"title": "Please click on the 10th candy",
 			"type": "images",
-			"timer": 3,
+			"timer": 12,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -802,7 +802,7 @@
 		{
 			"title":"i. Please memorize that the RED (and VIOLET inside) circle corresponds to the number 5 (FIVE) and click it on the screen.",
 			"type": "images",
-			"timer":"18",
+			"timer":"30",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
@@ -849,7 +849,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -875,7 +875,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -901,7 +901,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -927,13 +927,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
 			"title":"vi. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 			"type": "images",
-			"timer":"15",
+			"timer":"30",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
@@ -980,7 +980,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1006,7 +1006,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1032,7 +1032,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1058,13 +1058,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 	{
 			"title":"xi. The RED (and VIOLET inside) circle is the number 5 (FIVE): Click this circle and memorize its number",
 			"type": "images",
-			"timer":"15",
+			"timer":"30",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
@@ -1111,7 +1111,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1137,7 +1137,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1163,7 +1163,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1189,13 +1189,13 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
 			"title":"xvi. Please do not communicate or press any buttons! While your co-mates are doing their tasks, this is a pause for you, please look at the screen and wait for the next task.",
 			"type": "images",
-			"timer":"15",
+			"timer":"30",
 			"isHiddenTimer":false,
 			"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
@@ -1242,7 +1242,7 @@
 			]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1268,7 +1268,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1294,7 +1294,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		},
 		{
@@ -1320,7 +1320,7 @@
 				]
 			,"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blue.png",
 			"pauseTimer":"3",
-			"timer":"15",
+			"timer":"30",
 			"type":"images"
 		}
 	]
