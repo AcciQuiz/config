@@ -8,7 +8,7 @@
 			{
 			"title": "Registration for the FIRST group. Please select one of the years from the list below in the screen that relates to your birthday YEAR:",
 			"type": "question",
-			"timer": 30,
+			"timer": 60,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -156,7 +156,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 30,
+			"timer": 60,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -244,8 +244,8 @@
 					"text": "U"
 				},
 				{
-					"id": "V",
-					"text": "V"
+					"id": "S",
+					"text": "S"
 				},
 				{
 					"id": "W",
@@ -269,7 +269,7 @@
 			"title": "This test estimates your intuition. We present you a colored number system from 1 to 5, each two-color circle has a different number. We ask you to guess the numerical value of each colored circles",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 30
+			"timer": 60
 		},
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
@@ -288,7 +288,7 @@
 		{
 			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please click on the button with the candy number ONE.",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -338,7 +338,7 @@
 		{
 			"title": "Please click on the second candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -388,7 +388,7 @@
 		{
 			"title": "Please click on the third candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -438,7 +438,7 @@
 		{
 			"title": "Please click on the 4th candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -488,7 +488,7 @@
 		{
 			"title": "Please click on the 5th candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -538,7 +538,7 @@
 		{
 			"title": "Please click on the 6th candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -588,7 +588,7 @@
 		{
 			"title": "Please click on the 7th candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -638,7 +638,7 @@
 		{
 			"title": "Please click on the 8th candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -688,7 +688,7 @@
 		{
 			"title": "Please click on the 9th candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -738,7 +738,7 @@
 		{
 			"title": "Please click on the 10th candy",
 			"type": "images",
-			"timer": 9,
+			"timer": 60,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
