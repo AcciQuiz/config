@@ -8,7 +8,7 @@
 			{
 			"title": "Registration for the FIRST group. Please select one of the years from the list below in the screen that relates to your birthday YEAR:",
 			"type": "question",
-			"timer": 60,
+			"timer": 120,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -156,7 +156,7 @@
 		{
 			"title": "Registration. Please choose one letter from the list below which relates to your name.",
 			"type": "question",
-			"timer": 60,
+			"timer": 120,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -240,8 +240,8 @@
 					"text": "T"
 				},
 				{
-					"id": "I",
-					"text": "I"
+					"id": "H",
+					"text": "H"
 				},
 				{
 					"id": "V",
@@ -269,7 +269,7 @@
 			"title": "This test estimates your intuition. We present you a colored number system from 1 to 5, each two-color circle has a different number. We ask you to guess the numerical value of each colored circles",
 			"type": "message",
 			"isHiddenTimer": true,
-			"timer": 60
+			"timer": 120
 		},
 		{
 			"titleImage":"https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/null.png",
@@ -288,7 +288,7 @@
 		{
 			"title": "Before the test, we verify your attention by counting from 1 to 10 candies. Please click on the button with the candy number ONE.",
 			"type": "images",
-			"timer": 60,
+			"timer": 120,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
@@ -338,7 +338,7 @@
 		{
 			"title": "Please click on the second candy",
 			"type": "images",
-			"timer": 60,
+			"timer": 120,
 			"oldStyle": true,
 			"isHiddenTimer": true,
 			"ignoreAnswer": true,
