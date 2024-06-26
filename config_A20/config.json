@@ -6,7 +6,7 @@
 		},
 		"config": [
 			{
-				"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
+				"title": "Registration. Please select one of the years.",
 				"type": "question",
 				"timer": 3,
 				"pauseTimer": 3,
