@@ -6,7 +6,7 @@
 		},
 		"config": [
 			{
-				"title": "Registration. Please select one of the years.",
+				"title": "I am APIN system. Nice to meet you! Please select one of the years.",
 				"type": "question",
 				"timer": 3,
 				"pauseTimer": 3,
@@ -42,7 +42,7 @@
 				]
 			},
 			{
-				"title": "Registration. Please choose one letter.",
+				"title": "Please choose one letter.",
 				"type": "question",
 				"timer": 3,
 				"pauseTimer": 3,
@@ -90,7 +90,7 @@
 				]
 			},
 			{
-				"title": "The AGATA academic curriculum A20.",
+				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A20.",
 				"type": "message",
 				"isHiddenTimer": true,
 				"timer": 3
@@ -276,186 +276,177 @@
 				]
 			},
 			{
-				"title": "Counting 4",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_LRSZ.png",
-				"pauseTimer": 1,
+				"title": "Task 4 :  872 - 583 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "389",
+						"text": "389"
 					},
 					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "299",
+						"text": "299"
 					},
 					{
-						"id": "10(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "289(+)",
+						"text": "289"
 					},
 					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "399",
+						"text": "399"
 					}
 				]
 			},
 			{
-				"title": "Counting 5",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_LRSZ.png",
-				"pauseTimer": 1,
+				"title": "Task 5 :  345 + 264 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "509",
+						"text": "505"
 					},
 					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "699",
+						"text": "699"
 					},
 					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "599",
+						"text": "599"
 					},
 					{
-						"id": "9(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "609(+)",
+						"text": "399"
 					}
 				]
 			},
 			{
-				"title": "Counting 6",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_Dada.png",
-				"pauseTimer": 1,
+				"title": "Task 6 :  12 x 11 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "8(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "132(+)",
+						"text": "132"
 					},
 					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "131",
+						"text": "131"
 					},
 					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "121",
+						"text": "121"
 					},
 					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "122",
+						"text": "122"
 					}
 				]
 			},
 			{
-				"title": "Counting 7",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_Dada.png",
-				"pauseTimer": 1,
+				"title": "14 x 13 = 182",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "162",
+						"text": "132"
 					},
 					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "186",
+						"text": "186"
 					},
 					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "172",
+						"text": "172"
 					},
-					
 					{
-						"id": "8(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "182(+)",
+						"text": "182"
 					}
 				]
 			},
 			{
-				"title": "Counting 8",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_Dada.png",
-				"pauseTimer": 1,
+				"title": "143 / 11 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "12",
+						"text": "12"
 					},
 					{
-						"id": "7(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "13(+)",
+						"text": "13"
 					},
 					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "11",
+						"text": "11"
 					},
 					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "15",
+						"text": "15"
 					}
 				]
 			},
 			{
-				"title": "Counting 9",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_Dada.png",
-				"pauseTimer": 1,
+				"title": "(71 - 29) / 3 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "12",
+						"text": "12"
 					},
 					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "13",
+						"text": "13"
 					},
 					{
-						"id": "7(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "14(+)",
+						"text": "14"
 					},
 					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "15",
+						"text": "15"
 					}
 				]
 			},
 			{
-				"title": "Counting 10",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_Dada.png",
-				"pauseTimer": 1,
+				"title": "(221 - 137) / 7 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "11",
+						"text": "11"
 					},
 					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "13",
+						"text": "13"
 					},
 					{
-						"id": "9(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "12(+)",
+						"text": "12"
 					}
 				]	
 			},
