@@ -211,7 +211,7 @@
 						"text": "95"
 					},
 					{
-						"id": "105",
+						"id": "105(+)",
 						"text": "105"
 					},
 					{
@@ -226,54 +226,52 @@
 				]
 			},
 			{
-				"title": "Counting 2",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_LRSZ.png",
-				"pauseTimer": 1,
+				"title": "Task 2 :  73 + 37 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "36(+)",
+						"text": "36"
 					},
 					{
-						"id": "5(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "35",
+						"text": "35"
 					},
 					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "46",
+						"text": "46"
 					},
 					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "37",
+						"text": "37"
 					}
 				]
 			},
 			{
-				"title": "Counting 3",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 44,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_LRSZ.png",
-				"pauseTimer": 1,
+				"title": "Task 2 :  367 + 456 =",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "723",
+						"text": "723"
 					},
 					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "813",
+						"text": "813"
 					},
 					{
-						"id": "10(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "823(+)",
+						"text": "823"
 					},
 					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"id": "713",
+						"text": "713"
 					}
 				]
 			},
