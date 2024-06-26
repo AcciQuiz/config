@@ -9,7 +9,7 @@
 				"title": "Registration. Please select one of the numbers from the list below in the screen that relates to your birthday. (Numbers from 1 to 31)",
 				"type": "question",
 				"timer": 3,
-				"pauseTimer": 0,
+				"pauseTimer": 3,
 				"options": [
 					{
 						"id": "1930-1939",
@@ -45,7 +45,7 @@
 				"title": "Registration. Please choose one letter.",
 				"type": "question",
 				"timer": 3,
-				"pauseTimer": 0,
+				"pauseTimer": 3,
 				"options": [
 					{
 						"id": "A",
@@ -203,6 +203,7 @@
 				"title": "47 + 58 =",
 				"type": "question",
 				"timer": 12,
+				"isHiddenTimer": false,
 				"pauseTimer": 0,
 				"options": [
 					{
