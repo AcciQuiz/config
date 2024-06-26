@@ -200,10 +200,10 @@
 				]
 			},
 			{
-				"title": "47 + 58 =",
+				"title": "Task 1 :  47 + 58 =",
 				"type": "question",
 				"timer": 12,
-				"isHiddenTimer": false,
+				"isHiddenTimer": true,
 				"pauseTimer": 0,
 				"options": [
 					{
