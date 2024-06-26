@@ -36,8 +36,8 @@
 						"text": "1980-1989"
 					},
 					{
-						"id": "1990",
-						"text": "1999"
+						"id": "1990-1999",
+						"text": "1999-1999"
 					}
 				]
 			},
@@ -96,7 +96,7 @@
 				"timer": 3
 			},
 			{
-				"title": "Counting from 1 to 10 pears",
+				"title": "Counting pears",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -118,35 +118,11 @@
 					{
 						"id": "4",
 						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 					}
 				]
 			},
 			{
-				"title": "Counting from 1 to 10 pears",
+				"title": "Counting pears",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -168,35 +144,11 @@
 					{
 						"id": "4",
 						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 					}
 				]
 			},
 			{
-				"title": "Counting from 1 to 10 pears",
+				"title": "Counting pears",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -218,35 +170,11 @@
 					{
 						"id": "4",
 						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 					}
 				]
 			},
 			{
-				"title": "Counting from 1 to 10 pears",
+				"title": "Counting pears",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -268,356 +196,31 @@
 					{
 						"id": "4",
 						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
 					}
 				]
 			},
 			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
-				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
-				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
-				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
-				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-					}
-				]
-			},
-			{
-				"title": "Counting from 1 to 10 pears",
-				"type": "images",
-				"timer": 3,
-				"oldStyle": true,
-				"isHiddenTimer": true,
-				"ignoreAnswer": true,
-				"options": [
-					{
-						"id": "1",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "5",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "6",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "7",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "8",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "9",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					},
-					{
-						"id": "10",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
-					}
-				]
-			},
-			{
-				"title": "Counting 1",
-				"titleImage": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-				"type": "images",
-				"timer": 6,
-				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesPic/MatrixRWord_LRSZ.png",
-				"pauseTimer": 1,
+				"title": "47 + 58 =",
+				"type": "question",
+				"timer": 30,
+				"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
+				"pauseTimer": 3,
 				"options": [
 					{
 						"id": "4",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"link": "95"
 					},
 					{
 						"id": "5(+)",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"link": "105"
 					},
 					{
 						"id": "2",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"link": "96"
 					},
 					{
 						"id": "3",
-						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+						"link": "106"
 					}
 					
 				]
