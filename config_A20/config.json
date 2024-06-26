@@ -200,7 +200,7 @@
 				]
 			},
 			{
-				"title": "Task 1 :  47 + 58 =",
+				"title": "47 + 58 = ?",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -222,11 +222,10 @@
 						"id": "106",
 						"text": "106"
 					}
-					
 				]
 			},
 			{
-				"title": "Task 2 :  73 - 37 =",
+				"title": "73 - 37 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -251,7 +250,7 @@
 				]
 			},
 			{
-				"title": "Task 3 :  367 + 456 =",
+				"title": "367 + 456 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -276,7 +275,7 @@
 				]
 			},
 			{
-				"title": "Task 4 :  872 - 583 =",
+				"title": "872 - 583 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -301,7 +300,7 @@
 				]
 			},
 			{
-				"title": "Task 5 :  345 + 264 =",
+				"title": "345 + 264 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -321,12 +320,12 @@
 					},
 					{
 						"id": "609(+)",
-						"text": "399"
+						"text": "609"
 					}
 				]
 			},
 			{
-				"title": "Task 6 :  12 x 11 =",
+				"title": "12 x 11 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -351,7 +350,7 @@
 				]
 			},
 			{
-				"title": "14 x 13 = 182",
+				"title": "14 x 13 = ",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -359,11 +358,11 @@
 				"options": [
 					{
 						"id": "162",
-						"text": "132"
+						"text": "162"
 					},
 					{
-						"id": "186",
-						"text": "186"
+						"id": "192",
+						"text": "192"
 					},
 					{
 						"id": "172",
@@ -376,7 +375,7 @@
 				]
 			},
 			{
-				"title": "143 / 11 =",
+				"title": "143 / 11 = ",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -401,7 +400,7 @@
 				]
 			},
 			{
-				"title": "(71 - 29) / 3 =",
+				"title": "(71 - 29) / 3 = ",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -426,7 +425,257 @@
 				]
 			},
 			{
-				"title": "(221 - 137) / 7 =",
+				"title": "(221 - 137) / 7 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11",
+						"text": "11"
+					},
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "12(+)",
+						"text": "12"
+					}
+				]	
+			},
+			{
+				"title": "6547 + 2658 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "9195",
+						"text": "9195"
+					},
+					{
+						"id": "9205(+)",
+						"text": "9205"
+					},
+					{
+						"id": "9215",
+						"text": "9215"
+					},
+					{
+						"id": "9206",
+						"text": "9206"
+					}
+				]
+			},
+			{
+				"title": "7773 - 4387 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "3386(+)",
+						"text": "2286"
+					},
+					{
+						"id": "3286",
+						"text": "3286"
+					},
+					{
+						"id": "3296",
+						"text": "3296"
+					},
+					{
+						"id": "3396",
+						"text": "3396"
+					}
+				]
+			},
+			{
+				"title": "2367 + 5456 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "7723",
+						"text": "7723"
+					},
+					{
+						"id": "7813",
+						"text": "7813"
+					},
+					{
+						"id": "7823(+)",
+						"text": "7823"
+					},
+					{
+						"id": "7713",
+						"text": "7713"
+					}
+				]
+			},
+			{
+				"title": "9872 - 3583 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "6389",
+						"text": "6389"
+					},
+					{
+						"id": "6299",
+						"text": "6299"
+					},
+					{
+						"id": "6289(+)",
+						"text": "6289"
+					},
+					{
+						"id": "6399",
+						"text": "6399"
+					}
+				]
+			},
+			{
+				"title": "7345 + 6264 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "13509",
+						"text": "13509"
+					},
+					{
+						"id": "13699",
+						"text": "13699"
+					},
+					{
+						"id": "13599",
+						"text": "13599"
+					},
+					{
+						"id": "13609(+)",
+						"text": "13609"
+					}
+				]
+			},
+			{
+				"title": "12 x 16 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "192(+)",
+						"text": "192"
+					},
+					{
+						"id": "182",
+						"text": "182"
+					},
+					{
+						"id": "202",
+						"text": "202"
+					},
+					{
+						"id": "212",
+						"text": "212"
+					}
+				]
+			},
+			{
+				"title": "16 x 17 = 272 ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "262",
+						"text": "262"
+					},
+					{
+						"id": "282",
+						"text": "282"
+					},
+					{
+						"id": "242",
+						"text": "242"
+					},
+					{
+						"id": "272(+)",
+						"text": "272"
+					}
+				]
+			},
+			{
+				"title": "224 / 16 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "12",
+						"text": "12"
+					},
+					{
+						"id": "14(+)",
+						"text": "14"
+					},
+					{
+						"id": "16",
+						"text": "16"
+					},
+					{
+						"id": "18",
+						"text": "18"
+					}
+				]
+			},
+			{
+				"title": "(438 - 256) / 14 = ",
+				"type": "question",
+				"timer": 12,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "12",
+						"text": "12"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "13(+)",
+						"text": "13"
+					},
+					{
+						"id": "16",
+						"text": "16"
+					}
+				]
+			},
+			{
+				"title": "(7221 - 7137) / 7 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
