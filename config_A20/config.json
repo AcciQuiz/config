@@ -202,7 +202,7 @@
 			{
 				"title": "47 + 58 =",
 				"type": "question",
-				"timer": 3,
+				"timer": 12,
 				"pauseTimer": 0,
 				"options": [
 					{
