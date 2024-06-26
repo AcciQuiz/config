@@ -204,7 +204,7 @@
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
-				"pauseTimer": 0,
+				"pauseTimer": 3,
 				"options": [
 					{
 						"id": "95",
