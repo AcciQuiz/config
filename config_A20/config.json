@@ -226,7 +226,7 @@
 				]
 			},
 			{
-				"title": "Task 2 :  73 + 37 =",
+				"title": "Task 2 :  73 - 37 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
@@ -251,7 +251,7 @@
 				]
 			},
 			{
-				"title": "Task 2 :  367 + 456 =",
+				"title": "Task 3 :  367 + 456 =",
 				"type": "question",
 				"timer": 12,
 				"isHiddenTimer": true,
