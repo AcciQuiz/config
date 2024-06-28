@@ -200,6 +200,31 @@
 				]
 			},
 			{
+				"title": "Please choose the item that is associated with the set of the previous task",
+				"type": "images",
+				"timer": 6,
+				"pauseTimer": 1,
+				"options": [
+					{
+						"id": "(-)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+					},
+					{
+						"id": "(+)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					},
+					{
+						"id": "(-)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
+					},
+					{
+						"id": "(-)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/potato.png"
+					}
+					
+				]
+			},
+			{
 				"title": "47 + 58 = ?",
 				"type": "question",
 				"timer": 12,
