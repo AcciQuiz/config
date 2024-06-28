@@ -202,8 +202,10 @@
 			{
 				"title": "Please choose the item that is associated with the set of the previous task",
 				"type": "images",
-				"timer": 6,
-				"pauseTimer": 1,
+				"timer":"6",
+				"isHiddenTimer":false,
+				"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
+				"pauseTimer":"3",
 				"options": [
 					{
 						"id": "(-)",
