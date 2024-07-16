@@ -126,7 +126,7 @@
 				]
 			},
 			{
-				"title": "Counting pears",
+				"title": "Counting",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -152,7 +152,7 @@
 				]
 			},
 			{
-				"title": "Counting pears",
+				"title": "Counting",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -178,7 +178,7 @@
 				]
 			},
 			{
-				"title": "Counting pears",
+				"title": "Counting",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -339,7 +339,7 @@
 				"options": [
 					{
 						"id": "509",
-						"text": "505"
+						"text": "509"
 					},
 					{
 						"id": "699",
@@ -406,7 +406,7 @@
 				]
 			},
 			{
-				"title": "143 / 11 = ",
+				"title": "195 / 15 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
@@ -488,8 +488,8 @@
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "9195",
-						"text": "9195"
+						"id": "8205",
+						"text": "8205"
 					},
 					{
 						"id": "9205(+)",
@@ -656,7 +656,7 @@
 				]
 			},
 			{
-				"title": "224 / 16 = ",
+				"title": "(262 - 38) / 16 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
