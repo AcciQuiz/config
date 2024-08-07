@@ -6,7 +6,7 @@
 		},
 		"config": [
 			{
-				"title": "I am APIN system. Nice to meet you! Please select one of the years.",
+				"title": "I am APIN system. Please select one of the years.",
 				"type": "question",
 				"timer": 60,
 				"pauseTimer": 3,
@@ -46,7 +46,7 @@
 				]
 			},
 			{
-				"title": "Please choose one letter.",
+				"title": "Please choose:",
 				"type": "question",
 				"timer": 9,
 				"pauseTimer": 3,
@@ -204,7 +204,7 @@
 				]
 			},
 			{
-				"title": "Please choose the item associated with the set of the previous task",
+				"title": "Please choose:",
 				"type": "images",
 				"timer":"30",
 				"isHiddenTimer":false,
