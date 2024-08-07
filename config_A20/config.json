@@ -100,7 +100,7 @@
 				"timer": 30
 			},
 			{
-				"title": "Counting",
+				"title": "Pear",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -126,7 +126,7 @@
 				]
 			},
 			{
-				"title": "Counting",
+				"title": "Apple",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -152,7 +152,7 @@
 				]
 			},
 			{
-				"title": "Counting",
+				"title": "Banana",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -178,7 +178,7 @@
 				]
 			},
 			{
-				"title": "Counting",
+				"title": "Grapes",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -204,7 +204,7 @@
 				]
 			},
 			{
-				"title": "Please choose the item that is associated with the set of the previous task",
+				"title": "Please choose the item associated with the set of the previous task",
 				"type": "images",
 				"timer":"30",
 				"isHiddenTimer":false,
@@ -231,207 +231,207 @@
 				]
 			},
 			{
-				"title": "147 + 358 = ?",
+				"title": "877 + 358 = ?",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "495",
-						"text": "495"
+						"id": "1225",
+						"text": "1225"
 					},
 					{
-						"id": "505(+)",
-						"text": "505"
+						"id": "1235(+)",
+						"text": "1235"
 					},
 					{
-						"id": "515",
-						"text": "515"
+						"id": "1135",
+						"text": "1135"
 					},
 					{
-						"id": "506",
-						"text": "506"
+						"id": "1125",
+						"text": "1125"
 					}
 				]
 			},
 			{
-				"title": "273 - 137 = ",
+				"title": "8273 - 6437 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "136(+)",
-						"text": "136"
+						"id": "1836(+)",
+						"text": "1836"
 					},
 					{
-						"id": "135",
-						"text": "135"
+						"id": "1835",
+						"text": "1835"
 					},
 					{
-						"id": "146",
-						"text": "146"
+						"id": "1846",
+						"text": "1846"
 					},
 					{
-						"id": "137",
-						"text": "137"
+						"id": "1837",
+						"text": "1837"
 					}
 				]
 			},
 			{
-				"title": "367 + 456 = ",
+				"title": "767 + 456 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "723",
-						"text": "723"
+						"id": "1123",
+						"text": "1123"
 					},
 					{
-						"id": "813",
-						"text": "813"
+						"id": "1213",
+						"text": "1213"
 					},
 					{
-						"id": "823(+)",
-						"text": "823"
+						"id": "1223(+)",
+						"text": "1223"
 					},
 					{
-						"id": "713",
-						"text": "713"
+						"id": "1323",
+						"text": "1323"
 					}
 				]
 			},
 			{
-				"title": "872 - 583 = ",
+				"title": "1872 - 983 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "389",
-						"text": "389"
+						"id": "989",
+						"text": "989"
 					},
 					{
-						"id": "299",
-						"text": "299"
+						"id": "899",
+						"text": "899"
 					},
 					{
-						"id": "289(+)",
-						"text": "289"
+						"id": "889(+)",
+						"text": "889"
 					},
 					{
-						"id": "399",
-						"text": "399"
+						"id": "999",
+						"text": "999"
 					}
 				]
 			},
 			{
-				"title": "345 + 264 = ",
+				"title": "1345 + 764 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "509",
-						"text": "509"
+						"id": "2009",
+						"text": "2009"
 					},
 					{
-						"id": "699",
-						"text": "699"
+						"id": "2199",
+						"text": "2199"
 					},
 					{
-						"id": "599",
-						"text": "599"
+						"id": "2099",
+						"text": "2099"
 					},
 					{
-						"id": "609(+)",
-						"text": "609"
+						"id": "2109(+)",
+						"text": "2109"
 					}
 				]
 			},
 			{
-				"title": "12 x 11 = ",
+				"title": "13 x 15 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "132(+)",
-						"text": "132"
+						"id": "195(+)",
+						"text": "195"
 					},
 					{
-						"id": "131",
-						"text": "131"
+						"id": "185",
+						"text": "185"
 					},
 					{
-						"id": "121",
-						"text": "121"
+						"id": "205",
+						"text": "205"
 					},
 					{
-						"id": "122",
-						"text": "122"
+						"id": "175",
+						"text": "175"
 					}
 				]
 			},
 			{
-				"title": "14 x 13 = ",
+				"title": "17 x 13 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "78+84",
-						"text": "78+84"
+						"id": "231",
+						"text": "231"
 					},
 					{
-						"id": "87+105",
-						"text": "87+105"
+						"id": "241",
+						"text": "241"
 					},
 					{
-						"id": "98+74",
-						"text": "98+74"
+						"id": "211",
+						"text": "211"
 					},
 					{
-						"id": "88+94 (+)",
-						"text": "88+94"
+						"id": "221 (+)",
+						"text": "221"
 					}
 				]
 			},
 			{
-				"title": "195 / 15 = ",
+				"title": "196 / 14 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "7+5",
-						"text": "7+5"
+						"id": "5+8",
+						"text": "5+8"
 					},
 					{
-						"id": "6+7(+)",
-						"text": "6+7"
+						"id": "7+7(+)",
+						"text": "7+7"
 					},
 					{
-						"id": "8+3",
-						"text": "8+3"
+						"id": "8+8",
+						"text": "8+8"
 					},
 					{
-						"id": "7+8",
-						"text": "7+8"
+						"id": "7+6",
+						"text": "7+6"
 					}
 				]
 			},
 			{
-				"title": "(74 - 29) / 3 = ",
+				"title": "(774 - 729) / 3 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
@@ -456,7 +456,7 @@
 				]
 			},
 			{
-				"title": "(221 - 137) / 7 = ",
+				"title": "(321 - 237) / 7 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
@@ -481,27 +481,27 @@
 				]	
 			},
 			{
-				"title": "6547 + 2658 = ",
+				"title": "6547 + 5658 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "8205",
-						"text": "8205"
+						"id": "11205",
+						"text": "11205"
 					},
 					{
-						"id": "9205(+)",
-						"text": "9205"
+						"id": "12205(+)",
+						"text": "12205"
 					},
 					{
-						"id": "9215",
-						"text": "9215"
+						"id": "12215",
+						"text": "12215"
 					},
 					{
-						"id": "9206",
-						"text": "9206"
+						"id": "12206",
+						"text": "12206"
 					}
 				]
 			},
@@ -531,102 +531,102 @@
 				]
 			},
 			{
-				"title": "2367 + 5456 = ",
+				"title": "6367 + 5456 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "7723",
-						"text": "7723"
+						"id": "11723",
+						"text": "11723"
 					},
 					{
-						"id": "7813",
-						"text": "7813"
+						"id": "11813",
+						"text": "11813"
 					},
 					{
-						"id": "7823(+)",
-						"text": "7823"
+						"id": "11823(+)",
+						"text": "11823"
 					},
 					{
-						"id": "7713",
-						"text": "7713"
+						"id": "10823",
+						"text": "10823"
 					}
 				]
 			},
 			{
-				"title": "9872 - 3583 = ",
+				"title": "9872 - 3983 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "6389",
-						"text": "6389"
+						"id": "5789",
+						"text": "5789"
 					},
 					{
-						"id": "6299",
-						"text": "6299"
+						"id": "6889",
+						"text": "6889"
 					},
 					{
-						"id": "6289(+)",
-						"text": "6289"
+						"id": "5889(+)",
+						"text": "5889"
 					},
 					{
-						"id": "6399",
-						"text": "6399"
+						"id": "5899",
+						"text": "5899"
 					}
 				]
 			},
 			{
-				"title": "7345 + 6264 = ",
+				"title": "7345 + 6864 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "13509",
-						"text": "13509"
+						"id": "13209",
+						"text": "13209"
 					},
 					{
-						"id": "13699",
-						"text": "13699"
+						"id": "13199",
+						"text": "13199"
 					},
 					{
-						"id": "13599",
-						"text": "13599"
+						"id": "14199",
+						"text": "14199"
 					},
 					{
-						"id": "13609(+)",
-						"text": "13609"
+						"id": "14209(+)",
+						"text": "14209"
 					}
 				]
 			},
 			{
-				"title": "12 x 16 = ",
+				"title": "18 x 16 = ",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "97+95(+)",
-						"text": "97+95"
+						"id": "288(+)",
+						"text": "288"
 					},
 					{
-						"id": "87+95",
-						"text": "87+95"
+						"id": "278",
+						"text": "278"
 					},
 					{
-						"id": "96+106",
-						"text": "96+106"
+						"id": "268",
+						"text": "268"
 					},
 					{
-						"id": "107+105",
-						"text": "107+105"
+						"id": "298",
+						"text": "298"
 					}
 				]
 			},
