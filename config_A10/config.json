@@ -266,136 +266,641 @@
 			]
 		},
 		{
-			"title": "The ACCI Academic Program to test a pilot study: choosing the preferred image",
-			"type": "message",
-			"isHiddenTimer": true,
-			"timer": 4
-		},
-		{
-			"title": "I. Thought experiment: You find two little kittens in the street. It's snowing. You can bring home only one kitten, please choose one:",
-			"type": "images",
-			"timer": 15,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Fire5_4sec.gif",
-			"pauseTimer": 6,
-			"options": [
-				{
-					"id": "Cat BP Blue",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blu.png"
-				},
-				{
-					"id": "Cat BY Verde",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY%20verde.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				}
-				
-			]
-		},
-		{
-			"title": "II. Thought experiment: You find three little dogs in the street. It's snowing. You can bring home only one dog, please choose one:",
-			"type": "images",
-			"timer": 12,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-SetG5_6sec.gif",
-			"pauseTimer": 6,
-			"options": [
-				{
-					"id": "Dog Blue",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Blue.png"
-				},
-				{
-					"id": "Dog Violet",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Violet.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Dog Green",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Dog%20Green.png"
-				}
-			]
-		},
-		{
-			"title": "III. Please choose one image from three options that you like",
-			"type": "images",
-			"timer": 6,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config_math/ImagesMath/GIF-Scarpe2_6sec.gif",
-			"pauseTimer": 6,
-			"options": [
-				{
-					"id": "Chicken Blue",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Blue.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Chicken Green",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Green.png"
-				},
-				{
-					"id": "Chicken Violet",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Chicken%20Violet.png"
-				}
-			]
-		},
-		{
-			"title": "iv. Please choose one image from two options that you like",
-			"type": "images",
-			"timer": 9,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-			"pauseTimer": 3,
-			"options": [
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Cat BY Verde",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BY%20verde.png"
-				},
-				{
-					"id": "Cat BP Blue",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/noname/Cat%20BP%20blu.png"
-				}
-			]
-		},
-		{
-			"title": "Thank you so much for your kind help!",
-			"type": "images",
-			"timer": 1,
-			"pauseImageLink": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
-			"pauseTimer": 1,
-			"options": [
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				},
-				{
-					"id": "Null",
-					"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
-				}
-			]
-		}
-	]
-}
+				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A20.",
+				"type": "message",
+				"isHiddenTimer": true,
+				"timer": 30
+			},
+			{
+				"title": "Pear",
+				"type": "images",
+				"timer": 3,
+				"oldStyle": true,
+				"isHiddenTimer": true,
+				"ignoreAnswer": true,
+				"options": [
+					{
+						"id": "1",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
+					},
+					{
+						"id": "2",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					},
+					{
+						"id": "3",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					},
+					{
+						"id": "4",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					}
+				]
+			},
+			{
+				"title": "Apple",
+				"type": "images",
+				"timer": 3,
+				"oldStyle": true,
+				"isHiddenTimer": true,
+				"ignoreAnswer": true,
+				"options": [
+					{
+						"id": "1",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
+					},
+					{
+						"id": "2",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/apple.png"
+					},
+					{
+						"id": "3",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					},
+					{
+						"id": "4",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					}
+				]
+			},
+			{
+				"title": "Banana",
+				"type": "images",
+				"timer": 3,
+				"oldStyle": true,
+				"isHiddenTimer": true,
+				"ignoreAnswer": true,
+				"options": [
+					{
+						"id": "1",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
+					},
+					{
+						"id": "2",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/apple.png"
+					},
+					{
+						"id": "3",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
+					},
+					{
+						"id": "4",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png"
+					}
+				]
+			},
+			{
+				"title": "Grapes",
+				"type": "images",
+				"timer": 3,
+				"oldStyle": true,
+				"isHiddenTimer": true,
+				"ignoreAnswer": true,
+				"options": [
+					{
+						"id": "1",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/pear.png"
+					},
+					{
+						"id": "2",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/apple.png"
+					},
+					{
+						"id": "3",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/banana.png"
+					},
+					{
+						"id": "4",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/grapes.png"
+					}
+				]
+			},
+			{
+				"title": "Please choose:",
+				"type": "images",
+				"timer":"15",
+				"isHiddenTimer":false,
+				"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
+				"pauseTimer":"3",
+				"options": [
+					{
+						"id": "(-)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/candy.png"
+					},
+					{
+						"id": "(+)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/kiwi.png"
+					},
+					{
+						"id": "(-)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/tomato.png"
+					},
+					{
+						"id": "(-)",
+						"link": "https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/potato.png"
+					}
+					
+				]
+			},
+			{
+				"title": "877 + 358 = ?",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "1225",
+						"text": "1225"
+					},
+					{
+						"id": "1235(+)",
+						"text": "1235"
+					},
+					{
+						"id": "1135",
+						"text": "1135"
+					},
+					{
+						"id": "1125",
+						"text": "1125"
+					}
+				]
+			},
+			{
+				"title": "8273 - 6437 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "1836(+)",
+						"text": "1836"
+					},
+					{
+						"id": "1835",
+						"text": "1835"
+					},
+					{
+						"id": "1846",
+						"text": "1846"
+					},
+					{
+						"id": "1837",
+						"text": "1837"
+					}
+				]
+			},
+			{
+				"title": "767 + 456 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "1123",
+						"text": "1123"
+					},
+					{
+						"id": "1213",
+						"text": "1213"
+					},
+					{
+						"id": "1223(+)",
+						"text": "1223"
+					},
+					{
+						"id": "1323",
+						"text": "1323"
+					}
+				]
+			},
+			{
+				"title": "1872 - 983 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "989",
+						"text": "989"
+					},
+					{
+						"id": "899",
+						"text": "899"
+					},
+					{
+						"id": "889(+)",
+						"text": "889"
+					},
+					{
+						"id": "999",
+						"text": "999"
+					}
+				]
+			},
+			{
+				"title": "1345 + 764 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "2009",
+						"text": "2009"
+					},
+					{
+						"id": "2199",
+						"text": "2199"
+					},
+					{
+						"id": "2099",
+						"text": "2099"
+					},
+					{
+						"id": "2109(+)",
+						"text": "2109"
+					}
+				]
+			},
+			{
+				"title": "13 x 15 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "195(+)",
+						"text": "195"
+					},
+					{
+						"id": "185",
+						"text": "185"
+					},
+					{
+						"id": "205",
+						"text": "205"
+					},
+					{
+						"id": "175",
+						"text": "175"
+					}
+				]
+			},
+			{
+				"title": "17 x 13 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "231",
+						"text": "231"
+					},
+					{
+						"id": "241",
+						"text": "241"
+					},
+					{
+						"id": "211",
+						"text": "211"
+					},
+					{
+						"id": "221 (+)",
+						"text": "221"
+					}
+				]
+			},
+			{
+				"title": "196 / 14 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "5+8",
+						"text": "5+8"
+					},
+					{
+						"id": "7+7(+)",
+						"text": "7+7"
+					},
+					{
+						"id": "8+8",
+						"text": "8+8"
+					},
+					{
+						"id": "7+6",
+						"text": "7+6"
+					}
+				]
+			},
+			{
+				"title": "(774 - 729) / 3 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "12",
+						"text": "12"
+					},
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "15(+)",
+						"text": "15"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					}
+				]
+			},
+			{
+				"title": "(321 - 237) / 7 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11",
+						"text": "11"
+					},
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "12(+)",
+						"text": "12"
+					}
+				]	
+			},
+			{
+				"title": "6547 + 5658 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11205",
+						"text": "11205"
+					},
+					{
+						"id": "12205(+)",
+						"text": "12205"
+					},
+					{
+						"id": "12215",
+						"text": "12215"
+					},
+					{
+						"id": "12206",
+						"text": "12206"
+					}
+				]
+			},
+			{
+				"title": "7773 - 4387 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "3386(+)",
+						"text": "3386"
+					},
+					{
+						"id": "3286",
+						"text": "3286"
+					},
+					{
+						"id": "3296",
+						"text": "3296"
+					},
+					{
+						"id": "3396",
+						"text": "3396"
+					}
+				]
+			},
+			{
+				"title": "6367 + 5456 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11723",
+						"text": "11723"
+					},
+					{
+						"id": "11813",
+						"text": "11813"
+					},
+					{
+						"id": "11823(+)",
+						"text": "11823"
+					},
+					{
+						"id": "10823",
+						"text": "10823"
+					}
+				]
+			},
+			{
+				"title": "9872 - 3983 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "5789",
+						"text": "5789"
+					},
+					{
+						"id": "6889",
+						"text": "6889"
+					},
+					{
+						"id": "5889(+)",
+						"text": "5889"
+					},
+					{
+						"id": "5899",
+						"text": "5899"
+					}
+				]
+			},
+			{
+				"title": "7345 + 6864 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "13209",
+						"text": "13209"
+					},
+					{
+						"id": "13199",
+						"text": "13199"
+					},
+					{
+						"id": "14199",
+						"text": "14199"
+					},
+					{
+						"id": "14209(+)",
+						"text": "14209"
+					}
+				]
+			},
+			{
+				"title": "18 x 16 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "288(+)",
+						"text": "288"
+					},
+					{
+						"id": "278",
+						"text": "278"
+					},
+					{
+						"id": "268",
+						"text": "268"
+					},
+					{
+						"id": "298",
+						"text": "298"
+					}
+				]
+			},
+			{
+				"title": "16 x 17 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "262",
+						"text": "262"
+					},
+					{
+						"id": "282",
+						"text": "282"
+					},
+					{
+						"id": "242",
+						"text": "242"
+					},
+					{
+						"id": "272(+)",
+						"text": "272"
+					}
+				]
+			},
+			{
+				"title": "(262 - 38) / 16 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "12",
+						"text": "12"
+					},
+					{
+						"id": "14(+)",
+						"text": "14"
+					},
+					{
+						"id": "16",
+						"text": "16"
+					},
+					{
+						"id": "18",
+						"text": "18"
+					}
+				]
+			},
+			{
+				"title": "(438 - 256) / 14 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "12",
+						"text": "12"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "13(+)",
+						"text": "13"
+					},
+					{
+						"id": "16",
+						"text": "16"
+					}
+				]
+			},
+			{
+				"title": "(7221 - 7137) / 7 = ",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11",
+						"text": "11"
+					},
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "12(+)",
+						"text": "12"
+					}
+				]	
+			}
+		]
+	}
