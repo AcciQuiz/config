@@ -905,7 +905,7 @@
 			{
 				"title": "2(3x–2)–3=17",
 				"type": "question",
-				"timer": 15,
+				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -934,7 +934,7 @@
 			{
 				"title": "(40–3x)7x=896",
 				"type": "question",
-				"timer": 15,
+				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -963,7 +963,7 @@
 			{
 				"title": "(4x–3)3x +4=382",
 				"type": "question",
-				"timer": 15,
+				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -992,7 +992,7 @@
 			{
 				"title": "(39–9x)3x=108",
 				"type": "question",
-				"timer": 15,
+				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1021,7 +1021,7 @@
 			{
 				"title": "3(8x+2)–3x=72",
 				"type": "question",
-				"timer": 15,
+				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1050,7 +1050,7 @@
 			{
 				"title": "45x –2x(35–3x)–3=63",
 				"type": "question",
-				"timer": 15,
+				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1079,7 +1079,7 @@
 			{
 				"title": "72x +(29–4x)8x=624",
 				"type": "question",
-				"timer": 15,
+				"timer": 60,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1105,5 +1105,92 @@
 					}
 				]
 			},
+			{
+				"title": "(2x+17)3x–16=1460",
+				"type": "question",
+				"timer": 60,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "16",
+						"text": "16"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "12 (+)",
+						"text": "12"
+					},
+					{
+						"id": "11",
+						"text": "11"
+					}
+				]
+			},
+			{
+				"title": "7x –(88–5x)2x=17",
+				"type": "question",
+				"timer": 60,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "16",
+						"text": "16"
+					},
+					{
+						"id": "17 (+)",
+						"text": "17"
+					},
+					{
+						"id": "18",
+						"text": "18"
+					}
+				]
+			},
+			{
+				"title": "14x +(81–3x)17x=4008",
+				"type": "question",
+				"timer": 60,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "21",
+						"text": "21"
+					},
+					{
+						"id": "22",
+						"text": "22"
+					},
+					{
+						"id": "23",
+						"text": "23"
+					},
+					{
+						"id": "24 (+)",
+						"text": "24"
+					},
+					{
+						"id": "25",
+						"text": "25"
+					}
+				]
+			}
 		]
 	}
