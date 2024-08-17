@@ -6,7 +6,7 @@
 	},
 	"config": [
 		{
-			"title": "Registration. Please select one of the years from the list below in the screen that relates to the YEAR of your birthday",
+			"title": "Please select one of the years",
 			"type": "question",
 			"timer": 18,
 			"pauseTimer": 0,
@@ -154,7 +154,7 @@
 			]
 		},
 		{
-			"title": "Registration. Please choose one letter from the list below which relates to your name.",
+			"title": "Please choose one letter",
 			"type": "question",
 			"timer": 12,
 			"pauseTimer": 0,
@@ -266,7 +266,7 @@
 			]
 		},
 		{
-				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A20.",
+				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A30.",
 				"type": "message",
 				"isHiddenTimer": true,
 				"timer": 30
@@ -911,23 +911,23 @@
 				"options": [
 					{
 						"id": "3",
-						"text": "3"
+						"text": "x=3"
 					},
 					{
 						"id": "4(+)",
-						"text": "4"
+						"text": "x=4"
 					},
 					{
 						"id": "6",
-						"text": "6"
+						"text": "x=6"
 					},
 					{
 						"id": "7",
-						"text": "7"
+						"text": "x=7"
 					},
 					{
 						"id": "8",
-						"text": "8"
+						"text": "x=8"
 					}
 				]
 			},
@@ -940,23 +940,23 @@
 				"options": [
 					{
 						"id": "9",
-						"text": "9"
+						"text": "x=9"
 					},
 					{
 						"id": "8(+)",
-						"text": "8"
+						"text": "x=8"
 					},
 					{
 						"id": "7",
-						"text": "7"
+						"text": "x=7"
 					},
 					{
 						"id": "6",
-						"text": "6"
+						"text": "x=6"
 					},
 					{
 						"id": "4",
-						"text": "4"
+						"text": "x=4"
 					}
 				]
 			},
@@ -969,23 +969,23 @@
 				"options": [
 					{
 						"id": "3",
-						"text": "3"
+						"text": "x=3"
 					},
 					{
 						"id": "4",
-						"text": "4"
+						"text": "x=4"
 					},
 					{
 						"id": "6 (+)",
-						"text": "6"
+						"text": "x=6"
 					},
 					{
 						"id": "7",
-						"text": "7"
+						"text": "x=7"
 					},
 					{
 						"id": "8",
-						"text": "8"
+						"text": "x=8"
 					}
 				]
 			},
@@ -1048,7 +1048,7 @@
 				]
 			},
 			{
-				"title": "45x –2x(35–3x)–3=63",
+				"title": "45x –2x(35–3x)=66",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
@@ -1077,7 +1077,7 @@
 				]
 			},
 			{
-				"title": "72x +(29–4x)8x=624",
+				"title": "8x(29–4x)+72x=624",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
@@ -1106,7 +1106,7 @@
 				]
 			},
 			{
-				"title": "(2x+17)3x–16=1460",
+				"title": "(2x+17)3x=1476",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
@@ -1164,7 +1164,7 @@
 				]
 			},
 			{
-				"title": "14x +(81–3x)17x=4008",
+				"title": "(81–3x)17x=3672",
 				"type": "question",
 				"timer": 60,
 				"isHiddenTimer": true,
