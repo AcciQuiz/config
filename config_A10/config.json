@@ -901,6 +901,209 @@
 						"text": "12"
 					}
 				]	
-			}
+			},
+			{
+				"title": "2(3x–2)–3=17",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "3",
+						"text": "3"
+					},
+					{
+						"id": "4(+)",
+						"text": "4"
+					},
+					{
+						"id": "6",
+						"text": "6"
+					},
+					{
+						"id": "7",
+						"text": "7"
+					},
+					{
+						"id": "8",
+						"text": "8"
+					}
+				]
+			},
+			{
+				"title": "(40–3x)7x=896",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "9",
+						"text": "9"
+					},
+					{
+						"id": "8(+)",
+						"text": "8"
+					},
+					{
+						"id": "7",
+						"text": "7"
+					},
+					{
+						"id": "6",
+						"text": "6"
+					},
+					{
+						"id": "4",
+						"text": "4"
+					}
+				]
+			},
+			{
+				"title": "(4x–3)3x +4=382",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "3",
+						"text": "3"
+					},
+					{
+						"id": "4",
+						"text": "4"
+					},
+					{
+						"id": "6 (+)",
+						"text": "6"
+					},
+					{
+						"id": "7",
+						"text": "7"
+					},
+					{
+						"id": "8",
+						"text": "8"
+					}
+				]
+			},
+			{
+				"title": "(39–9x)3x=108",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "7",
+						"text": "7"
+					},
+					{
+						"id": "6",
+						"text": "6"
+					},
+					{
+						"id": "4",
+						"text": "4"
+					},
+					{
+						"id": "3 (+)",
+						"text": "3"
+					},
+					{
+						"id": "2",
+						"text": "2"
+					}
+				]
+			},
+			{
+				"title": "3(8x+2)–3x=72",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "4",
+						"text": "4"
+					},
+					{
+						"id": "5",
+						"text": "5"
+					},
+					{
+						"id": "6",
+						"text": "6"
+					},
+					{
+						"id": "7",
+						"text": "7"
+					},
+					{
+						"id": "8 (+)",
+						"text": "8"
+					}
+				]
+			},
+			{
+				"title": "45x –2x(35–3x)–3=63",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "4",
+						"text": "4"
+					},
+					{
+						"id": "5",
+						"text": "5"
+					},
+					{
+						"id": "6 (+)",
+						"text": "6"
+					},
+					{
+						"id": "7",
+						"text": "7"
+					},
+					{
+						"id": "8",
+						"text": "8"
+					}
+				]
+			},
+			{
+				"title": "72x +(29–4x)8x=624",
+				"type": "question",
+				"timer": 15,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "4",
+						"text": "4"
+					},
+					{
+						"id": "5",
+						"text": "5"
+					},
+					{
+						"id": "6",
+						"text": "6"
+					},
+					{
+						"id": "7",
+						"text": "7"
+					},
+					{
+						"id": "3 (+)",
+						"text": "3"
+					}
+				]
+			},
 		]
 	}
