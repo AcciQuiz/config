@@ -94,13 +94,13 @@
 				]
 			},
 			{
-				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A20.",
+				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A1.",
 				"type": "message",
 				"isHiddenTimer": true,
 				"timer": 30
 			},
 			{
-				"title": "Counting",
+				"title": "Pear",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -126,7 +126,7 @@
 				]
 			},
 			{
-				"title": "Counting",
+				"title": "Apple",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -152,7 +152,7 @@
 				]
 			},
 			{
-				"title": "Counting",
+				"title": "Banana",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -178,7 +178,7 @@
 				]
 			},
 			{
-				"title": "Counting",
+				"title": "Grapes",
 				"type": "images",
 				"timer": 3,
 				"oldStyle": true,
@@ -383,7 +383,7 @@
 			{
 				"title": "14 x 13 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -408,7 +408,7 @@
 			{
 				"title": "195 / 15 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -433,7 +433,7 @@
 			{
 				"title": "(74 - 29) / 3 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -458,7 +458,7 @@
 			{
 				"title": "(221 - 137) / 7 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -483,7 +483,7 @@
 			{
 				"title": "6547 + 2658 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -508,7 +508,7 @@
 			{
 				"title": "7773 - 4387 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -533,7 +533,7 @@
 			{
 				"title": "2367 + 5456 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -558,7 +558,7 @@
 			{
 				"title": "9872 - 3583 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -583,7 +583,7 @@
 			{
 				"title": "7345 + 6264 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -608,7 +608,7 @@
 			{
 				"title": "12 x 16 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -633,7 +633,7 @@
 			{
 				"title": "16 x 17 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
