@@ -289,7 +289,7 @@
 				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A30.",
 				"type": "message",
 				"isHiddenTimer": true,
-				"timer": 30
+				"timer": 15
 			},
 			{
 				"title": "Pear",
@@ -425,7 +425,7 @@
 			{
 				"title": "877 + 358 = ?",
 				"type": "question",
-				"timer": 15,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
