@@ -289,7 +289,7 @@
 				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A30.",
 				"type": "message",
 				"isHiddenTimer": true,
-				"timer": 15
+				"timer": 9
 			},
 			{
 				"title": "Pear",
@@ -398,7 +398,7 @@
 			{
 				"title": "Please choose:",
 				"type": "images",
-				"timer":"15",
+				"timer":"9",
 				"isHiddenTimer":false,
 				"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"pauseTimer":"3",
@@ -450,7 +450,7 @@
 			{
 				"title": "8273 - 6437 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -475,7 +475,7 @@
 			{
 				"title": "767 + 456 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -575,7 +575,7 @@
 			{
 				"title": "17 x 19 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -625,7 +625,7 @@
 			{
 				"title": "(774 - 729) / 3 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -650,7 +650,7 @@
 			{
 				"title": "(321 - 237) / 7 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -700,7 +700,7 @@
 			{
 				"title": "7773 - 4387 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -725,7 +725,7 @@
 			{
 				"title": "6367 + 5456 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -750,7 +750,7 @@
 			{
 				"title": "9872 - 3983 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -775,7 +775,7 @@
 			{
 				"title": "7345 + 6864 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -850,7 +850,7 @@
 			{
 				"title": "(262 - 38) / 16 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -875,7 +875,7 @@
 			{
 				"title": "(438 - 256) / 14 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -900,7 +900,7 @@
 			{
 				"title": "(7228 - 7137) / 7 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -925,7 +925,7 @@
 			{
 				"title": "2(3x–2)–3=17",
 				"type": "question",
-				"timer": 60,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -954,7 +954,7 @@
 			{
 				"title": "(40–3x)7x=896",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -983,7 +983,7 @@
 			{
 				"title": "(4x–3)3x +4=382",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1012,7 +1012,7 @@
 			{
 				"title": "(39–9x)3x=108",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1041,7 +1041,7 @@
 			{
 				"title": "3(8x+2)–3x=72",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1070,7 +1070,7 @@
 			{
 				"title": "2x(35–3x)=204",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1099,7 +1099,7 @@
 			{
 				"title": "(29–4x)8x=408",
 				"type": "question",
-				"timer": 60,
+				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1211,6 +1211,256 @@
 						"text": "25"
 					}
 				]
+			},
+		{
+				"title": "6507 + 5658 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11155",
+						"text": "11155"
+					},
+					{
+						"id": "12165(+)",
+						"text": "12165"
+					},
+					{
+						"id": "12265",
+						"text": "12265"
+					},
+					{
+						"id": "12065",
+						"text": "12065"
+					}
+				]
+			},
+			{
+				"title": "7273 - 4387 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "2886(+)",
+						"text": "2886"
+					},
+					{
+						"id": "3886",
+						"text": "3886"
+					},
+					{
+						"id": "2786",
+						"text": "2786"
+					},
+					{
+						"id": "2986",
+						"text": "2986"
+					}
+				]
+			},
+			{
+				"title": "6767 + 5456 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11223",
+						"text": "11223"
+					},
+					{
+						"id": "12213",
+						"text": "12213"
+					},
+					{
+						"id": "12223(+)",
+						"text": "12223"
+					},
+					{
+						"id": "12123",
+						"text": "12123"
+					}
+				]
+			},
+			{
+				"title": "9772 - 3883 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "5789",
+						"text": "5789"
+					},
+					{
+						"id": "6889",
+						"text": "6889"
+					},
+					{
+						"id": "5889(+)",
+						"text": "5889"
+					},
+					{
+						"id": "5899",
+						"text": "5899"
+					}
+				]
+			},
+			{
+				"title": "7356 + 6865 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "13221",
+						"text": "13221"
+					},
+					{
+						"id": "14121",
+						"text": "14121"
+					},
+					{
+						"id": "14211",
+						"text": "14211"
+					},
+					{
+						"id": "14221(+)",
+						"text": "14221"
+					}
+				]
+			},
+			{
+				"title": "18 x 24 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "432(+)",
+						"text": "432"
+					},
+					{
+						"id": "442",
+						"text": "442"
+					},
+					{
+						"id": "422",
+						"text": "422"
+					},
+					{
+						"id": "402",
+						"text": "402"
+					}
+				]
+			},
+			{
+				"title": "23 x 17 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "381",
+						"text": "381"
+					},
+					{
+						"id": "371",
+						"text": "371"
+					},
+					{
+						"id": "401",
+						"text": "401"
+					},
+					{
+						"id": "391(+)",
+						"text": "391"
+					}
+				]
+			},
+			{
+				"title": "(278 - 38) / 16 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "14",
+						"text": "14"
+					},
+					{
+						"id": "15(+)",
+						"text": "15"
+					},
+					{
+						"id": "16",
+						"text": "16"
+					},
+					{
+						"id": "18",
+						"text": "18"
+					}
+				]
+			},
+			{
+				"title": "(452 - 256) / 14 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "12",
+						"text": "12"
+					},
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "14(+)",
+						"text": "14"
+					},
+					{
+						"id": "16",
+						"text": "16"
+					}
+				]
+			},
+			{
+				"title": "(7235 - 7137) / 7 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "11",
+						"text": "11"
+					},
+					{
+						"id": "12",
+						"text": "12"
+					},
+					{
+						"id": "13",
+						"text": "13"
+					},
+					{
+						"id": "14(+)",
+						"text": "14"
+					}
+				]	
 			}
 		]
 	}
