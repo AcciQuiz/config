@@ -506,7 +506,7 @@
 				"options": [
 					{
 						"id": "10989",
-						"text": "989"
+						"text": "10989"
 					},
 					{
 						"id": "9889",
@@ -514,7 +514,7 @@
 					},
 					{
 						"id": "10889(+)",
-						"text": "889"
+						"text": "10889"
 					},
 					{
 						"id": "10999",
@@ -848,77 +848,77 @@
 				]
 			},
 			{
-				"title": "(262 - 38) / 16 = ",
+				"title": "(522 - 138) / 16 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "12",
-						"text": "12"
+						"id": "22",
+						"text": "22"
 					},
 					{
-						"id": "14(+)",
-						"text": "14"
+						"id": "24(+)",
+						"text": "24"
 					},
 					{
-						"id": "16",
-						"text": "16"
+						"id": "26",
+						"text": "26"
 					},
 					{
-						"id": "18",
-						"text": "18"
+						"id": "34",
+						"text": "34"
 					}
 				]
 			},
 			{
-				"title": "(438 - 256) / 14 = ",
+				"title": "(578 - 256) / 14 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "12",
-						"text": "12"
-					},
-					{
-						"id": "14",
-						"text": "14"
-					},
-					{
-						"id": "13(+)",
+						"id": "13",
 						"text": "13"
 					},
 					{
-						"id": "16",
-						"text": "16"
+						"id": "21",
+						"text": "21"
+					},
+					{
+						"id": "23(+)",
+						"text": "23"
+					},
+					{
+						"id": "26",
+						"text": "26"
 					}
 				]
 			},
 			{
-				"title": "(7235 - 7137) / 7 = ",
+				"title": "(7305 - 7137) / 7 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "11",
-						"text": "11"
-					},
-					{
-						"id": "12",
-						"text": "12"
-					},
-					{
-						"id": "14(+)",
+						"id": "14",
 						"text": "14"
 					},
 					{
-						"id": "13",
-						"text": "13"
+						"id": "22",
+						"text": "22"
+					},
+					{
+						"id": "24(+)",
+						"text": "24"
+					},
+					{
+						"id": "26",
+						"text": "26"
 					}
 				]	
 			},
@@ -1263,148 +1263,148 @@
 				]
 			},
 			{
-				"title": "6767 + 5456 = ",
+				"title": "46767 + 35456 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "11223",
-						"text": "11223"
+						"id": "81223",
+						"text": "81223"
 					},
 					{
-						"id": "12213",
-						"text": "12213"
+						"id": "82213",
+						"text": "82213"
 					},
 					{
-						"id": "12223(+)",
-						"text": "12223"
+						"id": "82223(+)",
+						"text": "82223"
 					},
 					{
-						"id": "12123",
-						"text": "12123"
+						"id": "82123",
+						"text": "82123"
 					}
 				]
 			},
 			{
-				"title": "9772 - 3883 = ",
+				"title": "99772 - 63883 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "5789",
-						"text": "5789"
+						"id": "35789",
+						"text": "35789"
 					},
 					{
-						"id": "6889",
-						"text": "6889"
+						"id": "36889",
+						"text": "36889"
 					},
 					{
-						"id": "5889(+)",
-						"text": "5889"
+						"id": "35889(+)",
+						"text": "35889"
 					},
 					{
-						"id": "5899",
-						"text": "5899"
+						"id": "35899",
+						"text": "35899"
 					}
 				]
 			},
 			{
-				"title": "7356 + 6865 = ",
+				"title": "47356 + 76865 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "13221",
-						"text": "13221"
+						"id": "123221",
+						"text": "123221"
 					},
 					{
-						"id": "14121",
-						"text": "14121"
+						"id": "124121",
+						"text": "124121"
 					},
 					{
-						"id": "14211",
-						"text": "14211"
+						"id": "114221",
+						"text": "114221"
 					},
 					{
-						"id": "14221(+)",
-						"text": "14221"
+						"id": "124221(+)",
+						"text": "124221"
 					}
 				]
 			},
 			{
-				"title": "18 x 24 = ",
+				"title": "38 x 24 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "432(+)",
-						"text": "432"
+						"id": "912(+)",
+						"text": "912"
 					},
 					{
-						"id": "442",
-						"text": "442"
+						"id": "902",
+						"text": "902"
 					},
 					{
-						"id": "422",
-						"text": "422"
+						"id": "882",
+						"text": "882"
 					},
 					{
-						"id": "402",
-						"text": "402"
+						"id": "892",
+						"text": "892"
 					}
 				]
 			},
 			{
-				"title": "23 x 17 = ",
+				"title": "23 x 27 = ",
 				"type": "question",
 				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "381",
-						"text": "381"
+						"id": "641",
+						"text": "641"
 					},
 					{
-						"id": "371",
-						"text": "371"
+						"id": "611",
+						"text": "611"
 					},
 					{
-						"id": "401",
-						"text": "401"
+						"id": "601",
+						"text": "601"
 					},
 					{
-						"id": "391(+)",
-						"text": "391"
+						"id": "621(+)",
+						"text": "621"
 					}
 				]
 			},
 			{
-				"title": "(278 - 38) / 16 = ",
+				"title": "(478 - 238) / 15 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "14",
-						"text": "14"
-					},
-					{
-						"id": "15(+)",
+						"id": "15",
 						"text": "15"
 					},
 					{
-						"id": "16",
+						"id": "16(+)",
 						"text": "16"
+					},
+					{
+						"id": "20",
+						"text": "20"
 					},
 					{
 						"id": "18",
@@ -1413,7 +1413,7 @@
 				]
 			},
 			{
-				"title": "(452 - 256) / 14 = ",
+				"title": "(1052 - 856) / 14 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
@@ -1438,27 +1438,27 @@
 				]
 			},
 			{
-				"title": "(7235 - 7137) / 7 = ",
+				"title": "(7347 - 7137) / 7 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "11",
-						"text": "11"
+						"id": "18",
+						"text": "18"
 					},
 					{
 						"id": "12",
 						"text": "12"
 					},
 					{
-						"id": "13",
-						"text": "13"
+						"id": "14",
+						"text": "14"
 					},
 					{
-						"id": "14(+)",
-						"text": "14"
+						"id": "16(+)",
+						"text": "16"
 					}
 				]	
 			}
