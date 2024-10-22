@@ -8,7 +8,7 @@
 			{
 				"title": "I am APIN system. Please select one of the years.",
 				"type": "question",
-				"timer": 30,
+				"timer": 12,
 				"pauseTimer": 3,
 				"options": [
 					{
@@ -68,7 +68,7 @@
 			{
 				"title": "Please choose:",
 				"type": "question",
-				"timer": 9,
+				"timer": 12,
 				"pauseTimer": 3,
 				"options": [
 					{
@@ -153,7 +153,7 @@
 				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A20.",
 				"type": "message",
 				"isHiddenTimer": true,
-				"timer": 30
+				"timer": 12
 			},
 			{
 				"title": "Pear",
