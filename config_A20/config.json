@@ -6,7 +6,7 @@
 		},
 		"config": [
 			{
-				"title": "I am APIN system. Please select one of the years.",
+				"title": "I am APIN system. Please select one of the years belowe.",
 				"type": "question",
 				"timer": 12,
 				"pauseTimer": 3,
