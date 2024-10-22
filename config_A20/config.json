@@ -8,7 +8,7 @@
 			{
 				"title": "I am APIN system. Please select one of the years.",
 				"type": "question",
-				"timer": 60,
+				"timer": 30,
 				"pauseTimer": 3,
 				"options": [
 					{
@@ -42,6 +42,26 @@
 					{
 						"id": "2000-2005",
 						"text": "2000-2005"
+					},
+					{
+						"id": "2006-2010",
+						"text": "2006-2010"
+					},
+					{
+						"id": "2011",
+						"text": "2011"
+					},
+					{
+						"id": "2012",
+						"text": "2012"
+					},
+					{
+						"id": "2013",
+						"text": "2013"
+					},
+					{
+						"id": "2014",
+						"text": "2014"
 					}
 				]
 			},
@@ -90,6 +110,42 @@
 					{
 						"id": "J",
 						"text": "J"
+					},
+					{
+						"id": "K",
+						"text": "K"
+					},
+					{
+						"id": "L",
+						"text": "L"
+					},
+					{
+						"id": "M",
+						"text": "M"
+					},
+					{
+						"id": "N",
+						"text": "N"
+					},
+					{
+						"id": "O",
+						"text": "O"
+					},
+					{
+						"id": "P",
+						"text": "P"
+					},
+					{
+						"id": "R",
+						"text": "R"
+					},
+					{
+						"id": "S",
+						"text": "S"
+					},
+					{
+						"id": "T",
+						"text": "T"
 					}
 				]
 			},
