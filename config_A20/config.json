@@ -287,7 +287,7 @@
 				]
 			},
 			{
-				"title": "878 + 357 = ?",
+				"title": "879 + 356 = ?",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -312,7 +312,7 @@
 				]
 			},
 			{
-				"title": "9273 - 7437 = ",
+				"title": "8274 - 6436 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -337,32 +337,32 @@
 				]
 			},
 			{
-				"title": "766 + 457 = ",
+				"title": "2766 + 3457 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "1123",
-						"text": "1123"
+						"id": "6123",
+						"text": "6123"
 					},
 					{
-						"id": "1213",
-						"text": "1213"
+						"id": "6213",
+						"text": "6213"
 					},
 					{
-						"id": "1223(+)",
-						"text": "1223"
+						"id": "6223(+)",
+						"text": "6223"
 					},
 					{
-						"id": "1323",
-						"text": "1323"
+						"id": "6323",
+						"text": "6323"
 					}
 				]
 			},
 			{
-				"title": "1873 - 984 = ",
+				"title": "3873 - 2984 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -387,7 +387,7 @@
 				]
 			},
 			{
-				"title": "1345 + 1764 = ",
+				"title": "1344 + 1765 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -462,7 +462,7 @@
 				]
 			},
 			{
-				"title": "196 / 14 = ",
+				"title": "224 / 14 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -473,12 +473,12 @@
 						"text": "5+8"
 					},
 					{
-						"id": "7+7(+)",
-						"text": "7+7"
+						"id": "9+7(+)",
+						"text": "9+7"
 					},
 					{
-						"id": "8+8",
-						"text": "8+8"
+						"id": "8+7",
+						"text": "8+7"
 					},
 					{
 						"id": "7+6",
@@ -787,7 +787,7 @@
 				]	
 			},
 			{
-				"title": "4(3x–2)=40",
+				"title": "8(3x–2)=80",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
@@ -816,7 +816,7 @@
 				]
 			},
 			{
-				"title": "41–3x=17",
+				"title": "2(41–3x)=34",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
@@ -845,7 +845,7 @@
 				]
 			},
 			{
-				"title": "4x–5=19",
+				"title": "7(4x–5)=133",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
@@ -874,7 +874,7 @@
 				]
 			},
 			{
-				"title": "38–9x=11",
+				"title": "5(38–9x)=55",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
