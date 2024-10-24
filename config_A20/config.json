@@ -412,52 +412,52 @@
 				]
 			},
 			{
-				"title": "13 x 15 = ",
+				"title": "14 x 15 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "195(+)",
-						"text": "195"
+						"id": "210(+)",
+						"text": "210"
 					},
 					{
-						"id": "185",
-						"text": "185"
+						"id": "190",
+						"text": "190"
 					},
 					{
-						"id": "205",
-						"text": "205"
+						"id": "200",
+						"text": "200"
 					},
 					{
-						"id": "175",
-						"text": "175"
+						"id": "220",
+						"text": "220"
 					}
 				]
 			},
 			{
-				"title": "17 x 13 = ",
+				"title": "17 x 19 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "231",
-						"text": "231"
+						"id": "333",
+						"text": "333"
 					},
 					{
-						"id": "241",
-						"text": "241"
+						"id": "313",
+						"text": "313"
 					},
 					{
-						"id": "211",
-						"text": "211"
+						"id": "303",
+						"text": "303"
 					},
 					{
-						"id": "221 (+)",
-						"text": "221"
+						"id": "323 (+)",
+						"text": "323"
 					}
 				]
 			},
@@ -487,7 +487,7 @@
 				]
 			},
 			{
-				"title": "(773 - 728) / 3 = ",
+				"title": "(673 - 628) / 3 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -762,7 +762,7 @@
 				]
 			},
 			{
-				"title": "(7221 - 7137) / 7 = ",
+				"title": "(5221 - 5137) / 7 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
