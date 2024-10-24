@@ -412,77 +412,77 @@
 				]
 			},
 			{
-				"title": "14 x 15 = ",
+				"title": "423 x 3 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "210(+)",
-						"text": "210"
+						"id": "1269(+)",
+						"text": "1269"
 					},
 					{
-						"id": "190",
-						"text": "190"
+						"id": "1359",
+						"text": "1359"
 					},
 					{
-						"id": "200",
-						"text": "200"
+						"id": "1279",
+						"text": "1279"
 					},
 					{
-						"id": "220",
-						"text": "220"
+						"id": "1369",
+						"text": "1369"
 					}
 				]
 			},
 			{
-				"title": "17 x 19 = ",
+				"title": "317 x 4 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "333",
-						"text": "333"
+						"id": "1168",
+						"text": "1168"
 					},
 					{
-						"id": "313",
-						"text": "313"
+						"id": "1368",
+						"text": "1368"
 					},
 					{
-						"id": "303",
-						"text": "303"
+						"id": "1158",
+						"text": "1158"
 					},
 					{
-						"id": "323 (+)",
-						"text": "323"
+						"id": "1268 (+)",
+						"text": "1268"
 					}
 				]
 			},
 			{
-				"title": "224 / 14 = ",
+				"title": "308 / 14 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "5+8",
-						"text": "5+8"
+						"id": "23",
+						"text": "23"
 					},
 					{
-						"id": "9+7(+)",
-						"text": "9+7"
+						"id": "22(+)",
+						"text": "22"
 					},
 					{
-						"id": "8+7",
-						"text": "8+7"
+						"id": "24",
+						"text": "24"
 					},
 					{
-						"id": "7+6",
-						"text": "7+6"
+						"id": "21",
+						"text": "21"
 					}
 				]
 			},
@@ -662,27 +662,27 @@
 				]
 			},
 			{
-				"title": "18 x 16 = ",
+				"title": "358 x 6 = ",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "288(+)",
-						"text": "288"
+						"id": "2148(+)",
+						"text": "2148"
 					},
 					{
-						"id": "278",
-						"text": "278"
+						"id": "2138",
+						"text": "2138"
 					},
 					{
-						"id": "268",
-						"text": "268"
+						"id": "2128",
+						"text": "2128"
 					},
 					{
-						"id": "298",
-						"text": "298"
+						"id": "2248",
+						"text": "2248"
 					}
 				]
 			},
