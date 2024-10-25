@@ -153,7 +153,7 @@
 				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A20.",
 				"type": "message",
 				"isHiddenTimer": true,
-				"timer": 12
+				"timer": 9
 			},
 			{
 				"title": "Pear",
@@ -287,27 +287,27 @@
 				]
 			},
 			{
-				"title": "879 + 356 = ?",
+				"title": "2879 + 6356 = ?",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "1225",
-						"text": "1225"
+						"id": "9225",
+						"text": "9225"
 					},
 					{
-						"id": "1235(+)",
-						"text": "1235"
+						"id": "9235(+)",
+						"text": "9235"
 					},
 					{
-						"id": "1135",
-						"text": "1135"
+						"id": "9135",
+						"text": "9135"
 					},
 					{
-						"id": "1125",
-						"text": "1125"
+						"id": "9125",
+						"text": "9125"
 					}
 				]
 			},
@@ -319,8 +319,8 @@
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "1836(+)",
-						"text": "1836"
+						"id": "1838(+)",
+						"text": "1838"
 					},
 					{
 						"id": "1835",
@@ -337,27 +337,27 @@
 				]
 			},
 			{
-				"title": "2766 + 3457 = ",
+				"title": "4766 + 3457 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "6123",
-						"text": "6123"
+						"id": "8123",
+						"text": "8123"
 					},
 					{
-						"id": "6213",
-						"text": "6213"
+						"id": "8213",
+						"text": "8213"
 					},
 					{
-						"id": "6223(+)",
-						"text": "6223"
+						"id": "8223(+)",
+						"text": "8223"
 					},
 					{
-						"id": "6323",
-						"text": "6323"
+						"id": "8323",
+						"text": "8323"
 					}
 				]
 			},
@@ -462,23 +462,23 @@
 				]
 			},
 			{
-				"title": "308 / 14 = ",
+				"title": "372 / 12 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "23",
-						"text": "23"
+						"id": "26",
+						"text": "26"
 					},
 					{
-						"id": "22(+)",
-						"text": "22"
+						"id": "31(+)",
+						"text": "31"
 					},
 					{
-						"id": "24",
-						"text": "24"
+						"id": "36",
+						"text": "36"
 					},
 					{
 						"id": "21",
@@ -514,7 +514,7 @@
 			{
 				"title": "(322 - 238) / 7 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -562,27 +562,27 @@
 				]
 			},
 			{
-				"title": "7773 - 4387 = ",
+				"title": "6773 - 4387 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "3386(+)",
+						"id": "2386(+)",
+						"text": "2386"
+					},
+					{
+						"id": "2286",
+						"text": "2286"
+					},
+					{
+						"id": "3386",
 						"text": "3386"
 					},
 					{
-						"id": "3286",
-						"text": "3286"
-					},
-					{
-						"id": "3296",
-						"text": "3296"
-					},
-					{
-						"id": "3396",
-						"text": "3396"
+						"id": "2396",
+						"text": "2396"
 					}
 				]
 			},
@@ -714,7 +714,7 @@
 			{
 				"title": "(262 - 38) / 16 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -739,7 +739,7 @@
 			{
 				"title": "(438 - 256) / 14 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -764,7 +764,7 @@
 			{
 				"title": "(5221 - 5137) / 7 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -789,7 +789,7 @@
 			{
 				"title": "8(3x–2)=80",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -818,7 +818,7 @@
 			{
 				"title": "2(41–3x)=34",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -847,7 +847,7 @@
 			{
 				"title": "7(4x–5)=133",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -876,7 +876,7 @@
 			{
 				"title": "5(38–9x)=55",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -986,6 +986,31 @@
 					{
 						"id": "3 (+)",
 						"text": "3"
+					}
+				]
+			},
+			{
+				"title": "354 x 8 = ",
+				"type": "question",
+				"timer": 45,
+				"isHiddenTimer": true,
+				"pauseTimer": 3,
+				"options": [
+					{
+						"id": "2832(+)",
+						"text": "2832"
+					},
+					{
+						"id": "2732",
+						"text": "2732"
+					},
+					{
+						"id": "2932",
+						"text": "2932"
+					},
+					{
+						"id": "3832",
+						"text": "3832"
 					}
 				]
 			},
