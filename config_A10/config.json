@@ -8,7 +8,7 @@
 		{
 			"title": "Please select one of the years",
 			"type": "question",
-			"timer": 18,
+			"timer": 9,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -176,7 +176,7 @@
 		{
 			"title": "Please choose one letter",
 			"type": "question",
-			"timer": 12,
+			"timer": 9,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -600,7 +600,7 @@
 			{
 				"title": "238 / 14 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 15,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -625,7 +625,7 @@
 			{
 				"title": "(774 - 729) / 3 = ",
 				"type": "question",
-				"timer": 39,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -650,7 +650,7 @@
 			{
 				"title": "(321 - 237) / 7 = ",
 				"type": "question",
-				"timer": 39,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -850,7 +850,7 @@
 			{
 				"title": "(522 - 138) / 16 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -875,7 +875,7 @@
 			{
 				"title": "(578 - 256) / 14 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -900,7 +900,7 @@
 			{
 				"title": "(7375 - 7137) / 7 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -981,7 +981,7 @@
 				]
 			},
 			{
-				"title": "(4x–3)3x +4=382",
+				"title": "(4x–3)3x + 4=382",
 				"type": "question",
 				"timer": 45,
 				"isHiddenTimer": true,
@@ -1240,7 +1240,7 @@
 			{
 				"title": "67273 - 44387 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1290,7 +1290,7 @@
 			{
 				"title": "99772 - 63883 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1390,7 +1390,7 @@
 			{
 				"title": "(478 - 238) / 15 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1415,7 +1415,7 @@
 			{
 				"title": "(1052 - 856) / 14 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1440,7 +1440,7 @@
 			{
 				"title": "(7319 - 7137) / 7 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
