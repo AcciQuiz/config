@@ -398,7 +398,7 @@
 			{
 				"title": "Please choose:",
 				"type": "images",
-				"timer":"9",
+				"timer":"6",
 				"isHiddenTimer":false,
 				"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"pauseTimer":"3",
