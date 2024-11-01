@@ -8,7 +8,7 @@
 		{
 			"title": "Please select one of the years",
 			"type": "question",
-			"timer": 9,
+			"timer": 6,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -176,7 +176,7 @@
 		{
 			"title": "Please choose one letter",
 			"type": "question",
-			"timer": 9,
+			"timer": 6,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -289,7 +289,7 @@
 				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A30.",
 				"type": "message",
 				"isHiddenTimer": true,
-				"timer": 9
+				"timer": 6
 			},
 			{
 				"title": "Pear",
@@ -548,77 +548,77 @@
 				]
 			},
 			{
-				"title": "22 x 25 = ",
+				"title": "253 x 5 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "570",
-						"text": "570"
+						"id": "1365",
+						"text": "1365"
 					},
 					{
-						"id": "550(+)",
-						"text": "550"
+						"id": "1265(+)",
+						"text": "1265"
 					},
 					{
-						"id": "560",
-						"text": "560"
+						"id": "1165",
+						"text": "1165"
 					},
 					{
-						"id": "450",
-						"text": "450"
+						"id": "1065",
+						"text": "1065"
 					}
 				]
 			},
 			{
-				"title": "27 x 21 = ",
+				"title": "278 x 6 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "557",
-						"text": "557"
+						"id": "1368",
+						"text": "1368"
 					},
 					{
-						"id": "577",
-						"text": "577"
+						"id": "1468",
+						"text": "1468"
 					},
 					{
-						"id": "547",
-						"text": "547"
+						"id": "1568",
+						"text": "1568"
 					},
 					{
-						"id": "567 (+)",
-						"text": "567"
+						"id": "1668 (+)",
+						"text": "1668"
 					}
 				]
 			},
 			{
-				"title": "238 / 14 = ",
+				"title": "378 / 14 = ",
 				"type": "question",
 				"timer": 15,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "15",
-						"text": "15"
-					},
-					{
-						"id": "17(+)",
+						"id": "17",
 						"text": "17"
 					},
 					{
-						"id": "27",
+						"id": "27(+)",
 						"text": "27"
 					},
 					{
-						"id": "19",
-						"text": "19"
+						"id": "22",
+						"text": "22"
+					},
+					{
+						"id": "32",
+						"text": "32"
 					}
 				]
 			},
