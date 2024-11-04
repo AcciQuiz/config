@@ -8,7 +8,7 @@
 		{
 			"title": "Please select one of the years",
 			"type": "question",
-			"timer": 6,
+			"timer": 3,
 			"pauseTimer": 0,
 			"options": [
 				{
@@ -289,7 +289,7 @@
 				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A30.",
 				"type": "message",
 				"isHiddenTimer": true,
-				"timer": 6
+				"timer": 3
 			},
 			{
 				"title": "Pear",
@@ -434,41 +434,41 @@
 						"text": "59225"
 					},
 					{
-						"id": "58235",
-						"text": "58235"
+						"id": "59235(+)",
+						"text": "59235"
 					},
 					{
 						"id": "59135",
 						"text": "59135"
 					},
 					{
-						"id": "59235 (+)",
-						"text": "59235"
+						"id": "59236",
+						"text": "59236"
 					}
 				]
 			},
 			{
-				"title": "18273 - 6477 = ",
+				"title": "18273 - 9477 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "11896",
-						"text": "11896"
+						"id": "8896",
+						"text": "8896"
 					},
 					{
-						"id": "11796(+)",
-						"text": "11796"
+						"id": "8796(+)",
+						"text": "8796"
 					},
 					{
-						"id": "11786",
-						"text": "11786"
+						"id": "8786",
+						"text": "8786"
 					},
 					{
-						"id": "11886",
-						"text": "11886"
+						"id": "8886",
+						"text": "8886"
 					}
 				]
 			},
@@ -548,27 +548,27 @@
 				]
 			},
 			{
-				"title": "253 x 5 = ",
+				"title": "253 x 6 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "1365",
-						"text": "1365"
+						"id": "1618",
+						"text": "1618"
 					},
 					{
-						"id": "1265(+)",
-						"text": "1265"
+						"id": "1518(+)",
+						"text": "1518"
 					},
 					{
-						"id": "1165",
-						"text": "1165"
+						"id": "1528",
+						"text": "1528"
 					},
 					{
-						"id": "1065",
-						"text": "1065"
+						"id": "1418",
+						"text": "1418"
 					}
 				]
 			},
@@ -598,77 +598,77 @@
 				]
 			},
 			{
-				"title": "378 / 14 = ",
+				"title": "518 / 14 = ",
 				"type": "question",
 				"timer": 15,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "17",
-						"text": "17"
-					},
-					{
-						"id": "27(+)",
+						"id": "27",
 						"text": "27"
 					},
 					{
-						"id": "22",
-						"text": "22"
+						"id": "37(+)",
+						"text": "37"
 					},
 					{
 						"id": "32",
 						"text": "32"
+					},
+					{
+						"id": "42",
+						"text": "42"
 					}
 				]
 			},
 			{
-				"title": "(774 - 729) / 3 = ",
+				"title": "(780 - 729) / 3 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "12",
-						"text": "12"
+						"id": "27",
+						"text": "27"
 					},
 					{
 						"id": "13",
 						"text": "13"
 					},
 					{
-						"id": "15(+)",
-						"text": "15"
+						"id": "17(+)",
+						"text": "17"
 					},
 					{
-						"id": "14",
-						"text": "14"
+						"id": "19",
+						"text": "19"
 					}
 				]
 			},
 			{
-				"title": "(321 - 237) / 7 = ",
+				"title": "(349 - 237) / 7 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "11",
-						"text": "11"
+						"id": "18",
+						"text": "18"
 					},
 					{
-						"id": "13",
-						"text": "13"
+						"id": "26",
+						"text": "26"
 					},
 					{
 						"id": "14",
 						"text": "14"
 					},
 					{
-						"id": "12(+)",
-						"text": "12"
+						"id": "16(+)",
+						"text": "16"
 					}
 				]	
 			},
