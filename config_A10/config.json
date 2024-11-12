@@ -1292,7 +1292,7 @@
 		{
 				"title": "26507 + 25658 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1317,7 +1317,7 @@
 			{
 				"title": "67273 - 44387 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1342,7 +1342,7 @@
 			{
 				"title": "46767 + 35456 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1367,7 +1367,7 @@
 			{
 				"title": "99772 - 63883 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1392,7 +1392,7 @@
 			{
 				"title": "47356 + 76865 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1417,7 +1417,7 @@
 			{
 				"title": "38 x 24 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1467,7 +1467,7 @@
 			{
 				"title": "(478 - 238) / 15 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1492,7 +1492,7 @@
 			{
 				"title": "(1052 - 856) / 14 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
