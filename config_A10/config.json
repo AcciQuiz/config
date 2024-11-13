@@ -482,12 +482,12 @@
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "59124(+)",
-						"text": "59124"
-					},
-					{
 						"id": "59224",
 						"text": "59224"
+					},
+					{
+						"id": "59124(+)",
+						"text": "59124"
 					},
 					{
 						"id": "58124",
@@ -502,7 +502,7 @@
 			{
 				"title": "18277 - 9478 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -527,7 +527,7 @@
 			{
 				"title": "47767 + 23456 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -552,7 +552,7 @@
 			{
 				"title": "12872 - 1983 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -577,7 +577,7 @@
 			{
 				"title": "5345 + 9764 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -650,7 +650,7 @@
 				]
 			},
 			{
-				"title": "658 / 14 = ",
+				"title": "588 / 14 = ",
 				"type": "question",
 				"timer": 15,
 				"isHiddenTimer": true,
@@ -661,11 +661,11 @@
 						"text": "47"
 					},
 					{
-						"id": "37(+)",
+						"id": "37",
 						"text": "37"
 					},
 					{
-						"id": "42",
+						"id": "42(+)",
 						"text": "42"
 					},
 					{
@@ -727,7 +727,7 @@
 			{
 				"title": "36547 + 25658 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -752,7 +752,7 @@
 			{
 				"title": "37773 - 24387 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -777,7 +777,7 @@
 			{
 				"title": "46367 + 35456 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -802,7 +802,7 @@
 			{
 				"title": "59872 - 23983 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -827,7 +827,7 @@
 			{
 				"title": "47345 + 16864 = ",
 				"type": "question",
-				"timer": 30,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -900,7 +900,7 @@
 				]
 			},
 			{
-				"title": "(522 - 138) / 16 = ",
+				"title": "(554 - 138) / 16 = ",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -911,11 +911,11 @@
 						"text": "22"
 					},
 					{
-						"id": "24(+)",
+						"id": "24",
 						"text": "24"
 					},
 					{
-						"id": "26",
+						"id": "26(+)",
 						"text": "26"
 					},
 					{
@@ -975,7 +975,7 @@
 				]	
 			},
 			{
-				"title": "2(3x–9)=78",
+				"title": "2(3x–9)+93=171",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
@@ -1292,7 +1292,7 @@
 		{
 				"title": "26507 + 25658 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1317,7 +1317,7 @@
 			{
 				"title": "67273 - 44387 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1342,7 +1342,7 @@
 			{
 				"title": "46767 + 35456 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1367,7 +1367,7 @@
 			{
 				"title": "99772 - 63883 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1392,7 +1392,7 @@
 			{
 				"title": "47356 + 76865 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1417,7 +1417,7 @@
 			{
 				"title": "38 x 24 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
@@ -1442,7 +1442,7 @@
 			{
 				"title": "23 x 27 = ",
 				"type": "question",
-				"timer": 24,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
