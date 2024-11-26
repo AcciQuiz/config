@@ -650,26 +650,26 @@
 				]
 			},
 			{
-				"title": "588 / 14 = ",
+				"title": "(588+56)/ 14 = ",
 				"type": "question",
 				"timer": 15,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "47",
-						"text": "47"
+						"id": "52",
+						"text": "52"
 					},
 					{
-						"id": "37",
-						"text": "37"
+						"id": "36",
+						"text": "36"
 					},
 					{
-						"id": "42(+)",
+						"id": "42",
 						"text": "42"
 					},
 					{
-						"id": "46",
+						"id": "46(+)",
 						"text": "46"
 					}
 				]
