@@ -475,43 +475,43 @@
 				]
 			},
 			{
-				"title": "22766 + 36358 = ?",
+				"title": "12767 + 36358 = ?",
 				"type": "question",
 				"timer": 30,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "59224",
-						"text": "59224"
+						"id": "49225",
+						"text": "49225"
 					},
 					{
-						"id": "59124(+)",
-						"text": "59124"
+						"id": "49125(+)",
+						"text": "49125"
 					},
 					{
-						"id": "58124",
-						"text": "58124"
+						"id": "48125",
+						"text": "48125"
 					},
 					{
-						"id": "59214",
-						"text": "59214"
+						"id": "49215",
+						"text": "49215"
 					}
 				]
 			},
 			{
-				"title": "18277 - 9478 = ",
+				"title": "18276 - 9478 = ",
 				"type": "question",
 				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "8898",
-						"text": "8898"
+						"id": "8798(+)",
+						"text": "8798"
 					},
 					{
-						"id": "8799(+)",
+						"id": "8799",
 						"text": "8799"
 					},
 					{
@@ -1465,7 +1465,7 @@
 				]
 			},
 			{
-				"title": "(478 - 238) / 15 = ",
+				"title": "(493 - 238) / 15 = ",
 				"type": "question",
 				"timer": 24,
 				"isHiddenTimer": true,
@@ -1476,12 +1476,12 @@
 						"text": "15"
 					},
 					{
-						"id": "16(+)",
+						"id": "16",
 						"text": "16"
 					},
 					{
-						"id": "20",
-						"text": "20"
+						"id": "17(+)",
+						"text": "17"
 					},
 					{
 						"id": "18",
@@ -1490,15 +1490,15 @@
 				]
 			},
 			{
-				"title": "(1052 - 856) / 14 = ",
+				"title": "(1066 - 856) / 14 = ",
 				"type": "question",
 				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "12",
-						"text": "12"
+						"id": "15(+)",
+						"text": "15"
 					},
 					{
 						"id": "13",
