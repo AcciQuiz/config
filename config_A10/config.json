@@ -1062,31 +1062,27 @@
 				]
 			},
 			{
-				"title": "(39–9x)3x=108",
+				"title": "(425 - 238) / 11 = ",
 				"type": "question",
-				"timer": 45,
+				"timer": 24,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "7",
-						"text": "7"
+						"id": "27",
+						"text": "27"
 					},
 					{
-						"id": "6",
-						"text": "6"
+						"id": "16",
+						"text": "16"
 					},
 					{
-						"id": "4",
-						"text": "4"
+						"id": "17(+)",
+						"text": "17"
 					},
 					{
-						"id": "3 (+)",
-						"text": "3"
-					},
-					{
-						"id": "2",
-						"text": "2"
+						"id": "18",
+						"text": "18"
 					}
 				]
 			},
@@ -1203,33 +1199,29 @@
 				]
 			},
 			{
-				"title": "(2x+17)3x=1476",
+				"title": "(7551 - 7137) / 9 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "16",
-						"text": "16"
+						"id": "48",
+						"text": "48"
 					},
 					{
-						"id": "14",
-						"text": "14"
+						"id": "56",
+						"text": "56"
 					},
 					{
-						"id": "13",
-						"text": "13"
+						"id": "44",
+						"text": "44"
 					},
 					{
-						"id": "12 (+)",
-						"text": "12"
-					},
-					{
-						"id": "11",
-						"text": "11"
+						"id": "46(+)",
+						"text": "46"
 					}
-				]
+				]	
 			},
 			{
 				"title": "(88–5x)2x=102",
@@ -1239,12 +1231,12 @@
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "13",
-						"text": "13"
+						"id": "15",
+						"text": "15"
 					},
 					{
-						"id": "14",
-						"text": "14"
+						"id": "18",
+						"text": "18"
 					},
 					{
 						"id": "16",
@@ -1261,35 +1253,31 @@
 				]
 			},
 			{
-				"title": "(81–3x)17x=3672",
+				"title": "(7445 - 7137) / 7 = ",
 				"type": "question",
-				"timer": 60,
+				"timer": 21,
 				"isHiddenTimer": true,
 				"pauseTimer": 3,
 				"options": [
 					{
-						"id": "21",
-						"text": "21"
+						"id": "54",
+						"text": "54"
 					},
 					{
-						"id": "22",
-						"text": "22"
+						"id": "44(+)",
+						"text": "44"
 					},
 					{
-						"id": "23",
-						"text": "23"
+						"id": "34",
+						"text": "34"
 					},
 					{
-						"id": "24 (+)",
-						"text": "24"
-					},
-					{
-						"id": "25",
-						"text": "25"
+						"id": "46",
+						"text": "46"
 					}
-				]
+				]	
 			},
-		{
+			{
 				"title": "26507 + 25658 = ",
 				"type": "question",
 				"timer": 21,
