@@ -8,7 +8,7 @@
 			{
 				"title": "I am APIN system. Nice to meet you! Please select one of the years.",
 				"type": "question",
-				"timer": 6,
+				"timer": 3,
 				"pauseTimer": 3,
 				"options": [
 					{
