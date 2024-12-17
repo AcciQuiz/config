@@ -8,7 +8,7 @@
 			{
 				"title": "I am APIN system. Nice to meet you! Please select one of the years.",
 				"type": "question",
-				"timer": 60,
+				"timer": 6,
 				"pauseTimer": 3,
 				"options": [
 					{
@@ -48,7 +48,7 @@
 			{
 				"title": "Please choose one letter.",
 				"type": "question",
-				"timer": 9,
+				"timer": 6,
 				"pauseTimer": 3,
 				"options": [
 					{
@@ -97,7 +97,7 @@
 				"title": "Acoustic Photonic Intellectual Neurostimulation (APIN) System A1.",
 				"type": "message",
 				"isHiddenTimer": true,
-				"timer": 30
+				"timer": 3
 			},
 			{
 				"title": "Pear",
@@ -206,7 +206,7 @@
 			{
 				"title": "Please choose",
 				"type": "images",
-				"timer":"30",
+				"timer":"3",
 				"isHiddenTimer":false,
 				"pauseImageLink":"https://raw.githubusercontent.com/AcciQuiz/config/main/config/images/null.png",
 				"pauseTimer":"3",
